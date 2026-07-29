@@ -139,6 +139,71 @@ Not every program needs autoclave cure or 5-axis machining. As part of our carbo
 
 Our carbon fiber manufacturing services follow a predictable path that keeps engineering teams informed at every step. It begins with a design for manufacturability review, where we flag draft, radii and datum issues before tooling money is spent. Next we build and validate the mold with a first-article, then run a prototype batch so you can confirm fit and function. Once the tool is released, we ramp into production with an agreed inspection plan and milestone schedule. Throughout, we communicate cure cycles, material lots and measurement results so your sourcing team always knows the status of the build.
 
+## Process Selection Decision Guide
+
+Choosing the right forming route is the single most consequential decision in any carbon fiber program, because it sets the cost floor, the achievable tolerance and the inspection burden for every part thereafter. As part of our carbon fiber manufacturing services we give every new program a short decision guide so the customer can see why a given method was recommended rather than receiving a quote built on an assumption.
+
+The three primary laminating routes we operate are prepreg molding, wet hand layup and resin infusion. They are not interchangeable, and the right answer depends on quantity, performance class and surface expectation.
+
+### Prepreg vs Wet Layup vs Infusion
+
+Prepreg molding uses fiber pre-impregnated by the supplier at a fixed resin content. It gives the tightest fiber volume control, the lowest voids and the most predictable mechanicals, which is why we default to it for structural and aerospace-class work. The trade-off is material cost and cold-chain handling, but for production that discipline pays back in rejection-free runs.
+
+Wet layup, sometimes called wet hand layup, applies liquid resin by brush or roller as the dry fabric is placed. It is the most economical route for large panels and very low volumes, and it tolerates tooling that would be expensive to build for prepreg. The cost is lower process control: resin content varies with the technician and the ambient temperature, so mechanical properties have a wider band.
+
+Resin infusion, usually vacuum-assisted resin transfer molding, draws resin through a dry fiber stack under vacuum. It suits large, moderately complex parts and delivers good fiber wet-out with low voids and very low styrene emission. Infusion tooling can be less costly than autoclave-rated prepreg tooling, but cycle time is longer and the laminate is harder to make net near aerospace tolerance.
+
+We summarize the choice in the following comparison so our customers can sanity-check the recommendation:
+
+| Factor | Prepreg | Wet layup | Infusion |
+| --- | --- | --- | --- |
+| Fiber volume control | Excellent | Moderate | Good |
+| Void content | Lowest | Higher | Low |
+| Tooling cost | Higher | Lowest | Low to moderate |
+| Best volume | Prototype to high | Very low | Low to medium |
+| Surface both sides | Yes | One good side | Yes |
+| Cycle time | Short | Medium | Long |
+
+Our carbon fiber manufacturing services team uses this table together with your drawing to recommend the leanest route that still meets the performance requirement, and we will state plainly when a cheaper method would compromise your function. For early-stage validation we often point customers to our [carbon fiber prototyping services](/carbon-fiber-prototyping-services/) before committing to a production route.
+
+## Autoclave vs Oven Cure
+
+Within any laminating route, the cure step decides consolidation and void content. The two industrial options are oven cure under vacuum bag and autoclave cure under added pressure.
+
+Oven curing places the vacuum-bagged part in a heated chamber and pulls vacuum on the laminate to compact it. It is robust, lower cost and adequate for most industrial, UAV and consumer parts where void content below about two to three percent is acceptable. Every oven cycle is logged for temperature uniformity and dwell time.
+
+Autoclave curing adds 6 to 7 bar of inert-gas pressure on top of laminate vacuum. The pressure drives resin into micro-gaps, suppresses voids below one percent and raises the effective fiber volume fraction. For aerospace secondary structures, motorsport load paths and any part where compression strength is specified, autoclave cure is the correct choice. The penalty is capital and cycle cost, plus tooling that must withstand the pressure.
+
+We help customers decide by asking a simple question: is the part loaded in a way where a void becomes a crack initiator? If yes, autoclave; if no, oven. Our carbon fiber manufacturing services quote both paths where the drawing allows it, so the cost difference is visible before commitment. More detail on cure selection is published on our main [carbon fiber manufacturing services](https://techcarbonworks.com/carbon-fiber-manufacturing-services/) page.
+
+## Quality Documentation and Traceability
+
+Documentation is not paperwork to us; it is the proof that the part you receive is the part you approved. Every order under our carbon fiber manufacturing services leaves with a coherent record set:
+
+- Material certificate for each prepreg lot, with fiber type, resin system and shelf status.
+- Laminate build record showing ply count, orientation, sequence and any local reinforcement.
+- Cure cycle log with temperature and pressure trace for the specific part or batch.
+- First-article or CMM inspection report covering the critical dimensions on your drawing.
+- Coating and finishing record where paint, clear coat or printing is specified.
+
+For Western OEM programs we structure these records to satisfy incoming inspection without a site visit, and we retain them for an agreed period so a future audit can reconstruct any shipment. Lot traceability runs from frozen prepreg through packaged part, which means a field question can be answered with data rather than recollection.
+
+## Tooling Strategy for Production Programs
+
+Tooling is the largest single investment in most programs, so our carbon fiber manufacturing services treat tool life and mold strategy as a design decision, not an afterthought. We classify tooling into three tiers:
+
+- Soft tooling, typically silicone or composite, for prototypes and very low volumes where speed matters more than cycle count.
+- Composite or epoxy tooling for medium runs where the part count does not justify metal but the geometry must be stable.
+- CNC-machined aluminum or steel production molds for recurring volume, designed with draft, shut-off and datum features that survive thousands of cycles.
+
+We decide the tier with you based on forecast volume, surface requirement and the number of program revisions still expected. A mold built one tier too high wastes capital; built one tier too low, it fails mid-program and forces a costly re-tool. Our engineers will show the crossover point in the quotation so the choice is transparent. Tool design itself is covered in depth by our [carbon fiber mold making service](/carbon-fiber-mold-making-service/).
+
+## Production Ramp Planning
+
+A smooth ramp protects both your launch schedule and our quality system. Our carbon fiber manufacturing services approach ramp in four phases. Phase one is tool validation with a first-article part and a dimensional report. Phase two is a low-rate initial production batch, typically ten to fifty parts, used to prove the process window and train the cell. Phase three lifts rate while we watch critical dimensions with statistical process control. Phase four is steady production with a confirmed inspection plan and a replenishment schedule.
+
+Throughout the ramp we communicate cure cycles, material lots and measurement trends so your sourcing team sees a problem before it becomes a shipment. This staged discipline is why programs that start as a prototype in our plant can scale to recurring volume without re-qualification drama.
+
 ## Related Pages
 
 Our carbon fiber manufacturing services connect closely with our other capabilities. Review the [custom carbon fiber parts manufacturer](/custom-carbon-fiber-parts-manufacturer/) page for build-to-print production, or the dedicated [CNC machining of carbon fiber parts](/cnc-machining-carbon-fiber-parts/) and [carbon fiber prototyping services](/carbon-fiber-prototyping-services/) pages. Tooling is covered by our [carbon fiber mold making service](/carbon-fiber-mold-making-service/), and industry-specific programs are detailed for [UAV](/uav-carbon-fiber-components-manufacturer/), [aerospace](/aerospace-carbon-fiber-parts-manufacturer/), [motorsport](/motorsport-carbon-fiber-parts-manufacturer/) and [robotics](/robotics-carbon-fiber-parts-manufacturer/) customers.

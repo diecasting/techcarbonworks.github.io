@@ -139,6 +139,49 @@ A strength of our custom carbon fiber parts manufacturer model is the smooth tra
 
 As a custom carbon fiber parts manufacturer, we help customers avoid common pitfalls early. Generous draft angles ease part release from the mold, while minimum radii of one to two millimeters prevent resin starvation at corners. Call out critical datums on the drawing so we machine those features rather than relying on the molded surface, and avoid ultra-thin sections that warp during cure. Where a part must bolt to metal, design for molded-in or post-installed inserts rather than tapped holes in the laminate. Applying these principles during design reduces tooling revisions, shortens lead time and improves the consistency of every custom part we ship to the US, Europe and Australia. Our engineers review each new drawing against this checklist before any mold metal is cut, which is a key reason our first-article acceptance rate stays high.
 
+## RFQ to Delivery Workflow
+
+When an engineering team contacts us as a custom carbon fiber parts manufacturer, the engagement follows a defined path so nothing is lost between the first email and the delivered pallet. The workflow begins when you send drawings, target volumes and performance targets to hank@techcarbonworks.com. We log the inquiry, assign an engineer, and return a design for manufacturability review within a few working days. That review lists draft, radii, datum and insert issues before any tool money is committed.
+
+Next we quote a price and lead time that already reflect the recommended process route and tooling tier. On acceptance we build and validate the mold with a first-article part, then run a prototype or low-rate batch so you can confirm fit. Once the tool is released we ramp into production with the agreed inspection plan. Finally we pack, document and ship under your chosen Incoterm, and we retain the build records for traceability. Each step has a named owner on our side, which is what lets overseas customers manage the program without a site visit.
+
+## DFM Feedback Examples
+
+Design for manufacturability only works if the feedback is specific. As a custom carbon fiber parts manufacturer we return concrete, drawing-level comments rather than vague cautions. Typical feedback we send includes:
+
+- "Increase corner radius from 0.5 mm to 1.5 mm at feature A12 to avoid resin starvation and improve release."
+- "Add 1.5 degrees draft on the side wall so the part ejects without sticking in the aluminum mold."
+- "Datum B is called out on a molded surface; we recommend machining this face so position holds plus or minus 0.05 mm."
+- "Wall thickness tapers from 2.0 mm to 0.8 mm across the span; please keep a minimum of 1.2 mm to prevent cure warp."
+- "Threaded boss at P4 should use a molded-in steel insert rather than a tapped hole in laminate to survive repeated assembly."
+- "Ply orientation in zone C fights the principal load; we suggest adding a plus or minus 45 degree local reinforcement."
+
+These examples are drawn from real reviews. The pattern is consistent: every comment names a feature, explains the failure mode and proposes a fix, so your designer can act without a call. Early validation of this feedback is supported by our [carbon fiber prototyping services](/carbon-fiber-prototyping-services/).
+
+## Tolerance Capability Detail
+
+Beyond the summary table, our custom carbon fiber parts manufacturer process holds the following envelopes as a function of feature type. Molded geometry carries the nominal shape to about plus or minus 0.15 mm; machined faces and bores are tightened to plus or minus 0.05 mm. Flatness across a bonded assembly is held to plus or minus 0.1 mm, and concentricity of machined bores relative to a molded datum is verified on the CMM. Where a feature is fit-critical we machine it and record the tool path; where it is cosmetic we leave it molded and inspect by sample.
+
+We separate molded from machined tolerance deliberately because it is the most reliable way to keep custom parts assembly-ready on customer lines in the US, Europe and Australia. The discipline is shared across our [carbon fiber manufacturing services](/carbon-fiber-manufacturing-services/) so a part specified by one team matches the capability of the next.
+
+## Bonded Inserts and Metal Interfaces
+
+Most custom carbon parts must join to metal, and that interface is where programs succeed or fail. We offer molded-in threaded inserts, post-installed press inserts and bonded metal brackets. Molded-in inserts are placed in the tool before cure so the laminate locks them with full shear area; they survive repeated torque cycles far better than tapped holes in composite. Post-installed inserts are used when the design changes after tooling or when the insert must be heat-resistant steel rather than aluminum.
+
+For bonded metal interfaces we control surface preparation, adhesive selection and cure under pressure so the joint is reproducible. We also manage coefficient-of-thermal-expansion mismatch between carbon and aluminum by selecting adhesives and clearances that tolerate the service temperature range. As a custom carbon fiber parts manufacturer we treat the metal interface as a designed feature, not an afterthought, and we document the bond process in the build record.
+
+## Batch Consistency
+
+A part that works once is a prototype; a part that works every time is a supply. Our custom carbon fiber parts manufacturer system protects consistency through locked process windows: the same prepreg lot family, the same cure cycle, the same machine programs and the same inspection plan from first article to the thousandth unit. We run statistical process control on critical dimensions and review the trend at each replenishment so drift is corrected before it reaches your line.
+
+Cold storage at minus 18C and lot tracking mean the material on part number 500 is the same chemistry as part number one. That continuity is why customers qualify a tool once and then reorder with confidence, and it is the operational backbone described on our main [custom carbon fiber parts manufacturer](https://techcarbonworks.com/custom-carbon-fiber-parts-manufacturer/) page.
+
+## Low-Volume vs Production Pricing Drivers
+
+Understanding price structure helps you plan spend. As a custom carbon fiber parts manufacturer we see cost driven by different factors at different volumes. At low volume, tooling is the dominant cost because it is amortized over few parts, so soft tooling or hand layup can be far cheaper than a hardened aluminum mold. At production volume, material and cycle time dominate, and the right prepreg route and cure method decide the unit price.
+
+Other drivers include part complexity, the number of machined features, surface finish requirement and the inspection depth your program demands. We show these drivers separately in the quotation so you can trade a tighter tolerance or a gloss finish against unit cost with open eyes. This transparency is a core part of how our carbon fiber manufacturing services and custom build-to-print work support sourcing teams worldwide.
+
 ## Related Pages
 
 Our custom carbon fiber parts manufacturer work connects with deeper capability pages. Review our [carbon fiber manufacturing services](/carbon-fiber-manufacturing-services/) overview, the dedicated [CNC machining of carbon fiber parts](/cnc-machining-carbon-fiber-parts/) page, or [carbon fiber prototyping services](/carbon-fiber-prototyping-services/) for early validation. Tooling is covered by [carbon fiber mold making](/carbon-fiber-mold-making-service/), and industry pages detail [UAV](/uav-carbon-fiber-components-manufacturer/), [aerospace](/aerospace-carbon-fiber-parts-manufacturer/), [motorsport](/motorsport-carbon-fiber-parts-manufacturer/) and [robotics](/robotics-carbon-fiber-parts-manufacturer/) programs.

@@ -83,7 +83,7 @@
 
 [[main]]
   name = "Resources"
-  url = "https://techcarbonworks.com/carbon-fiber-manufacturing-blog/"
+  url = "/blog/"
   weight = 5
 
 [[main]]
@@ -204,6 +204,6 @@
 
 [[footer]]
   name = "Carbon Fiber Blog"
-  url = "https://techcarbonworks.com/carbon-fiber-manufacturing-blog/"
+  url = "/blog/"
   parent = "contact"
   weight = 3

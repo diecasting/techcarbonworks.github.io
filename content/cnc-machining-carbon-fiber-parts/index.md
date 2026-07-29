@@ -99,6 +99,56 @@ Every critical dimension is verified on a coordinate measuring machine (CMM) aga
 
 We routinely cut carbon fiber laminates from 0.5 mm thin shim stock up to 25 mm thick plates, including unidirectional, woven twill, and hybrid glass-carbon layups. We also machine carbon tubes, molded brackets, and panels with embedded metal inserts where the cut must avoid the insert while trimming the surrounding composite. Where a part needs both metal and composite features, we coordinate the machining sequence so inserts are not disturbed.
 
+## Fixturing Composite Parts
+
+Fixturing is where most carbon fiber machining programs are won or lost. Unlike metal, a composite laminate is anisotropic, abrasive and easy to crush, so a clamp that would be fine on aluminum can delaminate or distort a CFRP blank. Our approach to fixturing depends on the substrate and the accuracy required.
+
+For flat sheets we use a sealed vacuum table with a sacrificial backing board so the part is held uniformly across its face and the cutting edge exits into support material rather than free air. The backing board also protects the table and improves edge finish at break-through. For plates that need profile cutting on the edge we add soft-edge clamps at low torque, checked against a torque wrench so the laminate is not locally crushed.
+
+Tubes are fixtured on a rotary fourth axis using soft jaws and, where needed, an internal mandrel that supports the wall from inside so cutting forces do not ovalize the section. Molded near-net shells are held in dedicated resin or aluminum location fixtures that reference the molded datum faces, so the 5-axis trim is located from the same features the assembly will use. Every fixture is inspected and its locating faces are CMM-checked at defined intervals, because a worn locating pad is the silent cause of a drifting dimension.
+
+As a shop built around CNC machining carbon fiber parts, we design fixtures as carefully as we design tool paths, and we treat fixture wear as a controlled variable rather than a surprise.
+
+## Tool Wear Management
+
+Diamond and polycrystalline diamond tooling holds an edge far longer than carbide, but it still wears, and worn tooling is the enemy of edge quality and datum accuracy. We manage wear with a documented system rather than visual guesswork. Each tool carries an identity and a log of cut length and part count; we replace inserts on a scheduled basis derived from measured edge roughness on production samples, not when a part already shows fraying.
+
+On long runs we correlate tool life with measured edge finish and cutting-force trend so the next batch is planned before any drift appears. Spindle load monitoring adds a second check: a rising load at constant feed signals a dulling edge, and the cell stops the job for a tool change. This disciplined cadence is what lets a bracket machined today match one machined months later, and it is the quiet difference between a shop that cuts carbon occasionally and one whose core process is CNC machining carbon fiber parts.
+
+## Edge Quality and Delamination Prevention
+
+Edge quality is judged at three levels: no delamination, no fuzz, and a sealed laminate that resists moisture. We prevent delamination through four interlocking controls already applied on every job. Compression routers and matched up-cut or down-cut geometry squeeze the top ply against a backing board so fibers are sheared rather than lifted. Diamond-coated and PCD tools keep cutting forces low by staying sharp. A shallow axial depth with high spindle speed and modest feed avoids the heat and pull-out that tear laminates. Climb cutting with sharp, frequent tool changes stops the edge from dulling into a fiber-ripping wedge.
+
+Beyond the cut, we control fuzz by selecting tool helix and rake suited to the specific weave, and by supporting the exit ply with vacuum or a backing strip at hole break-through. For any part exposed to humidity, fuel or thermal cycling we apply edge sealer, UV-cure resin or a bonded nylon or aluminum edge strip so capillary moisture cannot wick into the cut laminate. This sealing step is especially important on tube cuts and drilled through-holes, where an exposed ply edge would otherwise act like a wick and start long-term delamination.
+
+## 5-Axis Trimming of Molded Shells
+
+Molded shells leave the tool with flash, draft and parting-line witness that must be removed without disturbing the aerodynamic or structural contour. Five-axis trimming lets us reach compound angles and contoured edges in a single setup, holding the tool normal to the surface so the cut is clean and the edge load is even. The shell is located from its molded datum faces in a dedicated fixture, then rough-trimmed near net before a finish pass sets the final contour and hole pattern.
+
+Because the entire trim happens in one clamping, we avoid the cumulative locating error that three-axis multi-setup work would introduce on a curved part. Critical holes and pockets are machined to plus or minus 0.05 mm and verified on the CMM against the same datums the assembly uses. For CNC machining carbon fiber parts with complex curvature, five-axis trimming is the method that delivers a bonded-ready edge without hand finishing. Our [carbon fiber mold making service](/carbon-fiber-mold-making-service/) designs the shells so the trim datums align with assembly datums from the first article.
+
+## Inspection Reports: CMM and First-Article
+
+Quality is proved with data, not assertion. Every critical dimension on a machined carbon part is verified on a coordinate measuring machine against your datum scheme, and the result is captured in a first-article inspection report that accompanies production release. The FAI records feature, nominal, tolerance, measured value and pass or fail, so your incoming inspection can match our numbers line by line.
+
+For repeat batches we maintain statistical process control and supply summary reports that show the dimension trend across the run, not just a single good part. Aerospace and medical programs can receive full traceability covering laminate batch, tooling records and inspection data. Where a contract calls for it, we issue a Certificate of Conformance alongside the CMM and FAI so the documentation set is complete at shipment. Our main [CNC machining carbon fiber parts](https://techcarbonworks.com/cnc-machining-carbon-fiber-parts/) service page details the report formats we supply.
+
+## Machining Tolerances Reference
+
+The table below summarizes the envelopes our CNC machining carbon fiber parts process holds as a function of feature and method. Final numbers are confirmed against your drawing during quotation.
+
+| Feature | Method | Typical tolerance |
+| --- | --- | --- |
+| Profile and contours | 3-axis | plus or minus 0.1 mm |
+| Critical faces and bores | 5-axis | plus or minus 0.05 mm |
+| Hole position | Datum referenced | plus or minus 0.05 mm |
+| Flatness | Ground fixture | plus or minus 0.1 mm |
+| Edge finish | Sealed | Fuzz-free, moisture sealed |
+| Wall thickness (tube) | Rotary 4-axis | plus or minus 0.1 mm |
+| Surface roughness | Machined | As cut, Ra per spec |
+
+Tolerances tighter than plus or minus 0.05 mm on local features are possible with hardened reference fixtures and in-process gauging, and our engineering team will tell you during design review where a tight envelope adds cost and where a looser one is perfectly safe.
+
 ## Industries Served
 
 Our machined carbon components go into UAV airframes and arms, aerospace brackets and fairings, motorsport uprights and panels, robotics links and end-effectors, and medical imaging supports. Each sector brings its own tolerance, traceability, and finish requirements, and our process documentation scales from a simple prototype report to full AS9100-style records.
