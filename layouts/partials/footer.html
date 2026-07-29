@@ -1,0 +1,23 @@
+{{- /* footer.html — Woodsat site footer (grouped columns) */ -}}
+<footer class="site-footer">
+  <div class="footer-container">
+    <div class="footer-col footer-brand">
+      <h4>{{ .Site.Title }}</h4>
+      <p>{{ .Site.Params.description }}</p>
+      {{ with .Site.Params.contact.email }}<p><a href="mailto:{{ . }}">{{ . }}</a></p>{{ end }}
+    </div>
+    {{- range .Site.Menus.footer -}}
+    <div class="footer-col">
+      <h4>{{ .Name }}</h4>
+      <ul>
+        {{- range .Children -}}
+        <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+        {{- end -}}
+      </ul>
+    </div>
+    {{- end -}}
+  </div>
+  <div class="footer-bottom">
+    <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.footer.copyright | default .Site.Title }}. All rights reserved. &middot; <a href="{{ .Site.BaseURL | relLangURL }}">Custom Wooden Speaker Cabinet Manufacturer</a></p>
+  </div>
+</footer>

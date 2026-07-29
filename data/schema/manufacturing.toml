@@ -1,0 +1,49 @@
+# ==========================================================================
+# manufacturing.toml — TechCarbonWorks Manufacturing Capabilities [SITE LAYER]
+# ==========================================================================
+
+# --- Language-neutral equipment & process identifiers ---
+
+[equipment]
+tonnage_range_min = 0
+tonnage_range_max = 0
+key_equipment = [
+  "Autoclave Curing Systems",
+  "Prepreg Cutting Tables",
+  "5-Axis CNC Machining Centers",
+  "Vacuum Bagging Stations",
+  "Clean Layup Rooms",
+  "CMM Inspection Equipment"
+]
+
+[processes]
+core_processes = [
+  "design",
+  "prototype",
+  "layup-molding",
+  "autoclave-curing",
+  "cnc-machining",
+  "inspection"
+]
+
+# --- Localized fields ---
+
+[en]
+knows_about = [
+  "Carbon Fiber Manufacturing",
+  "OEM Composite Components",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Advanced Composite Solutions",
+  "Carbon Fiber Mold Making"
+]
+capabilities_description = "Since 2005, TechCarbonWorks has manufactured custom carbon fiber parts using prepreg molding, hand layup, vacuum bagging, autoclave curing and precision CNC machining — from rapid prototypes to certified OEM production for UAV, aerospace, motorsport and robotics customers worldwide."
+materials_primary = ["Prepreg Carbon Fiber", "Dry Carbon Fabric", "Forged Carbon", "Carbon-Kevlar Hybrid"]
+process_types = [
+  "Prepreg Molding",
+  "Hand Layup & Vacuum Bagging",
+  "Autoclave Curing",
+  "CNC Machining Carbon Fiber",
+  "Carbon Fiber Mold Making",
+  "OEM Program Management"
+]

@@ -1,0 +1,41 @@
+{{- /* =========================================================================
+   seo/hreflang.html — Hreflang SEO Engine
+   ==========================================================================
+   Generates <link rel="alternate" hreflang="..."> tags for all existing
+   translations of the current page.
+
+   Rules:
+   - Only outputs links for translations that actually exist (no broken URLs)
+   - Includes x-default pointing to the default language version
+   - Supports: homepage, landing pages, articles, services
+   ========================================================================= */ -}}
+
+{{- $currentPage := . -}}
+
+{{- /* Get all translations of the current page (including current page) */ -}}
+{{- $allVersions := .Translations -}}
+
+{{- /* Ensure current page is in the list */ -}}
+{{- $hasSelf := false -}}
+{{- range $allVersions -}}
+  {{- if eq .Permalink $currentPage.Permalink -}}
+    {{- $hasSelf = true -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $hasSelf -}}
+  {{- $allVersions = $allVersions | append $currentPage -}}
+{{- end -}}
+
+{{- /* Output hreflang for each existing translation */ -}}
+{{- range $allVersions -}}
+  <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}">
+{{- end -}}
+
+{{- /* Output x-default pointing to default language (lowest weight) version */ -}}
+{{- $defaultVersion := $currentPage -}}
+{{- range $allVersions -}}
+  {{- if lt .Language.Weight $defaultVersion.Language.Weight -}}
+    {{- $defaultVersion = . -}}
+  {{- end -}}
+{{- end -}}
+<link rel="alternate" hreflang="x-default" href="{{ $defaultVersion.Permalink }}">

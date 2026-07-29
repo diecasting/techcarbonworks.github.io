@@ -1,0 +1,25 @@
+# ==========================================================================
+# locations.toml — TechCarbonWorks Facility Location [SITE LAYER]
+# ==========================================================================
+
+# --- Language-neutral location data ---
+
+[[locations]]
+id = "main-facility"
+schema_type = "Place"
+address_locality = "Dongguan"
+address_region = "Guangdong"
+address_country = "CN"
+address_country_iso = "CN"
+latitude = 23.0207
+longitude = 113.7518
+timezone = "Asia/Shanghai"
+facility_type = "Carbon Fiber Composite Manufacturing Facility"
+url = "https://techcarbonworks.com/"
+
+# --- Localized fields ---
+
+[en.main-facility]
+name = "TechCarbonWorks Manufacturing Facility"
+description = "Integrated carbon fiber factory with clean layup rooms, autoclave curing, 5-axis CNC machining, mold making, and CMM inspection under one roof, serving customers worldwide."
+address_display = "Dongguan, Guangdong, China"

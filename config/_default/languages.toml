@@ -1,0 +1,18 @@
+# ==========================================================================
+# languages.toml — TechCarbonWorks Language Configuration (Single Language)
+# ==========================================================================
+# Single-language (English) B2B site built on the Industrial Hugo SEO
+# Framework. Multilingual is disabled in params.toml. If you later enable
+# multilingual, add [de]/[ja] entries here and the matching sections in
+# every data/schema/*.toml file.
+# ==========================================================================
+
+[en]
+  contentDir = "content"
+  locale = "en-US"
+  label = "English"
+  weight = 1
+  title = "TechCarbonWorks"
+
+  [en.params]
+    og_locale = "en_US"

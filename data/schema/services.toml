@@ -1,0 +1,106 @@
+# ==========================================================================
+# services.toml — TechCarbonWorks Service Catalog [SITE LAYER]
+# ==========================================================================
+# Each service needs:
+#   - id: unique identifier (kebab-case, matches content directory name)
+#   - schema_type: "Service" (standard)
+#   - url_path: must match the content directory path (e.g. "/your-service/")
+#   - sort_order: display order
+# Then add localized name/description under [en.<id>].
+# Industry-specific landing pages are registered as services too, so each
+# receives a Service JSON-LD entity via the GEO Schema Engine.
+# ==========================================================================
+
+# --- Service catalog (language-neutral IDs) ---
+
+[[services]]
+id = "carbon-fiber-manufacturing-services"
+schema_type = "Service"
+url_path = "/carbon-fiber-manufacturing-services/"
+sort_order = 1
+
+[[services]]
+id = "custom-carbon-fiber-parts-manufacturer"
+schema_type = "Service"
+url_path = "/custom-carbon-fiber-parts-manufacturer/"
+sort_order = 2
+
+[[services]]
+id = "cnc-machining-carbon-fiber-parts"
+schema_type = "Service"
+url_path = "/cnc-machining-carbon-fiber-parts/"
+sort_order = 3
+
+[[services]]
+id = "carbon-fiber-prototyping-services"
+schema_type = "Service"
+url_path = "/carbon-fiber-prototyping-services/"
+sort_order = 4
+
+[[services]]
+id = "carbon-fiber-mold-making-service"
+schema_type = "Service"
+url_path = "/carbon-fiber-mold-making-service/"
+sort_order = 5
+
+[[services]]
+id = "uav-carbon-fiber-components-manufacturer"
+schema_type = "Service"
+url_path = "/uav-carbon-fiber-components-manufacturer/"
+sort_order = 6
+
+[[services]]
+id = "aerospace-carbon-fiber-parts-manufacturer"
+schema_type = "Service"
+url_path = "/aerospace-carbon-fiber-parts-manufacturer/"
+sort_order = 7
+
+[[services]]
+id = "motorsport-carbon-fiber-parts-manufacturer"
+schema_type = "Service"
+url_path = "/motorsport-carbon-fiber-parts-manufacturer/"
+sort_order = 8
+
+[[services]]
+id = "robotics-carbon-fiber-parts-manufacturer"
+schema_type = "Service"
+url_path = "/robotics-carbon-fiber-parts-manufacturer/"
+sort_order = 9
+
+# --- Localized service names and descriptions ---
+
+[en.carbon-fiber-manufacturing-services]
+name = "Carbon Fiber Manufacturing Services"
+description = "Custom carbon fiber manufacturing services including carbon fiber prototyping, OEM production, prepreg molding, hand layup, vacuum bagging, autoclave curing and CNC machining, serving customers worldwide."
+
+[en.custom-carbon-fiber-parts-manufacturer]
+name = "Custom Carbon Fiber Parts Manufacturer"
+description = "TechCarbonWorks designs and manufactures custom carbon fiber parts to print — from one-off prototypes to certified OEM production runs — with full material traceability and dimensional inspection."
+
+[en.cnc-machining-carbon-fiber-parts]
+name = "CNC Machining Carbon Fiber Parts"
+description = "Precision 3- and 5-axis CNC machining of carbon fiber sheets, tubes and molded components with tight tolerances, clean edges and delamination-free finishes."
+
+[en.carbon-fiber-prototyping-services]
+name = "Carbon Fiber Prototyping Services"
+description = "Rapid carbon fiber prototyping with fast tooling, prepreg or wet layup construction and quick design iterations to move your composite part from CAD to functional prototype."
+
+[en.carbon-fiber-mold-making-service]
+name = "Carbon Fiber Mold Making Service"
+description = "In-house composite mold and tooling fabrication — CNC-machined patterns, composite and aluminum molds — engineered for accurate, repeatable carbon fiber production."
+
+[en.uav-carbon-fiber-components-manufacturer]
+name = "UAV Carbon Fiber Components Manufacturer"
+description = "Lightweight, high-stiffness carbon fiber airframes, arms, plates and booms for UAV and drone platforms where weight, stiffness and consistency decide flight performance."
+
+[en.aerospace-carbon-fiber-parts-manufacturer]
+name = "Aerospace Carbon Fiber Parts Manufacturer"
+description = "Autoclave-cured aerospace-grade carbon fiber components manufactured with controlled processes, material traceability and documented quality inspection."
+
+[en.motorsport-carbon-fiber-parts-manufacturer]
+name = "Motorsport Carbon Fiber Parts Manufacturer"
+description = "Race-proven carbon fiber bodywork, aero components and structural parts built for strength-to-weight, impact resistance and fast turnaround between race seasons."
+
+[en.robotics-carbon-fiber-parts-manufacturer]
+name = "Robotics Carbon Fiber Parts Manufacturer"
+description = "Precision carbon fiber arms, links, frames and end-effector components that lower moving mass and raise stiffness for faster, more accurate robotic systems."

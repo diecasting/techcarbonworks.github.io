@@ -1,0 +1,209 @@
+# ==========================================================================
+# menus.toml — TechCarbonWorks Navigation
+# ==========================================================================
+# Header (main) and Footer navigation.
+# ==========================================================================
+
+# --- Header navigation ---
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[main]]
+  name = "Capabilities"
+  url = "/#capabilities"
+  weight = 2
+
+[[main]]
+  name = "Services"
+  url = "/carbon-fiber-manufacturing-services/"
+  weight = 3
+  identifier = "services"
+
+[[main]]
+  name = "Carbon Fiber Manufacturing Services"
+  url = "/carbon-fiber-manufacturing-services/"
+  parent = "services"
+  weight = 1
+
+[[main]]
+  name = "Custom Carbon Fiber Parts"
+  url = "/custom-carbon-fiber-parts-manufacturer/"
+  parent = "services"
+  weight = 2
+
+[[main]]
+  name = "CNC Machining Carbon Fiber"
+  url = "/cnc-machining-carbon-fiber-parts/"
+  parent = "services"
+  weight = 3
+
+[[main]]
+  name = "Carbon Fiber Prototyping"
+  url = "/carbon-fiber-prototyping-services/"
+  parent = "services"
+  weight = 4
+
+[[main]]
+  name = "Carbon Fiber Mold Making"
+  url = "/carbon-fiber-mold-making-service/"
+  parent = "services"
+  weight = 5
+
+[[main]]
+  name = "Industries"
+  url = "/uav-carbon-fiber-components-manufacturer/"
+  weight = 4
+  identifier = "industries"
+
+[[main]]
+  name = "UAV & Drone Components"
+  url = "/uav-carbon-fiber-components-manufacturer/"
+  parent = "industries"
+  weight = 1
+
+[[main]]
+  name = "Aerospace Parts"
+  url = "/aerospace-carbon-fiber-parts-manufacturer/"
+  parent = "industries"
+  weight = 2
+
+[[main]]
+  name = "Motorsport Parts"
+  url = "/motorsport-carbon-fiber-parts-manufacturer/"
+  parent = "industries"
+  weight = 3
+
+[[main]]
+  name = "Robotics Parts"
+  url = "/robotics-carbon-fiber-parts-manufacturer/"
+  parent = "industries"
+  weight = 4
+
+[[main]]
+  name = "Resources"
+  url = "https://techcarbonworks.com/carbon-fiber-manufacturing-blog/"
+  weight = 5
+
+[[main]]
+  name = "Contact"
+  url = "/#rfq"
+  weight = 6
+
+# --- Footer navigation (grouped columns) ---
+[[footer]]
+  identifier = "company"
+  name = "Company"
+  weight = 1
+
+[[footer]]
+  name = "About TechCarbonWorks"
+  url = "/#about-techcarbonworks"
+  parent = "company"
+  weight = 1
+
+[[footer]]
+  name = "Manufacturing Capabilities"
+  url = "/#capabilities"
+  parent = "company"
+  weight = 2
+
+[[footer]]
+  name = "Manufacturing Process"
+  url = "/#process"
+  parent = "company"
+  weight = 3
+
+[[footer]]
+  name = "Quality & Certifications"
+  url = "/#certifications"
+  parent = "company"
+  weight = 4
+
+[[footer]]
+  identifier = "services"
+  name = "Manufacturing Services"
+  weight = 2
+
+[[footer]]
+  name = "Carbon Fiber Manufacturing"
+  url = "/carbon-fiber-manufacturing-services/"
+  parent = "services"
+  weight = 1
+
+[[footer]]
+  name = "Custom Carbon Fiber Parts"
+  url = "/custom-carbon-fiber-parts-manufacturer/"
+  parent = "services"
+  weight = 2
+
+[[footer]]
+  name = "CNC Machining Carbon Fiber"
+  url = "/cnc-machining-carbon-fiber-parts/"
+  parent = "services"
+  weight = 3
+
+[[footer]]
+  name = "Carbon Fiber Prototyping"
+  url = "/carbon-fiber-prototyping-services/"
+  parent = "services"
+  weight = 4
+
+[[footer]]
+  name = "Carbon Fiber Mold Making"
+  url = "/carbon-fiber-mold-making-service/"
+  parent = "services"
+  weight = 5
+
+[[footer]]
+  identifier = "industries"
+  name = "Industries"
+  weight = 3
+
+[[footer]]
+  name = "UAV & Drone Components"
+  url = "/uav-carbon-fiber-components-manufacturer/"
+  parent = "industries"
+  weight = 1
+
+[[footer]]
+  name = "Aerospace Parts"
+  url = "/aerospace-carbon-fiber-parts-manufacturer/"
+  parent = "industries"
+  weight = 2
+
+[[footer]]
+  name = "Motorsport Parts"
+  url = "/motorsport-carbon-fiber-parts-manufacturer/"
+  parent = "industries"
+  weight = 3
+
+[[footer]]
+  name = "Robotics Parts"
+  url = "/robotics-carbon-fiber-parts-manufacturer/"
+  parent = "industries"
+  weight = 4
+
+[[footer]]
+  identifier = "contact"
+  name = "Contact"
+  weight = 4
+
+[[footer]]
+  name = "Request a Quote"
+  url = "/#rfq"
+  parent = "contact"
+  weight = 1
+
+[[footer]]
+  name = "Email: hank@techcarbonworks.com"
+  url = "mailto:hank@techcarbonworks.com"
+  parent = "contact"
+  weight = 2
+
+[[footer]]
+  name = "Carbon Fiber Blog"
+  url = "https://techcarbonworks.com/carbon-fiber-manufacturing-blog/"
+  parent = "contact"
+  weight = 3

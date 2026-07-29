@@ -1,0 +1,104 @@
+name: Hugo Build & Deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.163.3'
+          extended: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build with Hugo
+        run: hugo --environment production --gc --minify
+
+      - name: Run Schema Check
+        run: python scripts/schema-check.py ./public
+
+      - name: Run Multilingual SEO Check
+        run: python scripts/seo-check.py ./public
+
+      - name: Verify hreflang tags
+        run: |
+          echo "Checking hreflang tags in built output..."
+          HREFLANG_COUNT=$( (grep -r 'hreflang=' public/ --include="*.html" || true) | wc -l )
+          XDEFAULT_COUNT=$( (grep -r 'hreflang="x-default"' public/ --include="*.html" || true) | wc -l )
+          echo "  hreflang tags found: $HREFLANG_COUNT"
+          echo "  x-default tags found: $XDEFAULT_COUNT"
+          if [ "$HREFLANG_COUNT" -eq 0 ]; then
+            echo "  INFO: No hreflang tags found (single-language site — this is expected)."
+          fi
+          if [ "$XDEFAULT_COUNT" -eq 0 ] && [ "$HREFLANG_COUNT" -gt 0 ]; then
+            echo "  WARNING: hreflang tags exist but x-default is missing."
+          fi
+
+      - name: Verify canonical URLs
+        run: |
+          echo "Checking canonical URLs..."
+          CANONICAL_COUNT=$( (grep -rE 'rel="?canonical"?' public/ --include="*.html" || true) | wc -l )
+          echo "  Canonical tags found: $CANONICAL_COUNT"
+          if [ "$CANONICAL_COUNT" -eq 0 ]; then
+            echo "  ERROR: No canonical tags found!"
+            exit 1
+          fi
+
+      - name: Verify multilingual sitemaps
+        run: |
+          echo "Checking sitemaps..."
+          if [ -f public/sitemap.xml ]; then
+            echo "  sitemap.xml: FOUND"
+            SITEMAP_LANGS=$( (grep -oP '<xhtml:link[^>]*hreflang="[^"]*"' public/sitemap.xml || true) | wc -l )
+            echo "  Sitemap hreflang entries: $SITEMAP_LANGS"
+          else
+            echo "  sitemap.xml: NOT FOUND"
+          fi
+
+      - name: Upload artifact
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

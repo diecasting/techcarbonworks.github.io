@@ -1,0 +1,67 @@
+# ==========================================================================
+# products.toml — TechCarbonWorks Materials & Product Families [SITE LAYER]
+# ==========================================================================
+# Feeds Product schema, material specification sections, and the
+# materials showcase. Each entry carries material_grades used by the
+# materials and specification landing sections.
+# ==========================================================================
+
+# --- Material / product catalog (language-neutral) ---
+
+[[products]]
+id = "prepreg-carbon-fiber"
+category = "Prepreg Carbon Fiber Parts"
+material_family = "Prepreg Carbon Fiber"
+material_grades = ["Toray T300", "Toray T700", "Toray T800", "M40J High Modulus"]
+alloy_designations = ["1K", "3K", "6K", "12K"]
+sort_order = 1
+url_path = "/carbon-fiber-manufacturing-services/"
+
+[[products]]
+id = "dry-carbon-fabric"
+category = "Dry Fabric Layup Parts"
+material_family = "Dry Carbon Fabric"
+material_grades = ["3K Plain Weave", "3K Twill Weave", "12K Heavy Tow", "Spread Tow"]
+alloy_designations = ["200gsm", "240gsm", "400gsm", "600gsm"]
+sort_order = 2
+url_path = "/carbon-fiber-manufacturing-services/"
+
+[[products]]
+id = "forged-carbon"
+category = "Forged Carbon Components"
+material_family = "Forged Carbon"
+material_grades = ["Chopped Tow Compound", "SMC Carbon", "Bulk Molding Compound"]
+alloy_designations = ["25mm chop", "50mm chop"]
+sort_order = 3
+url_path = "/custom-carbon-fiber-parts-manufacturer/"
+
+[[products]]
+id = "carbon-kevlar-hybrid"
+category = "Carbon-Kevlar Hybrid Parts"
+material_family = "Carbon-Kevlar Hybrid"
+material_grades = ["Carbon-Aramid Twill", "Carbon-Innegra", "Carbon-Glass Hybrid"]
+alloy_designations = ["188gsm", "210gsm", "300gsm"]
+sort_order = 4
+url_path = "/custom-carbon-fiber-parts-manufacturer/"
+
+# --- Localized product descriptions ---
+
+[en.prepreg-carbon-fiber]
+name = "Prepreg Carbon Fiber Components"
+description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
+key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+
+[en.dry-carbon-fabric]
+name = "Dry Fabric Layup Components"
+description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
+key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+
+[en.forged-carbon]
+name = "Forged Carbon Components"
+description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
+key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+
+[en.carbon-kevlar-hybrid]
+name = "Carbon-Kevlar Hybrid Components"
+description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
+key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"

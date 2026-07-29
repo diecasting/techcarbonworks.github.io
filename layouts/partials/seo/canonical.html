@@ -1,0 +1,12 @@
+{{- /* =========================================================================
+   seo/canonical.html — Self-Referencing Canonical URL
+   ==========================================================================
+   Outputs the canonical URL for the current page in its own language.
+   Each language page gets its own self-referencing canonical — no
+   cross-language canonicals.
+
+   Example:
+     English: https://example.com/aluminum-die-casting/  → canonical = same URL
+     German:  https://example.com/de/aluminum-die-casting/ → canonical = same URL
+   ========================================================================= */ -}}
+<link rel="canonical" href="{{ .Permalink }}">

@@ -1,0 +1,65 @@
+# ==========================================================================
+# hugo.toml — TechCarbonWorks Site Configuration
+# ==========================================================================
+# Built on the Industrial Hugo SEO Framework (v1.1).
+# Single-language (English) B2B carbon fiber manufacturing site.
+# ==========================================================================
+
+baseURL = "https://diecasting.github.io/techcarbonworks.github.io/"
+locale = "en-US"
+title = "TechCarbonWorks"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+# Hugo version requirement: 0.163.3 extended
+# Theme: none (standalone framework, no external theme dependency)
+
+# Build settings
+enableRobotsTXT = true
+enableGitInfo = true
+enableMissingTranslationPlaceholders = false
+
+# Pagination
+paginate = 12
+
+# Permalinks — clean URLs for SEO
+[permalinks]
+  services = "/:slug/"
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Minify configuration
+[minify]
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepComments = false
+    [minify.tdewolff.css]
+      precision = 0
+    [minify.tdewolff.js]
+      precision = 0
+
+# Markup configuration
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+  [markup.highlight]
+    style = "github"
+    lineNos = false
+    noClasses = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4

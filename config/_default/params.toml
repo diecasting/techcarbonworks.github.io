@@ -1,0 +1,42 @@
+# ==========================================================================
+# params.toml — TechCarbonWorks Site Parameters
+# ==========================================================================
+
+# SEO defaults (must be before any [section] header)
+description = "TechCarbonWorks is a custom carbon fiber parts manufacturer providing OEM composite manufacturing, carbon fiber prototyping, CNC machining and advanced composite solutions for UAV, aerospace, motorsport and robotics industries worldwide."
+keywords = ["carbon fiber parts manufacturer", "custom carbon fiber parts", "OEM composite manufacturing", "carbon fiber prototyping", "CNC machining carbon fiber", "carbon fiber mold making"]
+
+[Author]
+  name = "TechCarbonWorks"
+  email = "hank@techcarbonworks.com"
+
+# Contact information (used in footer and schema)
+[contact]
+  email = "hank@techcarbonworks.com"
+  phone = ""
+  address = "Dongguan, Guangdong, China"
+
+# Social media (used in schema sameAs)
+[social]
+  linkedin = ""
+  twitter = ""
+  youtube = ""
+
+# Feature flags
+[features]
+  enableSearch = false
+  enableBlog = false
+  enableRFQ = true
+  enableMultilingual = false
+
+# Homepage configuration
+[homepage]
+  showServices = true
+  showIndustries = true
+  showCertifications = true
+  showProcess = true
+
+# Footer configuration
+[footer]
+  copyright = "TechCarbonWorks. All rights reserved."
+  showLegalLinks = true

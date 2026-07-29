@@ -1,0 +1,52 @@
+# ==========================================================================
+# industries.toml — TechCarbonWorks Industries Served [SITE LAYER]
+# ==========================================================================
+
+# --- Industry catalog (language-neutral IDs) ---
+
+[[industries]]
+id = "uav-drones"
+sort_order = 1
+
+[[industries]]
+id = "aerospace"
+sort_order = 2
+
+[[industries]]
+id = "motorsport"
+sort_order = 3
+
+[[industries]]
+id = "robotics"
+sort_order = 4
+
+[[industries]]
+id = "industrial-equipment"
+sort_order = 5
+
+# --- Localized industry names and descriptions ---
+
+[en.uav-drones]
+name = "UAV & Drones"
+description = "Carbon fiber airframes, arms, booms and plates for commercial, industrial and defense UAV platforms where every gram affects endurance and payload."
+applications = ["UAV airframes", "Drone arms and booms", "Motor mounts", "Payload plates"]
+
+[en.aerospace]
+name = "Aerospace"
+description = "Autoclave-cured structural and interior composite components with material traceability and documented inspection for aerospace programs."
+applications = ["Structural brackets", "Interior panels", "Fairings", "Satellite components"]
+
+[en.motorsport]
+name = "Motorsport"
+description = "Lightweight, impact-resistant carbon fiber bodywork and aero components engineered for maximum strength-to-weight on the track."
+applications = ["Aero packages", "Body panels", "Splitters and diffusers", "Interior trim"]
+
+[en.robotics]
+name = "Robotics & Automation"
+description = "High-stiffness, low-mass carbon fiber arms, linkages and frames that let robots move faster with greater precision and less vibration."
+applications = ["Robot arms and links", "End-effector frames", "Gantry beams", "Automation fixtures"]
+
+[en.industrial-equipment]
+name = "Industrial Equipment"
+description = "Custom carbon fiber rollers, housings and structural components that replace metal to cut weight, resist corrosion and dampen vibration."
+applications = ["Composite rollers", "Machine housings", "Structural profiles", "Medical device frames"]

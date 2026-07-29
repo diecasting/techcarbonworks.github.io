@@ -1,0 +1,51 @@
+# ==========================================================================
+# certifications.toml — TechCarbonWorks Quality Certifications [SITE LAYER]
+# ==========================================================================
+
+# --- Certification catalog (language-neutral) ---
+
+[[certifications]]
+id = "iso-9001"
+code = "ISO 9001"
+sort_order = 1
+issue_authority = "International Organization for Standardization"
+url = "https://www.iso.org/standard/62085.html"
+
+[[certifications]]
+id = "iso-14001"
+code = "ISO 14001"
+sort_order = 2
+issue_authority = "International Organization for Standardization"
+url = "https://www.iso.org/iso-14001-environmental-management.html"
+
+[[certifications]]
+id = "rohs-compliant"
+code = "RoHS Compliant"
+sort_order = 3
+issue_authority = "European Union"
+url = "https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en"
+
+[[certifications]]
+id = "reach-compliant"
+code = "REACH Compliant"
+sort_order = 4
+issue_authority = "European Chemicals Agency"
+url = "https://echa.europa.eu/regulations/reach/understanding-reach"
+
+# --- Localized descriptions ---
+
+[en.iso-9001]
+name = "ISO 9001 Quality Management System"
+description = "Internationally recognized quality management standard ensuring consistent composite part quality, traceable materials and processes, and continuous improvement."
+
+[en.iso-14001]
+name = "ISO 14001 Environmental Management"
+description = "Environmental management standard covering resin systems, waste handling, and resource efficiency across our composite manufacturing operations."
+
+[en.rohs-compliant]
+name = "RoHS Compliant Materials"
+description = "Restriction of Hazardous Substances compliance for resins, adhesives, and coatings used in our carbon fiber components."
+
+[en.reach-compliant]
+name = "REACH Compliant Chemistry"
+description = "EU REACH compliance for chemical substances used in prepregs, resin systems, and surface finishes across our production lines."

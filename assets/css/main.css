@@ -1,0 +1,226 @@
+/* ==========================================================================
+   main.css — TechCarbonWorks Custom Carbon Fiber Parts Manufacturer
+   Premium industrial B2B theme (built on Industrial Hugo SEO Framework)
+   Carbon dark / racing red palette, image-driven hero, responsive.
+   ========================================================================== */
+
+/* --- Reset & Base --- */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --carbon: #23282f;
+  --carbon-deep: #14171c;
+  --accent: #e63b2e;
+  --ink: #16181d;
+  --text: #262a30;
+  --muted: #626870;
+  --bg: #f7f8fa;
+  --bg-alt: #eceef1;
+  --line: #dcdfe4;
+  --white: #ffffff;
+  --shadow: 0 10px 30px rgba(20, 23, 28, 0.10);
+  --radius: 10px;
+}
+html { font-size: 16px; scroll-behavior: smooth; }
+body { font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif; line-height: 1.7; color: var(--text); background: var(--bg); }
+a { color: var(--carbon); text-decoration: none; transition: color 0.2s; }
+a:hover { color: var(--accent); text-decoration: none; }
+img { max-width: 100%; height: auto; display: block; }
+.container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+
+/* --- Buttons --- */
+.btn { display: inline-block; padding: 13px 30px; border-radius: 6px; font-weight: 600; cursor: pointer; border: none; transition: all 0.2s; font-size: 1rem; }
+.btn-primary { background: var(--carbon); color: #fff; box-shadow: var(--shadow); }
+.btn-primary:hover { background: var(--carbon-deep); color: #fff; }
+.btn-secondary { background: transparent; color: var(--carbon); border: 2px solid var(--carbon); }
+.btn-secondary:hover { background: var(--carbon); color: #fff; }
+
+/* --- Header & Navigation --- */
+.site-header { background: rgba(255,255,255,0.96); border-bottom: 1px solid var(--line); position: sticky; top: 0; z-index: 100; backdrop-filter: saturate(180%) blur(8px); }
+.nav-container { max-width: 1200px; margin: 0 auto; padding: 0 20px; display: flex; justify-content: space-between; align-items: center; height: 68px; }
+.nav-logo { font-size: 1.5rem; font-weight: 800; color: var(--ink); letter-spacing: -0.5px; display: flex; align-items: center; gap: 8px; }
+.nav-logo::before { content: ""; width: 14px; height: 22px; background: linear-gradient(180deg, var(--carbon), var(--accent)); border-radius: 3px; display: inline-block; }
+.nav-menu { display: flex; list-style: none; gap: 26px; align-items: center; }
+.nav-menu a { color: var(--ink); font-weight: 500; font-size: 0.95rem; }
+.nav-menu a:hover { color: var(--carbon); }
+.nav-submenu { display: none; position: absolute; background: #fff; border: 1px solid var(--line); border-radius: 8px; list-style: none; padding: 10px 0; min-width: 240px; box-shadow: var(--shadow); }
+.nav-menu li { position: relative; }
+.nav-menu li:hover .nav-submenu { display: block; }
+.nav-submenu a { display: block; padding: 9px 18px; font-weight: 500; font-size: 0.9rem; }
+.nav-submenu a:hover { background: var(--bg-alt); }
+.nav-toggle { display: none; flex-direction: column; gap: 5px; background: none; border: none; cursor: pointer; padding: 6px; }
+.nav-toggle span { width: 26px; height: 3px; background: var(--ink); border-radius: 2px; }
+
+/* --- Main Content --- */
+.main-content { min-height: calc(100vh - 68px - 220px); }
+
+/* --- Article (blog / single pages) --- */
+.article { max-width: 820px; margin: 0 auto; padding: 56px 20px; }
+.article-header h1 { font-size: 2.3rem; margin-bottom: 10px; line-height: 1.2; }
+.article-description { font-size: 1.15rem; color: var(--muted); margin-bottom: 16px; }
+.article-meta { font-size: 0.875rem; color: #999; display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+.article-tags { display: flex; gap: 8px; flex-wrap: wrap; }
+.tag { background: var(--bg-alt); padding: 3px 12px; border-radius: 12px; font-size: 0.75rem; color: var(--carbon); }
+.article-content { margin-top: 32px; }
+.article-content h2 { font-size: 1.6rem; margin: 38px 0 16px; color: var(--ink); border-left: 4px solid var(--accent); padding-left: 14px; }
+.article-content h3 { font-size: 1.25rem; margin: 26px 0 12px; color: var(--carbon-deep); }
+.article-content p { margin-bottom: 16px; }
+.article-content ul, .article-content ol { margin: 0 0 18px 22px; }
+.article-content li { margin-bottom: 8px; }
+.article-content table { width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.95rem; }
+.article-content th, .article-content td { border: 1px solid var(--line); padding: 11px 15px; text-align: left; }
+.article-content th { background: var(--carbon); color: #fff; font-weight: 600; }
+.article-content tbody tr:nth-child(even) { background: var(--bg-alt); }
+.article-content img { border-radius: var(--radius); margin: 22px 0; box-shadow: var(--shadow); }
+.article-content blockquote { border-left: 4px solid var(--accent); padding: 8px 18px; margin: 20px 0; background: var(--bg-alt); color: var(--muted); font-style: italic; }
+
+/* --- Landing Page Sections --- */
+.section { padding: 72px 0; }
+.section:nth-child(even) { background: var(--bg-alt); }
+.section-hero {
+  position: relative;
+  background-image: linear-gradient(180deg, rgba(12,14,18,0.74), rgba(12,14,18,0.84)), url("https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp");
+  background-size: cover;
+  background-position: center;
+  padding: 110px 0 100px;
+  text-align: center;
+  color: #fff;
+}
+.section-hero::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 6px; background: linear-gradient(90deg, var(--carbon), var(--accent)); }
+.hero-title { font-size: 3rem; font-weight: 800; margin-bottom: 18px; line-height: 1.15; text-shadow: 0 2px 18px rgba(0,0,0,0.4); }
+.hero-description { font-size: 1.3rem; color: #f3e9dc; max-width: 760px; margin: 0 auto 36px; }
+.hero-cta { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+.section-hero .btn-secondary { color: #fff; border-color: rgba(255,255,255,0.8); }
+.section-hero .btn-secondary:hover { background: #fff; color: var(--ink); }
+.section-title { font-size: 2.1rem; text-align: center; margin-bottom: 12px; color: var(--ink); }
+.section-title::after { content: ""; display: block; width: 60px; height: 4px; background: var(--accent); margin: 14px auto 0; border-radius: 2px; }
+.section-description { text-align: center; color: var(--muted); margin-bottom: 44px; max-width: 760px; margin-left: auto; margin-right: auto; }
+
+/* --- Capabilities Grid --- */
+.capabilities-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 24px; }
+.capability-card { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 28px 24px; text-align: left; box-shadow: var(--shadow); border-top: 4px solid var(--carbon); transition: transform 0.2s; }
+.capability-card:hover { transform: translateY(-4px); }
+.capability-card h3 { font-size: 1.15rem; color: var(--ink); }
+.equipment-list { margin-top: 36px; text-align: center; }
+.equipment-list h3 { color: var(--ink); margin-bottom: 16px; }
+.equipment-list ul { list-style: none; display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+.equipment-list li { background: var(--bg-alt); border: 1px solid var(--line); padding: 8px 18px; border-radius: 22px; font-size: 0.875rem; color: var(--carbon-deep); font-weight: 500; }
+
+/* --- Process Flow --- */
+.process-flow { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px; }
+.process-step { display: flex; flex-direction: column; align-items: center; gap: 10px; background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 20px 16px; min-width: 130px; box-shadow: var(--shadow); }
+.step-number { width: 44px; height: 44px; border-radius: 50%; background: linear-gradient(180deg, var(--carbon), var(--carbon-deep)); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 1.1rem; }
+.step-name { font-size: 0.9rem; text-align: center; max-width: 130px; font-weight: 600; color: var(--ink); }
+.process-arrow { color: var(--accent); font-size: 1.6rem; }
+
+/* --- Specification --- */
+.spec-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; }
+.spec-item { display: flex; justify-content: space-between; align-items: center; padding: 18px 20px; background: #fff; border-radius: var(--radius); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.spec-label { font-weight: 600; color: var(--muted); }
+.spec-value { color: var(--carbon); font-weight: 700; }
+
+/* --- Materials --- */
+.materials-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; }
+.material-card { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 26px; box-shadow: var(--shadow); }
+.material-card h3 { color: var(--carbon); margin-bottom: 14px; font-size: 1.2rem; }
+.material-grades { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0; }
+.grade-badge { background: var(--bg-alt); color: var(--carbon-deep); padding: 5px 13px; border-radius: 14px; font-size: 0.85rem; font-weight: 600; }
+.alloy-info { font-size: 0.82rem; color: var(--muted); }
+
+/* --- Industries --- */
+.industries-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; }
+.industry-card { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 28px; box-shadow: var(--shadow); border-left: 4px solid var(--accent); }
+.industry-card h3 { margin-bottom: 10px; color: var(--ink); font-size: 1.2rem; }
+.industry-applications { list-style: none; margin-top: 14px; }
+.industry-applications li { padding: 5px 0; font-size: 0.9rem; color: var(--muted); }
+.industry-applications li::before { content: "▸ "; color: var(--accent); }
+
+/* --- Certifications --- */
+.certs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; }
+.cert-card { border: 2px solid var(--line); border-radius: var(--radius); padding: 28px; text-align: center; background: #fff; box-shadow: var(--shadow); }
+.cert-card h3 { font-size: 1.4rem; color: var(--carbon); margin-bottom: 10px; }
+.cert-link { font-size: 0.875rem; font-weight: 600; }
+
+/* --- FAQ Accordion --- */
+.faq-accordion { max-width: 820px; margin: 0 auto; }
+.faq-item { border: 1px solid var(--line); border-radius: var(--radius); margin-bottom: 10px; overflow: hidden; background: #fff; }
+.faq-question { width: 100%; padding: 18px 22px; background: #fff; border: none; text-align: left; font-size: 1.02rem; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; color: var(--ink); }
+.faq-icon { font-size: 1.5rem; color: var(--accent); transition: transform 0.2s; }
+.faq-open .faq-icon { transform: rotate(45deg); }
+.faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s; }
+.faq-open .faq-answer { max-height: 600px; padding: 0 22px 18px; }
+.faq-answer p { color: var(--muted); }
+
+/* --- RFQ Form --- */
+.section-rfq { background: linear-gradient(135deg, var(--carbon-deep), var(--carbon)); color: #fff; }
+.section-rfq .section-title { color: #fff; }
+.section-rfq .section-title::after { background: var(--accent); }
+.section-rfq .section-description { color: #f0e4d6; }
+.rfq-form { max-width: 720px; margin: 0 auto; background: #fff; padding: 34px; border-radius: var(--radius); box-shadow: var(--shadow); }
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+.form-group { margin-bottom: 16px; }
+.form-group label { display: block; margin-bottom: 6px; font-weight: 600; font-size: 0.875rem; color: var(--ink); }
+.form-group input, .form-group textarea, .form-group select { width: 100%; padding: 11px 13px; border: 1px solid var(--line); border-radius: 6px; font-size: 1rem; font-family: inherit; }
+.form-group input:focus, .form-group textarea:focus { border-color: var(--carbon); outline: none; }
+.btn-submit { width: 100%; margin-top: 10px; }
+
+/* --- List Page --- */
+.list-page { max-width: 900px; margin: 0 auto; padding: 56px 20px; }
+.list-header h1 { font-size: 2.2rem; margin-bottom: 10px; color: var(--ink); }
+.list-items { margin-top: 36px; }
+.list-item { padding: 26px 0; border-bottom: 1px solid var(--line); }
+.list-item h2 { font-size: 1.35rem; margin-bottom: 10px; }
+.list-item h2 a { color: var(--ink); }
+.list-item h2 a:hover { color: var(--carbon); }
+.list-item time { font-size: 0.875rem; color: #999; }
+.blog-card-excerpt { color: var(--muted); margin-top: 8px; }
+
+/* --- Case Study --- */
+.case-study { border: 1px solid var(--line); border-radius: var(--radius); padding: 24px; margin: 24px 0; background: #fff; box-shadow: var(--shadow); }
+.case-study-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+.case-study-detail { display: flex; gap: 8px; margin-bottom: 8px; }
+.detail-label { font-weight: 600; color: var(--muted); }
+.case-study-section { margin-top: 16px; }
+.case-study-section h4 { color: var(--carbon); margin-bottom: 4px; }
+
+/* --- Footer --- */
+.site-footer { background: #19130e; color: #cbb9a3; padding: 56px 0 26px; }
+.footer-container { max-width: 1200px; margin: 0 auto; padding: 0 20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 36px; }
+.footer-col h4 { color: #fff; margin-bottom: 16px; font-size: 1.05rem; position: relative; padding-bottom: 8px; }
+.footer-col h4::after { content: ""; position: absolute; left: 0; bottom: 0; width: 34px; height: 3px; background: var(--accent); border-radius: 2px; }
+.footer-col ul { list-style: none; }
+.footer-col ul li { padding: 5px 0; }
+.footer-col a { color: #cbb9a3; font-size: 0.92rem; }
+.footer-col a:hover { color: var(--accent); }
+.footer-brand p { font-size: 0.92rem; color: #b6a48e; margin-top: 12px; }
+.footer-bottom { max-width: 1200px; margin: 36px auto 0; padding: 18px 20px 0; border-top: 1px solid #342a20; text-align: center; font-size: 0.85rem; color: #8c7c69; }
+.footer-bottom a { color: var(--accent); }
+
+/* --- Landing page long-form content (.Content block) --- */
+.section-content { max-width: 980px; margin: 0 auto; }
+.section-content h2 { font-size: 1.7rem; margin: 40px 0 16px; color: var(--ink); border-left: 4px solid var(--accent); padding-left: 14px; }
+.section-content h3 { font-size: 1.25rem; margin: 28px 0 12px; color: var(--carbon-deep); }
+.section-content p { margin-bottom: 16px; }
+.section-content ul, .section-content ol { margin: 0 0 18px 22px; }
+.section-content li { margin-bottom: 8px; }
+.section-content strong { color: var(--carbon-deep); }
+.section-content img { border-radius: var(--radius); margin: 24px 0; box-shadow: var(--shadow); }
+.section-content table { width: 100%; border-collapse: collapse; margin: 22px 0; font-size: 0.95rem; }
+.section-content th, .section-content td { border: 1px solid var(--line); padding: 11px 15px; text-align: left; }
+.section-content th { background: var(--carbon); color: #fff; font-weight: 600; }
+.section-content tbody tr:nth-child(even) { background: var(--bg-alt); }
+.section-content blockquote { border-left: 4px solid var(--accent); padding: 8px 18px; margin: 20px 0; background: var(--bg-alt); color: var(--muted); font-style: italic; }
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .nav-toggle { display: flex; }
+  .nav-menu { display: none; position: absolute; top: 68px; left: 0; right: 0; background: #fff; flex-direction: column; padding: 16px 20px; border-bottom: 1px solid var(--line); gap: 14px; box-shadow: var(--shadow); }
+  .nav-open .nav-menu { display: flex; }
+  .nav-submenu { position: static; box-shadow: none; border: none; padding: 6px 0 0 12px; min-width: 0; }
+  .hero-title { font-size: 2rem; }
+  .hero-description { font-size: 1.05rem; }
+  .hero-cta { flex-direction: column; }
+  .form-row { grid-template-columns: 1fr; }
+  .process-flow { flex-direction: column; }
+  .process-arrow { transform: rotate(90deg); }
+  .section { padding: 52px 0; }
+}
