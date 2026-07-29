@@ -15,7 +15,9 @@ defaultContentLanguageInSubdir = false
 # Theme: none (standalone framework, no external theme dependency)
 
 # Build settings
-enableRobotsTXT = true
+# Use static/robots.txt (Hugo's generated robots.txt would override it with a
+# minimal template that drops the Sitemap line)
+enableRobotsTXT = false
 enableGitInfo = true
 enableMissingTranslationPlaceholders = false
 

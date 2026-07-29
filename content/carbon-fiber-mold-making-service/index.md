@@ -28,7 +28,7 @@ schema:
       answer: "Between runs we clean residue, inspect for micro-cracks or gelcoat wear, reapply release agent, and store the mold supported to avoid warpage. Periodic polish and localized gelcoat repair extend life. We supply a maintenance log template with every delivered tool."
 ---
 
-# Carbon Fiber Mold Making Service
+## Carbon Fiber Mold Making Service
 
 A **carbon fiber mold making service** is the foundation of every repeatable composite part, because the mold dictates the surface, the dimensional envelope, and the rate at which you can produce. A poorly made tool leaks vacuum, transfers orange-peel texture, or warps the part under cure heat, and those defects multiply across every unit it makes. Since 2005 TechCarbonWorks has built composite, aluminum, and steel tooling for customers in the United States, Europe, and Australia, combining CNC plug machining, surface engineering, and vacuum testing so the mold you receive is production-ready on day one.
 
