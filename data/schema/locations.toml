@@ -23,3 +23,27 @@ url = "https://techcarbonworks.com/"
 name = "TechCarbonWorks Manufacturing Facility"
 description = "Integrated carbon fiber factory with clean layup rooms, autoclave curing, 5-axis CNC machining, mold making, and CMM inspection under one roof, serving customers worldwide."
 address_display = "Dongguan, Guangdong, China"
+
+# --- Localized (de) — English fallback ---
+[de.main-facility]
+name = "TechCarbonWorks Manufacturing Facility"
+description = "Integrated carbon fiber factory with clean layup rooms, autoclave curing, 5-axis CNC machining, mold making, and CMM inspection under one roof, serving customers worldwide."
+address_display = "Dongguan, Guangdong, China"
+
+# --- Localized (ja) — English fallback ---
+[ja.main-facility]
+name = "TechCarbonWorks Manufacturing Facility"
+description = "Integrated carbon fiber factory with clean layup rooms, autoclave curing, 5-axis CNC machining, mold making, and CMM inspection under one roof, serving customers worldwide."
+address_display = "Dongguan, Guangdong, China"
+
+# --- Localized (fr) — English fallback ---
+[fr.main-facility]
+name = "TechCarbonWorks Manufacturing Facility"
+description = "Integrated carbon fiber factory with clean layup rooms, autoclave curing, 5-axis CNC machining, mold making, and CMM inspection under one roof, serving customers worldwide."
+address_display = "Dongguan, Guangdong, China"
+
+# --- Localized (es) — English fallback ---
+[es.main-facility]
+name = "TechCarbonWorks Manufacturing Facility"
+description = "Integrated carbon fiber factory with clean layup rooms, autoclave curing, 5-axis CNC machining, mold making, and CMM inspection under one roof, serving customers worldwide."
+address_display = "Dongguan, Guangdong, China"

@@ -50,3 +50,123 @@ applications = ["Robot arms and links", "End-effector frames", "Gantry beams", "
 name = "Industrial Equipment"
 description = "Custom carbon fiber rollers, housings and structural components that replace metal to cut weight, resist corrosion and dampen vibration."
 applications = ["Composite rollers", "Machine housings", "Structural profiles", "Medical device frames"]
+
+# --- Localized (de) — English fallback ---
+[de.uav-drones]
+name = "UAV & Drones"
+description = "Carbon fiber airframes, arms, booms and plates for commercial, industrial and defense UAV platforms where every gram affects endurance and payload."
+applications = ["UAV airframes", "Drone arms and booms", "Motor mounts", "Payload plates"]
+
+# --- Localized (ja) — English fallback ---
+[ja.uav-drones]
+name = "UAV & Drones"
+description = "Carbon fiber airframes, arms, booms and plates for commercial, industrial and defense UAV platforms where every gram affects endurance and payload."
+applications = ["UAV airframes", "Drone arms and booms", "Motor mounts", "Payload plates"]
+
+# --- Localized (fr) — English fallback ---
+[fr.uav-drones]
+name = "UAV & Drones"
+description = "Carbon fiber airframes, arms, booms and plates for commercial, industrial and defense UAV platforms where every gram affects endurance and payload."
+applications = ["UAV airframes", "Drone arms and booms", "Motor mounts", "Payload plates"]
+
+# --- Localized (es) — English fallback ---
+[es.uav-drones]
+name = "UAV & Drones"
+description = "Carbon fiber airframes, arms, booms and plates for commercial, industrial and defense UAV platforms where every gram affects endurance and payload."
+applications = ["UAV airframes", "Drone arms and booms", "Motor mounts", "Payload plates"]
+
+# --- Localized (de) — English fallback ---
+[de.aerospace]
+name = "Aerospace"
+description = "Autoclave-cured structural and interior composite components with material traceability and documented inspection for aerospace programs."
+applications = ["Structural brackets", "Interior panels", "Fairings", "Satellite components"]
+
+# --- Localized (ja) — English fallback ---
+[ja.aerospace]
+name = "Aerospace"
+description = "Autoclave-cured structural and interior composite components with material traceability and documented inspection for aerospace programs."
+applications = ["Structural brackets", "Interior panels", "Fairings", "Satellite components"]
+
+# --- Localized (fr) — English fallback ---
+[fr.aerospace]
+name = "Aerospace"
+description = "Autoclave-cured structural and interior composite components with material traceability and documented inspection for aerospace programs."
+applications = ["Structural brackets", "Interior panels", "Fairings", "Satellite components"]
+
+# --- Localized (es) — English fallback ---
+[es.aerospace]
+name = "Aerospace"
+description = "Autoclave-cured structural and interior composite components with material traceability and documented inspection for aerospace programs."
+applications = ["Structural brackets", "Interior panels", "Fairings", "Satellite components"]
+
+# --- Localized (de) — English fallback ---
+[de.motorsport]
+name = "Motorsport"
+description = "Lightweight, impact-resistant carbon fiber bodywork and aero components engineered for maximum strength-to-weight on the track."
+applications = ["Aero packages", "Body panels", "Splitters and diffusers", "Interior trim"]
+
+# --- Localized (ja) — English fallback ---
+[ja.motorsport]
+name = "Motorsport"
+description = "Lightweight, impact-resistant carbon fiber bodywork and aero components engineered for maximum strength-to-weight on the track."
+applications = ["Aero packages", "Body panels", "Splitters and diffusers", "Interior trim"]
+
+# --- Localized (fr) — English fallback ---
+[fr.motorsport]
+name = "Motorsport"
+description = "Lightweight, impact-resistant carbon fiber bodywork and aero components engineered for maximum strength-to-weight on the track."
+applications = ["Aero packages", "Body panels", "Splitters and diffusers", "Interior trim"]
+
+# --- Localized (es) — English fallback ---
+[es.motorsport]
+name = "Motorsport"
+description = "Lightweight, impact-resistant carbon fiber bodywork and aero components engineered for maximum strength-to-weight on the track."
+applications = ["Aero packages", "Body panels", "Splitters and diffusers", "Interior trim"]
+
+# --- Localized (de) — English fallback ---
+[de.robotics]
+name = "Robotics & Automation"
+description = "High-stiffness, low-mass carbon fiber arms, linkages and frames that let robots move faster with greater precision and less vibration."
+applications = ["Robot arms and links", "End-effector frames", "Gantry beams", "Automation fixtures"]
+
+# --- Localized (ja) — English fallback ---
+[ja.robotics]
+name = "Robotics & Automation"
+description = "High-stiffness, low-mass carbon fiber arms, linkages and frames that let robots move faster with greater precision and less vibration."
+applications = ["Robot arms and links", "End-effector frames", "Gantry beams", "Automation fixtures"]
+
+# --- Localized (fr) — English fallback ---
+[fr.robotics]
+name = "Robotics & Automation"
+description = "High-stiffness, low-mass carbon fiber arms, linkages and frames that let robots move faster with greater precision and less vibration."
+applications = ["Robot arms and links", "End-effector frames", "Gantry beams", "Automation fixtures"]
+
+# --- Localized (es) — English fallback ---
+[es.robotics]
+name = "Robotics & Automation"
+description = "High-stiffness, low-mass carbon fiber arms, linkages and frames that let robots move faster with greater precision and less vibration."
+applications = ["Robot arms and links", "End-effector frames", "Gantry beams", "Automation fixtures"]
+
+# --- Localized (de) — English fallback ---
+[de.industrial-equipment]
+name = "Industrial Equipment"
+description = "Custom carbon fiber rollers, housings and structural components that replace metal to cut weight, resist corrosion and dampen vibration."
+applications = ["Composite rollers", "Machine housings", "Structural profiles", "Medical device frames"]
+
+# --- Localized (ja) — English fallback ---
+[ja.industrial-equipment]
+name = "Industrial Equipment"
+description = "Custom carbon fiber rollers, housings and structural components that replace metal to cut weight, resist corrosion and dampen vibration."
+applications = ["Composite rollers", "Machine housings", "Structural profiles", "Medical device frames"]
+
+# --- Localized (fr) — English fallback ---
+[fr.industrial-equipment]
+name = "Industrial Equipment"
+description = "Custom carbon fiber rollers, housings and structural components that replace metal to cut weight, resist corrosion and dampen vibration."
+applications = ["Composite rollers", "Machine housings", "Structural profiles", "Medical device frames"]
+
+# --- Localized (es) — English fallback ---
+[es.industrial-equipment]
+name = "Industrial Equipment"
+description = "Custom carbon fiber rollers, housings and structural components that replace metal to cut weight, resist corrosion and dampen vibration."
+applications = ["Composite rollers", "Machine housings", "Structural profiles", "Medical device frames"]

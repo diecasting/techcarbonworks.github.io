@@ -1,7 +1,14 @@
 {{- /* rfq_form shortcode — Reusable RFQ (Request for Quote) form
-   Usage: {{< rfq_form >}}
-   Renders a contact form for quote requests. */ -}}
-<form class="rfq-form shortcode-rfq" method="POST" action="mailto:{{ .Site.Params.contact.email | default "contact@example.com" }}" enctype="text/plain">
+   Usage: {{< rfq_form >}}  or  {{< rfq_form endpoint="https://formspree.io/f/xxxx" >}}
+   Backend: Formspree (https://formspree.io). The form POSTs directly to the
+   Formspree endpoint; no server-side processing is required. The design and
+   CSS classes are preserved from the original static version.
+   The customer `email` field is used by Formspree as the reply-to address,
+   so no manual `_replyto` override is needed. */ -}}
+{{- $endpoint := .Get "endpoint" | default .Site.Params.rfq.endpoint -}}
+<form class="rfq-form shortcode-rfq" method="POST" action="{{ $endpoint }}" enctype="multipart/form-data">
+  <input type="hidden" name="_subject" value="New TechCarbonWorks RFQ Request">
+  <input type="hidden" name="_next" value="{{ "thank-you/" | absURL }}">
   <div class="form-row">
     <div class="form-group">
       <label for="rfq-name-{{ .Ordinal }}">Name *</label>
@@ -24,15 +31,23 @@
   </div>
   <div class="form-group">
     <label for="rfq-material-{{ .Ordinal }}">Material</label>
-    <input type="text" id="rfq-material-{{ .Ordinal }}" name="material" placeholder="e.g. Aluminum ADC12">
+    <input type="text" id="rfq-material-{{ .Ordinal }}" name="material" placeholder="e.g. Toray T700 prepreg">
   </div>
   <div class="form-group">
     <label for="rfq-quantity-{{ .Ordinal }}">Estimated Quantity</label>
-    <input type="number" id="rfq-quantity-{{ .Ordinal }}" name="quantity" placeholder="e.g. 10000">
+    <input type="number" id="rfq-quantity-{{ .Ordinal }}" name="quantity" placeholder="e.g. 5000">
   </div>
   <div class="form-group">
-    <label for="rfq-message-{{ .Ordinal }}">Project Details *</label>
-    <textarea id="rfq-message-{{ .Ordinal }}" name="message" rows="5" required placeholder="Describe your project requirements, dimensions, tolerances, etc."></textarea>
+    <label for="rfq-project-{{ .Ordinal }}">Project Details *</label>
+    <textarea id="rfq-project-{{ .Ordinal }}" name="project_details" rows="5" required placeholder="Describe your project requirements, dimensions, tolerances, etc."></textarea>
+  </div>
+  <div class="form-group">
+    <label for="rfq-attachment-{{ .Ordinal }}">Attachment (optional)</label>
+    <input type="file" id="rfq-attachment-{{ .Ordinal }}" name="attachment" accept=".pdf,.step,.stp,.iges,.dxf">
+  </div>
+  <div class="form-group honeypot" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">
+    <label>Please leave this field empty</label>
+    <input type="text" name="_gotcha" tabindex="-1" autocomplete="off">
   </div>
   <button type="submit" class="btn btn-primary btn-submit">Submit Quote Request</button>
 </form>

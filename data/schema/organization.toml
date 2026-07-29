@@ -45,3 +45,91 @@ keywords = [
 ]
 site_title = "TechCarbonWorks — Custom Carbon Fiber Parts Manufacturer"
 slogan = "Advanced Carbon Fiber Composites, Engineered to Perform"
+
+# --- Localized fields (de) — English fallback ---
+[de]
+name = "TechCarbonWorks"
+description = "TechCarbonWorks is a custom carbon fiber parts manufacturer providing OEM composite manufacturing, carbon fiber prototyping, CNC machining and advanced composite solutions since 2005, serving customers worldwide across the United States, Europe and Australia."
+knows_about = [
+  "Carbon Fiber Manufacturing",
+  "OEM Composite Components",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Advanced Composite Solutions"
+]
+keywords = [
+  "Custom Carbon Fiber Parts Manufacturer",
+  "OEM Composite Manufacturing",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Carbon Fiber Mold Making",
+  "Advanced Composite Solutions"
+]
+site_title = "TechCarbonWorks — Custom Carbon Fiber Parts Manufacturer"
+slogan = "Advanced Carbon Fiber Composites, Engineered to Perform"
+
+# --- Localized fields (ja) — English fallback ---
+[ja]
+name = "TechCarbonWorks"
+description = "TechCarbonWorks is a custom carbon fiber parts manufacturer providing OEM composite manufacturing, carbon fiber prototyping, CNC machining and advanced composite solutions since 2005, serving customers worldwide across the United States, Europe and Australia."
+knows_about = [
+  "Carbon Fiber Manufacturing",
+  "OEM Composite Components",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Advanced Composite Solutions"
+]
+keywords = [
+  "Custom Carbon Fiber Parts Manufacturer",
+  "OEM Composite Manufacturing",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Carbon Fiber Mold Making",
+  "Advanced Composite Solutions"
+]
+site_title = "TechCarbonWorks — Custom Carbon Fiber Parts Manufacturer"
+slogan = "Advanced Carbon Fiber Composites, Engineered to Perform"
+
+# --- Localized fields (fr) — English fallback ---
+[fr]
+name = "TechCarbonWorks"
+description = "TechCarbonWorks is a custom carbon fiber parts manufacturer providing OEM composite manufacturing, carbon fiber prototyping, CNC machining and advanced composite solutions since 2005, serving customers worldwide across the United States, Europe and Australia."
+knows_about = [
+  "Carbon Fiber Manufacturing",
+  "OEM Composite Components",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Advanced Composite Solutions"
+]
+keywords = [
+  "Custom Carbon Fiber Parts Manufacturer",
+  "OEM Composite Manufacturing",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Carbon Fiber Mold Making",
+  "Advanced Composite Solutions"
+]
+site_title = "TechCarbonWorks — Custom Carbon Fiber Parts Manufacturer"
+slogan = "Advanced Carbon Fiber Composites, Engineered to Perform"
+
+# --- Localized fields (es) — English fallback ---
+[es]
+name = "TechCarbonWorks"
+description = "TechCarbonWorks is a custom carbon fiber parts manufacturer providing OEM composite manufacturing, carbon fiber prototyping, CNC machining and advanced composite solutions since 2005, serving customers worldwide across the United States, Europe and Australia."
+knows_about = [
+  "Carbon Fiber Manufacturing",
+  "OEM Composite Components",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Advanced Composite Solutions"
+]
+keywords = [
+  "Custom Carbon Fiber Parts Manufacturer",
+  "OEM Composite Manufacturing",
+  "Carbon Fiber Prototyping",
+  "CNC Machining Carbon Fiber",
+  "Carbon Fiber Mold Making",
+  "Advanced Composite Solutions"
+]
+site_title = "TechCarbonWorks — Custom Carbon Fiber Parts Manufacturer"
+slogan = "Advanced Carbon Fiber Composites, Engineered to Perform"

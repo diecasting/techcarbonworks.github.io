@@ -1,6 +1,7 @@
 ---
 title: "UAV Carbon Fiber Components Manufacturer"
 layout: "landing"
+translationKey: "uav-carbon-fiber-components-manufacturer"
 description: "TechCarbonWorks is a UAV Carbon Fiber Components Manufacturer building airframes, arms, motor mounts and payload plates with flight-optimized carbon layups."
 sections:
   - hero
@@ -27,7 +28,6 @@ schema:
     - question: "What is your typical lead time for a UAV component program?"
       answer: "Prototype arms and plates typically ship in two to three weeks after drawing release, while production batches follow on a recurring schedule agreed with your program. Quick-turn tooling options are available when a design must iterate between flight test campaigns, and we prioritize crash-damage rebuilds so a grounded airframe returns to service without losing an entire test window."
 ---
-
 ## UAV Carbon Fiber Components Manufacturer
 
 TechCarbonWorks is a specialist **UAV Carbon Fiber Components Manufacturer** serving drone integrators, defense contractors, and survey equipment brands across the United States, Europe, and Australia. Since our founding in Dongguan, China in 2005, we have built a reputation for delivering flight-ready composite structures that resolve the single hardest problem in unmanned aviation: getting stiffness and durability without paying a weight penalty that shortens flight time. Whether you are building a heavy-lift multirotor, a long-endurance VTOL, or a compact inspection quadcopter, the airframe is where marginal weight savings compound into meaningful mission gains. This page explains how we engineer carbon fiber UAV parts, what we can produce, and how our manufacturing discipline keeps a hundred-unit fleet indistinguishable from the first article.

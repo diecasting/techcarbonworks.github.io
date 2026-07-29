@@ -24,6 +24,7 @@
   "@type": "Service",
   "@id": "{{ printf "%s#service" .Permalink | safeJS }}",
   "name": "{{ $svcText.name | safeJS }}",
+  {{ with .Site.Language.Params.locale }}"inLanguage": "{{ . | safeJS }}",{{ end }}
   {{ with $svcText.description }}"description": "{{ . | safeJS }}",{{ end }}
   "url": "{{ .Permalink | safeJS }}",
   "serviceType": "{{ $serviceEntry.schema_type | safeJS }}",

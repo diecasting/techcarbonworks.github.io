@@ -12,6 +12,7 @@
   "@type": "Organization",
   "@id": "{{ printf "%s#organization" .Site.BaseURL | safeJS }}",
   "name": "{{ $localized.name | safeJS }}",
+  {{ with .Site.Language.Params.locale }}"inLanguage": "{{ . | safeJS }}",{{ end }}
   "legalName": "{{ $org.identity.legal_name | safeJS }}",
   "url": "{{ $org.identity.url | safeJS }}",
   "logo": "{{ $org.identity.logo | absURL | safeJS }}",

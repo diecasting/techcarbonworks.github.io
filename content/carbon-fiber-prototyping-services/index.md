@@ -1,6 +1,7 @@
 ---
 title: "Carbon Fiber Prototyping Services"
 layout: "landing"
+translationKey: "carbon-fiber-prototyping-services"
 description: "Carbon fiber prototyping services with rapid tooling, wet layup and prepreg routes, DFM feedback, and 1-3 week lead times bridging prototype to production."
 sections:
   - hero
@@ -27,7 +28,6 @@ schema:
     - question: "How many iteration cycles can we run in a prototyping program?"
       answer: "Iteration is expected and built into the program. With machined tooling board molds we often turn a revised part in 3 to 5 days per cycle, letting teams refine geometry and layup across several loops before committing to composite or metal production tooling."
 ---
-
 ## Carbon Fiber Prototyping Services
 
 **Carbon fiber prototyping services** let engineering and sourcing teams prove a design's form, fit, and structural behavior before committing to expensive production tooling. Because carbon fiber is a directional, layered material, a prototype that is merely "the right shape" can still fail in service if the layup, radii, and draft were wrong. Since 2005 TechCarbonWorks has helped customers in the United States, Europe, and Australia move from CAD to a credible composite prototype in as little as one to three weeks, using rapid tooling routes that keep cost low while preserving the lessons needed for production.

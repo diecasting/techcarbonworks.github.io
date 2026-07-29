@@ -1,6 +1,7 @@
 ---
 title: "Carbon Fiber Manufacturing Services"
 layout: "landing"
+translationKey: "carbon-fiber-manufacturing-services"
 description: "TechCarbonWorks provides carbon fiber manufacturing services including prepreg molding, autoclave curing, CNC machining and mold making for US, Europe and Australia since 2005 with ISO 9001."
 sections:
   - hero
@@ -27,7 +28,6 @@ schema:
     - question: "What documentation accompanies a production shipment?"
       answer: "Each shipment includes a material certificate, laminate build record, layup schedule and first-article or CMM inspection report. As an ISO 9001 certified carbon fiber manufacturing services supplier, we maintain lot traceability from frozen prepreg through finished, packaged parts."
 ---
-
 ## About Our Carbon Fiber Manufacturing Services
 
 TechCarbonWorks delivers integrated **carbon fiber manufacturing services** from our Dongguan, China facility, which we founded in 2005. We exist to solve a specific problem for engineering and sourcing teams in the United States, Europe and Australia: finding a supplier that can take a carbon fiber program from raw material to finished, inspected part without fragmenting the work across a chain of subcontractors. Our answer is vertical integration. We operate our own mold shop, prepreg layup clean room, autoclaves, CNC machining center and metrology room, so the carbon fiber manufacturing services we quote are the carbon fiber manufacturing services we actually perform.

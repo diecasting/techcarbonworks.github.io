@@ -1,6 +1,7 @@
 ---
 title: "Custom Carbon Fiber Parts Manufacturer"
 layout: "landing"
+translationKey: "home"
 description: "TechCarbonWorks is a custom carbon fiber parts manufacturer founded in 2005 in Dongguan, China, serving the US, Europe and Australia with ISO 9001 prepreg molding and CNC machining."
 sections:
   - hero
@@ -27,7 +28,6 @@ schema:
     - question: "What is your typical production lead time for custom parts?"
       answer: "After tooling is approved, standard production batches ship in four to six weeks, with expedited programs available. Lead time depends on part complexity, autoclave capacity and secondary operations such as bonding, inserts and surface finishing. We share a detailed milestone schedule at quotation so sourcing managers can plan downstream assembly."
 ---
-
 ## About TechCarbonWorks
 
 TechCarbonWorks is a **custom carbon fiber parts manufacturer** founded in 2005 in Dongguan, China, and we have spent nearly two decades building one of the most complete composite fabrication operations in the Pearl River Delta. We serve engineering teams and sourcing managers across the United States, Europe and Australia who need high-performance carbon fiber components built to print, to tolerance and to schedule. Unlike brokers who resell parts made by unknown subcontractors, we own the entire manufacturing chain: tooling design, mold making, prepreg layup, autoclave curing, CNC machining and final inspection all happen under one roof.

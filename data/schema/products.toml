@@ -65,3 +65,99 @@ key_properties = "Complex geometry capability, quasi-isotropic strength, distinc
 name = "Carbon-Kevlar Hybrid Components"
 description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
 key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"
+
+# --- Localized (de) — English fallback ---
+[de.prepreg-carbon-fiber]
+name = "Prepreg Carbon Fiber Components"
+description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
+key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+
+# --- Localized (ja) — English fallback ---
+[ja.prepreg-carbon-fiber]
+name = "Prepreg Carbon Fiber Components"
+description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
+key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+
+# --- Localized (fr) — English fallback ---
+[fr.prepreg-carbon-fiber]
+name = "Prepreg Carbon Fiber Components"
+description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
+key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+
+# --- Localized (es) — English fallback ---
+[es.prepreg-carbon-fiber]
+name = "Prepreg Carbon Fiber Components"
+description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
+key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+
+# --- Localized (de) — English fallback ---
+[de.dry-carbon-fabric]
+name = "Dry Fabric Layup Components"
+description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
+key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+
+# --- Localized (ja) — English fallback ---
+[ja.dry-carbon-fabric]
+name = "Dry Fabric Layup Components"
+description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
+key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+
+# --- Localized (fr) — English fallback ---
+[fr.dry-carbon-fabric]
+name = "Dry Fabric Layup Components"
+description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
+key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+
+# --- Localized (es) — English fallback ---
+[es.dry-carbon-fabric]
+name = "Dry Fabric Layup Components"
+description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
+key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+
+# --- Localized (de) — English fallback ---
+[de.forged-carbon]
+name = "Forged Carbon Components"
+description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
+key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+
+# --- Localized (ja) — English fallback ---
+[ja.forged-carbon]
+name = "Forged Carbon Components"
+description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
+key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+
+# --- Localized (fr) — English fallback ---
+[fr.forged-carbon]
+name = "Forged Carbon Components"
+description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
+key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+
+# --- Localized (es) — English fallback ---
+[es.forged-carbon]
+name = "Forged Carbon Components"
+description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
+key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+
+# --- Localized (de) — English fallback ---
+[de.carbon-kevlar-hybrid]
+name = "Carbon-Kevlar Hybrid Components"
+description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
+key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"
+
+# --- Localized (ja) — English fallback ---
+[ja.carbon-kevlar-hybrid]
+name = "Carbon-Kevlar Hybrid Components"
+description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
+key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"
+
+# --- Localized (fr) — English fallback ---
+[fr.carbon-kevlar-hybrid]
+name = "Carbon-Kevlar Hybrid Components"
+description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
+key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"
+
+# --- Localized (es) — English fallback ---
+[es.carbon-kevlar-hybrid]
+name = "Carbon-Kevlar Hybrid Components"
+description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
+key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"

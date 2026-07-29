@@ -1,6 +1,7 @@
 ---
 title: "Custom Carbon Fiber Parts Manufacturer"
 layout: "landing"
+translationKey: "custom-carbon-fiber-parts-manufacturer"
 description: "TechCarbonWorks is a custom carbon fiber parts manufacturer in Dongguan since 2005, building prepreg and CNC-machined parts for the US, Europe and Australia with ISO 9001 quality and full traceability."
 sections:
   - hero
@@ -27,7 +28,6 @@ schema:
     - question: "What is your export and communication process for overseas buyers?"
       answer: "We quote in multiple currencies, handle export documentation and ship under Incoterms such as EXW, FOB or DDP to the US, Europe and Australia. Engineering questions go directly to our team, and every shipment includes traceable quality paperwork so overseas customers can onboard the part without a site visit."
 ---
-
 ## About TechCarbonWorks as a Custom Carbon Fiber Parts Manufacturer
 
 TechCarbonWorks is a **custom carbon fiber parts manufacturer** founded in 2005 in Dongguan, China, and our entire business is organized around one promise: we build carbon fiber components exactly to your engineering intent. We serve sourcing managers and design engineers across the United States, Europe and Australia who need lightweight, high-strength parts produced to print, to tolerance and to a reliable schedule. As a custom carbon fiber parts manufacturer, we do not sell catalog items; we manufacture what your drawings describe, whether that is a single prototype bracket or a recurring production run of thousands.

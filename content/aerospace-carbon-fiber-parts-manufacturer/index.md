@@ -1,6 +1,7 @@
 ---
 title: "Aerospace Carbon Fiber Parts Manufacturer"
 layout: "landing"
+translationKey: "aerospace-carbon-fiber-parts-manufacturer"
 description: "TechCarbonWorks is an Aerospace Carbon Fiber Parts Manufacturer building autoclave-cured structural parts, panels and space parts with traceability and CMM."
 sections:
   - hero
@@ -27,7 +28,6 @@ schema:
     - question: "What documentation package accompanies a finished aerospace order?"
       answer: "A typical package includes material certificates, autoclave cure logs, layup records, inspection and CMM reports, first-article records, and a certificate of conformance. We tailor the dossier to your quality manual and export it with the shipment for audit readiness, so the component clears source inspection on the first attempt rather than triggering a non-conformance."
 ---
-
 ## Aerospace Carbon Fiber Parts Manufacturer
 
 TechCarbonWorks is an established **Aerospace Carbon Fiber Parts Manufacturer** with deep experience producing flight-structure and interior composite components for customers in the United States, Europe, and Australia. Since our founding in Dongguan, China in 2005, we have invested continuously in the disciplines that aerospace programs demand: controlled processes, complete material traceability, and documentation that survives an audit years after delivery. Aerospace is not a market where "close enough" is acceptable. A bracket that looks correct but lacks a cure record is a liability, and a panel that cannot be traced to its resin lot fails source inspection. This page describes how we build aerospace-grade carbon fiber parts and the quality system that surrounds them.

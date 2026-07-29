@@ -27,7 +27,7 @@ keywords = ["carbon fiber parts manufacturer", "custom carbon fiber parts", "OEM
   enableSearch = false
   enableBlog = false
   enableRFQ = true
-  enableMultilingual = false
+  enableMultilingual = true
 
 # Homepage configuration
 [homepage]
@@ -40,3 +40,14 @@ keywords = ["carbon fiber parts manufacturer", "custom carbon fiber parts", "OEM
 [footer]
   copyright = "TechCarbonWorks. All rights reserved."
   showLegalLinks = true
+
+# --- RFQ form configuration (Formspree backend) ---
+# The RFQ shortcode ({{< rfq_form >}}) and the `rfq` landing section read
+# `.Site.Params.rfq.endpoint`. No website domain is hardcoded here — redirect
+# targets are resolved with Hugo absURL at render time.
+[rfq]
+  enabled = true
+  provider = "formspree"
+  endpoint = "https://formspree.io/f/mkodejea"
+  email = "hank@techcarbonworks.com"
+  success = "/thank-you/"

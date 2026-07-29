@@ -1,6 +1,7 @@
 ---
 title: "CNC Machining Carbon Fiber Parts"
 layout: "landing"
+translationKey: "cnc-machining-carbon-fiber-parts"
 description: "CNC machining carbon fiber parts with 3-axis and 5-axis mills, ±0.05-0.1mm tolerances, delamination-free edges, and CMM inspection. ISO 9001 since 2005."
 sections:
   - hero
@@ -27,7 +28,6 @@ schema:
     - question: "How fast can you deliver CNC machined carbon fiber components?"
       answer: "Prototype quantities from stock sheet are usually turned around in 3 to 7 working days, while production batches of machined and edge-sealed parts run 2 to 3 weeks including CMM first-article inspection. Lead times extend for 5-axis contoured or tube work that requires custom fixtures."
 ---
-
 ## CNC Machining Carbon Fiber Parts
 
 **CNC machining carbon fiber parts** is one of the most demanding operations in composite manufacturing because the same stiffness and hardness that make the material attractive also destroy ordinary cutting tools and cause delamination if the process is not tightly controlled. At TechCarbonWorks we have machined carbon fiber laminates, tubes, and molded blanks since 2005, building a process chain that delivers clean edges, repeatable tolerances, and verified quality for engineering teams in the United States, Europe, and Australia. This page explains how we select machines, tooling, and inspection methods so that your drawings become production-ready carbon components rather than frayed, dimensionally drifting rejects.

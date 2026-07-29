@@ -1,6 +1,7 @@
 ---
 title: "Robotics Carbon Fiber Parts Manufacturer"
 layout: "landing"
+translationKey: "robotics-carbon-fiber-parts-manufacturer"
 description: "TechCarbonWorks is a Robotics Carbon Fiber Parts Manufacturer building robot arms, gantry beams and effector frames with low mass, bonded inserts and tolerance."
 sections:
   - hero
@@ -27,7 +28,6 @@ schema:
     - question: "Can you support low-volume prototype and production robotics?"
       answer: "Yes. We run prototype links through our prototyping service and scale to production batches with locked tooling and locked laminate books. Programs range from a single research manipulator to recurring supply of gantry beams for machine builders, and we support both low-volume proof-of-concept work and steady series production with the same inspection discipline applied at every stage."
 ---
-
 ## Robotics Carbon Fiber Parts Manufacturer
 
 TechCarbonWorks is a dedicated **Robotics Carbon Fiber Parts Manufacturer** serving automation integrators, robot original equipment manufacturers, and research labs in the United States, Europe, and Australia. Since our founding in Dongguan, China in 2005, we have helped machine builders solve the problem that defines modern robotics: the moving mass of a robot is the enemy of speed and precision. Every kilogram a designer removes from an arm link lets the same motor move faster, settle sooner, and repeat more accurately. Carbon fiber is the most effective way to strip that mass without surrendering the stiffness the task demands. This page explains the robot structures we build, why lower moving mass shortens cycle times, and how we control stiffness, damping, and tolerance.

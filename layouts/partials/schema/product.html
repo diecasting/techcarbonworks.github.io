@@ -23,6 +23,7 @@
   "@type": "Product",
   "@id": "{{ printf "%s#product" .Permalink | safeJS }}",
   "name": "{{ $prodText.name | safeJS }}",
+  {{ with .Site.Language.Params.locale }}"inLanguage": "{{ . | safeJS }}",{{ end }}
   {{ with $prodText.description }}"description": "{{ . | safeJS }}",{{ end }}
   "url": "{{ .Permalink | safeJS }}",
   "category": "{{ $productEntry.category | safeJS }}",

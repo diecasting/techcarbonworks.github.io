@@ -1,18 +1,86 @@
 # ==========================================================================
-# languages.toml — TechCarbonWorks Language Configuration (Single Language)
+# languages.toml — TechCarbonWorks Multilingual Configuration
 # ==========================================================================
-# Single-language (English) B2B site built on the Industrial Hugo SEO
-# Framework. Multilingual is disabled in params.toml. If you later enable
-# multilingual, add [de]/[ja] entries here and the matching sections in
-# every data/schema/*.toml file.
+# Five languages enabled: en (default), de, ja, fr, es.
+#
+# Approach: classic Hugo translation files (NOT per-language contentDir).
+# All languages share contentDir = "content"; translations live alongside
+# the English source as _index.<lang>.md / <page>.<lang>.md and are linked
+# by filename suffix (and explicit translationKey).
+#
+# URL structure (defaultContentLanguageInSubdir = false):
+#   English  -> /            (default, no prefix)
+#   German   -> /de/
+#   Japanese -> /ja/
+#   French   -> /fr/
+#   Spanish  -> /es/
+#
+# NOTE on field names: Hugo 0.158+ deprecated `languageCode` (use `locale`)
+# and `languageName` (use `label`). This config therefore uses the supported
+# keys `locale` + `label`, consistent with the Industrial Hugo SEO Framework
+# v1.1 convention. The schema/SEO layer consumes `locale` (og:locale,
+# schema inLanguage) and `label` (switcher display code).
+#
+# Each language carries:
+#   locale  -> BCP 47 code (og:locale, schema inLanguage, <html lang>)
+#   label   -> short switcher code shown in the header (EN/DE/JA/FR/ES)
+#   weight  -> menu/switcher order
+#   title   -> site title in that language
+#   params.og_locale -> OG locale token (underscore form)
+#
+# Schema localization: data/schema/*.toml carry language-dependent fields
+# under [en]/[de]/[ja]/[fr]/[es] tables (and [en.<id>]/[de.<id>]/... for
+# services/products/industries/locations/certifications). The schema engine
+# reads hugo.Data.schema.<file> indexed by the active language; any language
+# table that is missing falls back to the [en] content (English fallback).
 # ==========================================================================
 
 [en]
   contentDir = "content"
   locale = "en-US"
-  label = "English"
+  label = "EN"
   weight = 1
   title = "TechCarbonWorks"
-
   [en.params]
+    locale = "en-US"
     og_locale = "en_US"
+
+[de]
+  contentDir = "content"
+  locale = "de-DE"
+  label = "DE"
+  weight = 2
+  title = "TechCarbonWorks"
+  [de.params]
+    locale = "de-DE"
+    og_locale = "de_DE"
+
+[ja]
+  contentDir = "content"
+  locale = "ja-JP"
+  label = "JA"
+  weight = 3
+  title = "TechCarbonWorks"
+  [ja.params]
+    locale = "ja-JP"
+    og_locale = "ja_JP"
+
+[fr]
+  contentDir = "content"
+  locale = "fr-FR"
+  label = "FR"
+  weight = 4
+  title = "TechCarbonWorks"
+  [fr.params]
+    locale = "fr-FR"
+    og_locale = "fr_FR"
+
+[es]
+  contentDir = "content"
+  locale = "es-ES"
+  label = "ES"
+  weight = 5
+  title = "TechCarbonWorks"
+  [es.params]
+    locale = "es-ES"
+    og_locale = "es_ES"
