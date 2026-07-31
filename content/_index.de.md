@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Maßgefertigte Carbonfaser-Bauteile vom Hersteller"
 layout: "landing"

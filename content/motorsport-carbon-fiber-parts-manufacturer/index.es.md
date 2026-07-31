@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Fabricante de Piezas de Fibra de Carbono para Automovilismo"
 layout: "landing"

@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "カーボンファイバー製造サービス"
 layout: "landing"

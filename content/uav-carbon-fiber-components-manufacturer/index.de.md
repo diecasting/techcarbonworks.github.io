@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "UAV-Carbonfaser-Komponenten-Hersteller"
 layout: "landing"

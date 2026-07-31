@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Fabricant de pièces aérospatiales en fibre de carbone"
 layout: "landing"

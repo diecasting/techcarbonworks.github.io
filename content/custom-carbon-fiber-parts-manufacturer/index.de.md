@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Kundenspezifischer Carbonfaserteile-Hersteller"
 layout: "landing"

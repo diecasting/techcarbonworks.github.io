@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Carbon Fiber Mold Making Service"
 layout: "landing"

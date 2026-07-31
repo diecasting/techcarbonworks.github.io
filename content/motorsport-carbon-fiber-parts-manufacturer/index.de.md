@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Motorsport Carbonfaserteile-Hersteller"
 layout: "landing"

@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "UAVカーボンファイバー部品メーカー"
 layout: "landing"

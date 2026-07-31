@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Luft- und Raumfahrt Carbonfaserteile-Hersteller"
 layout: "landing"

@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Fabricante de Componentes de Fibra de Carbono para UAV"
 layout: "landing"

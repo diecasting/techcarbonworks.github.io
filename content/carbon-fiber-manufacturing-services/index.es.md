@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Servicios de Fabricación de Fibra de Carbono"
 layout: "landing"

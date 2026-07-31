@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Robotik Carbonfaserteile-Hersteller"
 layout: "landing"

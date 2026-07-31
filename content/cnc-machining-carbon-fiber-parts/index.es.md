@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "CNC Machining Carbon Fiber Parts"
 layout: "landing"

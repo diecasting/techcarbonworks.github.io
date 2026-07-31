@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "モータースポーツカーボンファイバー部品メーカー"
 layout: "landing"

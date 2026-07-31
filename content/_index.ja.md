@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "カーボンファイバー部品の受託製造メーカー"
 layout: "landing"

@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "航空宇宙カーボンファイバー部品メーカー"
 layout: "landing"

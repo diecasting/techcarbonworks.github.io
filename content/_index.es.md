@@ -1,7 +1,7 @@
 ---
 robots:
-  - noindex
-  - nofollow
+  - index
+  - follow
 
 title: "Fabricante de piezas de fibra de carbono a medida"
 layout: "landing"
