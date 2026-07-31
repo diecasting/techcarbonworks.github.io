@@ -1,0 +1,125 @@
+# i18n/fr.toml — TechCarbonWorks French UI strings
+
+[nav]
+other = "Navigation"
+
+[languageSwitcher]
+other = "Changer de langue"
+
+[toggleMenu]
+other = "Basculer le menu"
+
+# ── Hero ──────────────────────────────────────────────────────────────────
+
+[requestAQuote]
+other = "Demander un devis"
+
+[ourCapabilities]
+other = "Nos capacités"
+
+# ── Section headings ──────────────────────────────────────────────────────
+
+[ourCapabilitiesHeading]
+other = "Nos capacités"
+
+[keyEquipment]
+other = "Équipements clés"
+
+[manufacturingProcess]
+other = "Procédé de fabrication"
+
+[qualityCertifications]
+other = "Certifications qualité"
+
+[industriesWeServe]
+other = "Industries desservies"
+
+[frequentlyAskedQuestions]
+other = "Foire aux questions"
+
+[materials]
+other = "Matériaux"
+
+[technicalSpecifications]
+other = "Spécifications techniques"
+
+[machineTonnageRange]
+other = "Plage de tonnage machine"
+
+[grades]
+other = "Nuances"
+
+[officialStandard]
+other = "Norme officielle"
+
+# ── RFQ Form ──────────────────────────────────────────────────────────────
+
+[rfqTitle]
+other = "Demander un devis"
+
+[rfqDescription]
+other = "Remplissez le formulaire ci-dessous et notre équipe vous répondra dans les 24 heures."
+
+[nameLabel]
+other = "Nom *"
+
+[namePlaceholder]
+other = "Votre nom complet"
+
+[companyLabel]
+other = "Entreprise"
+
+[companyPlaceholder]
+other = "Nom de l'entreprise"
+
+[emailLabel]
+other = "E-mail *"
+
+[emailPlaceholder]
+other = "votre@email.fr"
+
+[phoneLabel]
+other = "Téléphone"
+
+[phonePlaceholder]
+other = "+33 1 23 45 67 89"
+
+[materialLabel]
+other = "Matériau"
+
+[materialPlaceholder]
+other = "ex. préimprégné Toray T700"
+
+[quantityLabel]
+other = "Quantité estimée"
+
+[quantityPlaceholder]
+other = "ex. 5000"
+
+[projectDetailsLabel]
+other = "Détails du projet *"
+
+[projectDetailsPlaceholder]
+other = "Décrivez les exigences, dimensions, tolérances de votre projet, etc."
+
+[attachmentLabel]
+other = "Pièce jointe (optionnel)"
+
+[honeypotLabel]
+other = "Veuillez laisser ce champ vide"
+
+[submitQuote]
+other = "Envoyer la demande de devis"
+
+# ── Footer ────────────────────────────────────────────────────────────────
+
+[allRightsReserved]
+other = "Tous droits réservés."
+
+[footerTagline]
+other = "Fabricant de pièces en fibre de carbone sur mesure"
+
+# ── FAQ fallback ──────────────────────────────────────────────────────────
+
+[faqPlaceholder]
+other = "Les éléments FAQ sont configurés dans le front matter sous schema.faq."

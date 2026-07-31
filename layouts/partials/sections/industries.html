@@ -4,7 +4,7 @@
 {{- $industries := hugo.Data.schema.industries -}}
 <section class="section section-industries" id="industries">
   <div class="container">
-    <h2 class="section-title">Industries We Serve</h2>
+    <h2 class="section-title">{{ i18n "industriesWeServe" }}</h2>
     <div class="industries-grid">
       {{ range $industries.industries }}
       {{- $indText := index (index $industries $lang) .id -}}

@@ -5,7 +5,7 @@
 {{- $mfgLocalized := index $mfg $lang -}}
 <section class="section section-capabilities" id="capabilities">
   <div class="container">
-    <h2 class="section-title">Our Capabilities</h2>
+    <h2 class="section-title">{{ i18n "ourCapabilitiesHeading" }}</h2>
     {{ with $mfgLocalized.capabilities_description }}<p class="section-description">{{ . }}</p>{{ end }}
     <div class="capabilities-grid">
       {{ range $i, $pt := $mfgLocalized.process_types }}
@@ -16,7 +16,7 @@
     </div>
     {{ with $mfg.equipment.key_equipment }}
     <div class="equipment-list">
-      <h3>Key Equipment</h3>
+      <h3>{{ i18n "keyEquipment" }}</h3>
       <ul>
         {{ range . }}<li>{{ . }}</li>{{ end }}
       </ul>

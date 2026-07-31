@@ -5,7 +5,7 @@
 {{- $mfgLocalized := index $mfg $lang -}}
 <section class="section section-process" id="process">
   <div class="container">
-    <h2 class="section-title">Manufacturing Process</h2>
+    <h2 class="section-title">{{ i18n "manufacturingProcess" }}</h2>
     <div class="process-flow">
       {{ range $i, $proc := $mfg.processes.core_processes }}
       <div class="process-step">

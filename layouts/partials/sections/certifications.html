@@ -4,14 +4,14 @@
 {{- $certs := hugo.Data.schema.certifications -}}
 <section class="section section-certifications" id="certifications">
   <div class="container">
-    <h2 class="section-title">Quality Certifications</h2>
+    <h2 class="section-title">{{ i18n "qualityCertifications" }}</h2>
     <div class="certs-grid">
       {{ range $certs.certifications }}
       {{- $certText := index (index $certs $lang) .id -}}
       <div class="cert-card">
         <h3>{{ .code }}</h3>
         <p>{{ $certText.description }}</p>
-        {{ with .url }}<a href="{{ . }}" class="cert-link" target="_blank" rel="noopener">Official Standard</a>{{ end }}
+        {{ with .url }}<a href="{{ . }}" class="cert-link" target="_blank" rel="noopener">{{ i18n "officialStandard" }}</a>{{ end }}
       </div>
       {{ end }}
     </div>

@@ -1,0 +1,125 @@
+# i18n/de.toml — TechCarbonWorks German UI strings
+
+[nav]
+other = "Navigation"
+
+[languageSwitcher]
+other = "Sprache wechseln"
+
+[toggleMenu]
+other = "Menü umschalten"
+
+# ── Hero ──────────────────────────────────────────────────────────────────
+
+[requestAQuote]
+other = "Angebot anfordern"
+
+[ourCapabilities]
+other = "Unsere Fähigkeiten"
+
+# ── Section headings ──────────────────────────────────────────────────────
+
+[ourCapabilitiesHeading]
+other = "Unsere Fähigkeiten"
+
+[keyEquipment]
+other = "Wichtige Ausrüstung"
+
+[manufacturingProcess]
+other = "Fertigungsprozess"
+
+[qualityCertifications]
+other = "Qualitätszertifizierungen"
+
+[industriesWeServe]
+other = "Branchen, die wir beliefern"
+
+[frequentlyAskedQuestions]
+other = "Häufig gestellte Fragen"
+
+[materials]
+other = "Materialien"
+
+[technicalSpecifications]
+other = "Technische Spezifikationen"
+
+[machineTonnageRange]
+other = "Maschinen-Tonnagebereich"
+
+[grades]
+other = "Qualitäten"
+
+[officialStandard]
+other = "Offizieller Standard"
+
+# ── RFQ Form ──────────────────────────────────────────────────────────────
+
+[rfqTitle]
+other = "Angebot anfordern"
+
+[rfqDescription]
+other = "Füllen Sie das untenstehende Formular aus und unser Team wird sich innerhalb von 24 Stunden bei Ihnen melden."
+
+[nameLabel]
+other = "Name *"
+
+[namePlaceholder]
+other = "Ihr vollständiger Name"
+
+[companyLabel]
+other = "Unternehmen"
+
+[companyPlaceholder]
+other = "Firmenname"
+
+[emailLabel]
+other = "E-Mail *"
+
+[emailPlaceholder]
+other = "ihre@email.de"
+
+[phoneLabel]
+other = "Telefon"
+
+[phonePlaceholder]
+other = "+49 123 456 789"
+
+[materialLabel]
+other = "Material"
+
+[materialPlaceholder]
+other = "z.B. Toray T700 Prepreg"
+
+[quantityLabel]
+other = "Geschätzte Menge"
+
+[quantityPlaceholder]
+other = "z.B. 5000"
+
+[projectDetailsLabel]
+other = "Projektdetails *"
+
+[projectDetailsPlaceholder]
+other = "Beschreiben Sie Ihre Projektanforderungen, Abmessungen, Toleranzen usw."
+
+[attachmentLabel]
+other = "Anhang (optional)"
+
+[honeypotLabel]
+other = "Bitte lassen Sie dieses Feld leer"
+
+[submitQuote]
+other = "Angebotsanfrage absenden"
+
+# ── Footer ────────────────────────────────────────────────────────────────
+
+[allRightsReserved]
+other = "Alle Rechte vorbehalten."
+
+[footerTagline]
+other = "Hersteller von maßgefertigten Carbonfaser-Bauteilen"
+
+# ── FAQ fallback ──────────────────────────────────────────────────────────
+
+[faqPlaceholder]
+other = "FAQ-Einträge werden im Frontmatter unter schema.faq konfiguriert."

@@ -1,0 +1,125 @@
+# i18n/ja.toml — TechCarbonWorks Japanese UI strings
+
+[nav]
+other = "ナビゲーション"
+
+[languageSwitcher]
+other = "言語を切り替え"
+
+[toggleMenu]
+other = "メニューを切り替え"
+
+# ── Hero ──────────────────────────────────────────────────────────────────
+
+[requestAQuote]
+other = "お見積もり依頼"
+
+[ourCapabilities]
+other = "当社の能力"
+
+# ── Section headings ──────────────────────────────────────────────────────
+
+[ourCapabilitiesHeading]
+other = "当社の能力"
+
+[keyEquipment]
+other = "主要設備"
+
+[manufacturingProcess]
+other = "製造工程"
+
+[qualityCertifications]
+other = "品質認証"
+
+[industriesWeServe]
+other = "対応業界"
+
+[frequentlyAskedQuestions]
+other = "よくある質問"
+
+[materials]
+other = "材料"
+
+[technicalSpecifications]
+other = "技術仕様"
+
+[machineTonnageRange]
+other = "機械能力範囲"
+
+[grades]
+other = "グレード"
+
+[officialStandard]
+other = "公式規格"
+
+# ── RFQ Form ──────────────────────────────────────────────────────────────
+
+[rfqTitle]
+other = "お見積もり依頼"
+
+[rfqDescription]
+other = "以下のフォームにご記入いただければ、24時間以内に担当者よりご連絡いたします。"
+
+[nameLabel]
+other = "お名前 *"
+
+[namePlaceholder]
+other = "氏名を入力"
+
+[companyLabel]
+other = "会社名"
+
+[companyPlaceholder]
+other = "会社名を入力"
+
+[emailLabel]
+other = "メールアドレス *"
+
+[emailPlaceholder]
+other = "your@email.com"
+
+[phoneLabel]
+other = "電話番号"
+
+[phonePlaceholder]
+other = "+81 123 456 789"
+
+[materialLabel]
+other = "材料"
+
+[materialPlaceholder]
+other = "例：Toray T700 プリプレグ"
+
+[quantityLabel]
+other = "予定数量"
+
+[quantityPlaceholder]
+other = "例：5000"
+
+[projectDetailsLabel]
+other = "プロジェクト詳細 *"
+
+[projectDetailsPlaceholder]
+other = "プロジェクトの要件、寸法、公差などをご記入ください。"
+
+[attachmentLabel]
+other = "添付ファイル（任意）"
+
+[honeypotLabel]
+other = "このフィールドは空のままにしてください"
+
+[submitQuote]
+other = "見積依頼を送信"
+
+# ── Footer ────────────────────────────────────────────────────────────────
+
+[allRightsReserved]
+other = "無断複写・転載を禁じます。"
+
+[footerTagline]
+other = "カスタムカーボンファイバー部品メーカー"
+
+# ── FAQ fallback ──────────────────────────────────────────────────────────
+
+[faqPlaceholder]
+other = "FAQ項目はフロントマターのschema.faqで設定します。"

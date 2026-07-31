@@ -4,7 +4,7 @@
 {{- $products := hugo.Data.schema.products -}}
 <section class="section section-materials" id="materials">
   <div class="container">
-    <h2 class="section-title">Materials</h2>
+    <h2 class="section-title">{{ i18n "materials" }}</h2>
     <div class="materials-grid">
       {{ range $products.products }}
       {{ if .material_grades }}

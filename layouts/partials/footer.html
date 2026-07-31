@@ -18,6 +18,6 @@
     {{- end -}}
   </div>
   <div class="footer-bottom">
-    <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.footer.copyright | default .Site.Title }}. All rights reserved. &middot; <a href="{{ .Site.BaseURL | relLangURL }}">Custom Wooden Speaker Cabinet Manufacturer</a></p>
+    <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.footer.copyright | default .Site.Title }}. {{ i18n "allRightsReserved" }} &middot; <a href="{{ .Site.BaseURL | relLangURL }}">{{ i18n "footerTagline" }}</a></p>
   </div>
 </footer>

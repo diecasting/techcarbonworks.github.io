@@ -1,0 +1,126 @@
+# i18n/en.toml — TechCarbonWorks English UI strings
+# All hardcoded strings extracted from layouts/partials/ and layouts/shortcodes/
+
+[nav]
+other = "Navigation"
+
+[languageSwitcher]
+other = "Switch language"
+
+[toggleMenu]
+other = "Toggle menu"
+
+# ── Hero ──────────────────────────────────────────────────────────────────
+
+[requestAQuote]
+other = "Request a Quote"
+
+[ourCapabilities]
+other = "Our Capabilities"
+
+# ── Section headings ──────────────────────────────────────────────────────
+
+[ourCapabilitiesHeading]
+other = "Our Capabilities"
+
+[keyEquipment]
+other = "Key Equipment"
+
+[manufacturingProcess]
+other = "Manufacturing Process"
+
+[qualityCertifications]
+other = "Quality Certifications"
+
+[industriesWeServe]
+other = "Industries We Serve"
+
+[frequentlyAskedQuestions]
+other = "Frequently Asked Questions"
+
+[materials]
+other = "Materials"
+
+[technicalSpecifications]
+other = "Technical Specifications"
+
+[machineTonnageRange]
+other = "Machine Tonnage Range"
+
+[grades]
+other = "Grades"
+
+[officialStandard]
+other = "Official Standard"
+
+# ── RFQ Form ──────────────────────────────────────────────────────────────
+
+[rfqTitle]
+other = "Request a Quote"
+
+[rfqDescription]
+other = "Fill out the form below and our team will get back to you within 24 hours."
+
+[nameLabel]
+other = "Name *"
+
+[namePlaceholder]
+other = "Your full name"
+
+[companyLabel]
+other = "Company"
+
+[companyPlaceholder]
+other = "Company name"
+
+[emailLabel]
+other = "Email *"
+
+[emailPlaceholder]
+other = "your@email.com"
+
+[phoneLabel]
+other = "Phone"
+
+[phonePlaceholder]
+other = "+1 234 567 890"
+
+[materialLabel]
+other = "Material"
+
+[materialPlaceholder]
+other = "e.g. Toray T700 prepreg"
+
+[quantityLabel]
+other = "Estimated Quantity"
+
+[quantityPlaceholder]
+other = "e.g. 5000"
+
+[projectDetailsLabel]
+other = "Project Details *"
+
+[projectDetailsPlaceholder]
+other = "Describe your project requirements, dimensions, tolerances, etc."
+
+[attachmentLabel]
+other = "Attachment (optional)"
+
+[honeypotLabel]
+other = "Please leave this field empty"
+
+[submitQuote]
+other = "Submit Quote Request"
+
+# ── Footer ────────────────────────────────────────────────────────────────
+
+[allRightsReserved]
+other = "All rights reserved."
+
+[footerTagline]
+other = "Custom Carbon Fiber Parts Manufacturer"
+
+# ── FAQ fallback ──────────────────────────────────────────────────────────
+
+[faqPlaceholder]
+other = "FAQ items are configured in front matter under schema.faq."

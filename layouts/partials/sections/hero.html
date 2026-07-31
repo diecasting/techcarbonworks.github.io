@@ -8,8 +8,8 @@
     <h1 class="hero-title">{{ .Title | default $localized.name }}</h1>
     {{ with .Description }}<p class="hero-description">{{ . }}</p>{{ else }}{{ with $localized.slogan }}<p class="hero-description">{{ . }}</p>{{ end }}{{ end }}
     <div class="hero-cta">
-      <a href="#rfq" class="btn btn-primary">Request a Quote</a>
-      <a href="#capabilities" class="btn btn-secondary">Our Capabilities</a>
+      <a href="#rfq" class="btn btn-primary">{{ i18n "requestAQuote" }}</a>
+      <a href="#capabilities" class="btn btn-secondary">{{ i18n "ourCapabilities" }}</a>
     </div>
   </div>
 </section>

@@ -4,7 +4,7 @@
 {{- $faqItems := .Params.schema.faq -}}
 <section class="section section-faq" id="faq">
   <div class="container">
-    <h2 class="section-title">Frequently Asked Questions</h2>
+    <h2 class="section-title">{{ i18n "frequentlyAskedQuestions" }}</h2>
     {{ if $faqItems }}
     <div class="faq-accordion">
       {{ range $i, $item := $faqItems }}
@@ -20,7 +20,7 @@
       {{ end }}
     </div>
     {{ else }}
-    <p class="faq-placeholder">FAQ items are configured in front matter under <code>schema.faq</code>.</p>
+    <p class="faq-placeholder">{{ i18n "faqPlaceholder" }}</p>
     {{ end }}
   </div>
 </section>

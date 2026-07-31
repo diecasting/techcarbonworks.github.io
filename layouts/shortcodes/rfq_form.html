@@ -11,43 +11,43 @@
   <input type="hidden" name="_next" value="{{ "thank-you/" | absURL }}">
   <div class="form-row">
     <div class="form-group">
-      <label for="rfq-name-{{ .Ordinal }}">Name *</label>
-      <input type="text" id="rfq-name-{{ .Ordinal }}" name="name" required placeholder="Your full name">
+      <label for="rfq-name-{{ .Ordinal }}">{{ i18n "nameLabel" }}</label>
+      <input type="text" id="rfq-name-{{ .Ordinal }}" name="name" required placeholder="{{ i18n "namePlaceholder" }}">
     </div>
     <div class="form-group">
-      <label for="rfq-company-{{ .Ordinal }}">Company</label>
-      <input type="text" id="rfq-company-{{ .Ordinal }}" name="company" placeholder="Company name">
+      <label for="rfq-company-{{ .Ordinal }}">{{ i18n "companyLabel" }}</label>
+      <input type="text" id="rfq-company-{{ .Ordinal }}" name="company" placeholder="{{ i18n "companyPlaceholder" }}">
     </div>
   </div>
   <div class="form-row">
     <div class="form-group">
-      <label for="rfq-email-{{ .Ordinal }}">Email *</label>
-      <input type="email" id="rfq-email-{{ .Ordinal }}" name="email" required placeholder="your@email.com">
+      <label for="rfq-email-{{ .Ordinal }}">{{ i18n "emailLabel" }}</label>
+      <input type="email" id="rfq-email-{{ .Ordinal }}" name="email" required placeholder="{{ i18n "emailPlaceholder" }}">
     </div>
     <div class="form-group">
-      <label for="rfq-phone-{{ .Ordinal }}">Phone</label>
-      <input type="tel" id="rfq-phone-{{ .Ordinal }}" name="phone" placeholder="+1 234 567 890">
+      <label for="rfq-phone-{{ .Ordinal }}">{{ i18n "phoneLabel" }}</label>
+      <input type="tel" id="rfq-phone-{{ .Ordinal }}" name="phone" placeholder="{{ i18n "phonePlaceholder" }}">
     </div>
   </div>
   <div class="form-group">
-    <label for="rfq-material-{{ .Ordinal }}">Material</label>
-    <input type="text" id="rfq-material-{{ .Ordinal }}" name="material" placeholder="e.g. Toray T700 prepreg">
+    <label for="rfq-material-{{ .Ordinal }}">{{ i18n "materialLabel" }}</label>
+    <input type="text" id="rfq-material-{{ .Ordinal }}" name="material" placeholder="{{ i18n "materialPlaceholder" }}">
   </div>
   <div class="form-group">
-    <label for="rfq-quantity-{{ .Ordinal }}">Estimated Quantity</label>
-    <input type="number" id="rfq-quantity-{{ .Ordinal }}" name="quantity" placeholder="e.g. 5000">
+    <label for="rfq-quantity-{{ .Ordinal }}">{{ i18n "quantityLabel" }}</label>
+    <input type="number" id="rfq-quantity-{{ .Ordinal }}" name="quantity" placeholder="{{ i18n "quantityPlaceholder" }}">
   </div>
   <div class="form-group">
-    <label for="rfq-project-{{ .Ordinal }}">Project Details *</label>
-    <textarea id="rfq-project-{{ .Ordinal }}" name="project_details" rows="5" required placeholder="Describe your project requirements, dimensions, tolerances, etc."></textarea>
+    <label for="rfq-project-{{ .Ordinal }}">{{ i18n "projectDetailsLabel" }}</label>
+    <textarea id="rfq-project-{{ .Ordinal }}" name="project_details" rows="5" required placeholder="{{ i18n "projectDetailsPlaceholder" }}"></textarea>
   </div>
   <div class="form-group">
-    <label for="rfq-attachment-{{ .Ordinal }}">Attachment (optional)</label>
+    <label for="rfq-attachment-{{ .Ordinal }}">{{ i18n "attachmentLabel" }}</label>
     <input type="file" id="rfq-attachment-{{ .Ordinal }}" name="attachment" accept=".pdf,.step,.stp,.iges,.dxf">
   </div>
   <div class="form-group honeypot" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden;">
-    <label>Please leave this field empty</label>
+    <label>{{ i18n "honeypotLabel" }}</label>
     <input type="text" name="_gotcha" tabindex="-1" autocomplete="off">
   </div>
-  <button type="submit" class="btn btn-primary btn-submit">Submit Quote Request</button>
+  <button type="submit" class="btn btn-primary btn-submit">{{ i18n "submitQuote" }}</button>
 </form>

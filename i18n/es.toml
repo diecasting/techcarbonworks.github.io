@@ -1,0 +1,125 @@
+# i18n/es.toml — TechCarbonWorks Spanish UI strings
+
+[nav]
+other = "Navegación"
+
+[languageSwitcher]
+other = "Cambiar idioma"
+
+[toggleMenu]
+other = "Alternar menú"
+
+# ── Hero ──────────────────────────────────────────────────────────────────
+
+[requestAQuote]
+other = "Solicitar presupuesto"
+
+[ourCapabilities]
+other = "Nuestras capacidades"
+
+# ── Section headings ──────────────────────────────────────────────────────
+
+[ourCapabilitiesHeading]
+other = "Nuestras capacidades"
+
+[keyEquipment]
+other = "Equipos clave"
+
+[manufacturingProcess]
+other = "Proceso de fabricación"
+
+[qualityCertifications]
+other = "Certificaciones de calidad"
+
+[industriesWeServe]
+other = "Industrias que servimos"
+
+[frequentlyAskedQuestions]
+other = "Preguntas frecuentes"
+
+[materials]
+other = "Materiales"
+
+[technicalSpecifications]
+other = "Especificaciones técnicas"
+
+[machineTonnageRange]
+other = "Rango de tonelaje de máquina"
+
+[grades]
+other = "Calidades"
+
+[officialStandard]
+other = "Norma oficial"
+
+# ── RFQ Form ──────────────────────────────────────────────────────────────
+
+[rfqTitle]
+other = "Solicitar presupuesto"
+
+[rfqDescription]
+other = "Complete el siguiente formulario y nuestro equipo se comunicará con usted dentro de las 24 horas."
+
+[nameLabel]
+other = "Nombre *"
+
+[namePlaceholder]
+other = "Su nombre completo"
+
+[companyLabel]
+other = "Empresa"
+
+[companyPlaceholder]
+other = "Nombre de la empresa"
+
+[emailLabel]
+other = "Correo electrónico *"
+
+[emailPlaceholder]
+other = "su@email.com"
+
+[phoneLabel]
+other = "Teléfono"
+
+[phonePlaceholder]
+other = "+34 123 456 789"
+
+[materialLabel]
+other = "Material"
+
+[materialPlaceholder]
+other = "ej. preimpregnado Toray T700"
+
+[quantityLabel]
+other = "Cantidad estimada"
+
+[quantityPlaceholder]
+other = "ej. 5000"
+
+[projectDetailsLabel]
+other = "Detalles del proyecto *"
+
+[projectDetailsPlaceholder]
+other = "Describa los requisitos, dimensiones, tolerancias de su proyecto, etc."
+
+[attachmentLabel]
+other = "Adjunto (opcional)"
+
+[honeypotLabel]
+other = "Por favor, deje este campo vacío"
+
+[submitQuote]
+other = "Enviar solicitud de presupuesto"
+
+# ── Footer ────────────────────────────────────────────────────────────────
+
+[allRightsReserved]
+other = "Todos los derechos reservados."
+
+[footerTagline]
+other = "Fabricante de piezas de fibra de carbono a medida"
+
+# ── FAQ fallback ──────────────────────────────────────────────────────────
+
+[faqPlaceholder]
+other = "Los elementos FAQ se configuran en el front matter bajo schema.faq."

@@ -5,18 +5,18 @@
 {{- $products := hugo.Data.schema.products -}}
 <section class="section section-specification" id="specification">
   <div class="container">
-    <h2 class="section-title">Technical Specifications</h2>
+    <h2 class="section-title">{{ i18n "technicalSpecifications" }}</h2>
     <div class="spec-grid">
       {{ with $mfg.equipment.tonnage_range_min }}
       <div class="spec-item">
-        <span class="spec-label">Machine Tonnage Range</span>
+        <span class="spec-label">{{ i18n "machineTonnageRange" }}</span>
         <span class="spec-value">{{ $mfg.equipment.tonnage_range_min }}T - {{ $mfg.equipment.tonnage_range_max }}T</span>
       </div>
       {{ end }}
       {{ range $products.products }}
       {{ if .material_grades }}
       <div class="spec-item">
-        <span class="spec-label">{{ .material_family }} Grades</span>
+        <span class="spec-label">{{ .material_family }} {{ i18n "grades" }}</span>
         <span class="spec-value">{{ delimit .material_grades ", " }}</span>
       </div>
       {{ end }}
