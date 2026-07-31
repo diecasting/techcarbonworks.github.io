@@ -1,26 +1,24 @@
 {{- /* =========================================================================
    navigation/language-switcher.html — Language Switcher Component
-   ==========================================================================
-   Shows available translations of the current page only.
-   Does not display languages where no translation exists.
+   Keeps Hugo multilingual logic intact (.Translations / .Language / .Permalink /
+   hreflang). Only the markup + classes change; no languages.toml / translationKey
+   / hreflang generation is touched.
    ========================================================================= */ -}}
 
 {{- $translations := .Translations -}}
 {{- $currentLang := .Language.Lang -}}
 
-{{- /* Only show switcher if there's at least one other translation */ -}}
+{{- /* Only show switcher if there is at least one other translation */ -}}
 {{- if gt (len $translations) 0 -}}
 <div class="language-switcher">
-  <button class="lang-toggle" aria-label="Switch language" aria-haspopup="true" aria-expanded="false" onclick="this.parentElement.classList.toggle('lang-open')">
+  <button class="lang-toggle" type="button" aria-label="Switch language" aria-haspopup="true" aria-expanded="false" onclick="this.parentElement.classList.toggle('lang-open')">
     <span class="lang-current">{{ .Language.Label }}</span>
     <span class="lang-arrow" aria-hidden="true">&#9662;</span>
   </button>
   <ul class="lang-menu" role="menu">
-    {{- /* Current language */ -}}
     <li role="menuitem" class="lang-item lang-active">
-      <a href="{{ .Permalink }}">{{ .Language.Label }}</a>
+      <a href="{{ .Permalink }}" hreflang="{{ $currentLang }}">{{ .Language.Label }}</a>
     </li>
-    {{- /* Other translations */ -}}
     {{- range $translations -}}
     <li role="menuitem" class="lang-item">
       <a href="{{ .Permalink }}" hreflang="{{ .Language.Lang }}">{{ .Language.Label }}</a>
