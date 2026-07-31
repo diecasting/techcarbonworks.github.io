@@ -48,86 +48,90 @@ process_types = [
   "OEM Program Management"
 ]
 
-# --- Localized fields (de) — English fallback ---
+# --- Localized fields (de) ---
+
 [de]
 knows_about = [
-  "Carbon Fiber Manufacturing",
-  "OEM Composite Components",
-  "Carbon Fiber Prototyping",
-  "CNC Machining Carbon Fiber",
-  "Advanced Composite Solutions",
-  "Carbon Fiber Mold Making"
+  "Carbonfaser-Fertigung",
+  "OEM-Composite-Bauteile",
+  "Carbonfaser-Prototyping",
+  "CNC-Bearbeitung von Carbonfaser",
+  "Fortschrittliche Composite-Lösungen",
+  "Carbonfaser-Werkzeugbau"
 ]
-capabilities_description = "Since 2005, TechCarbonWorks has manufactured custom carbon fiber parts using prepreg molding, hand layup, vacuum bagging, autoclave curing and precision CNC machining — from rapid prototypes to certified OEM production for UAV, aerospace, motorsport and robotics customers worldwide."
-materials_primary = ["Prepreg Carbon Fiber", "Dry Carbon Fabric", "Forged Carbon", "Carbon-Kevlar Hybrid"]
+capabilities_description = "Seit 2005 fertigt TechCarbonWorks maßgefertigte Carbonfaser-Bauteile mittels Prepreg-Formung, Handlaminierung, Vakuumbeutelung, Autoklavenhärtung und präziser CNC-Bearbeitung — von schnellen Prototypen bis zur zertifizierten OEM-Serienfertigung für Kunden aus den Bereichen UAV, Luft- und Raumfahrt, Motorsport und Robotik weltweit."
+materials_primary = ["Prepreg-Carbonfaser", "Trockengewebe", "Forged Carbon", "Carbon-Kevlar-Hybrid"]
 process_types = [
-  "Prepreg Molding",
-  "Hand Layup & Vacuum Bagging",
-  "Autoclave Curing",
-  "CNC Machining Carbon Fiber",
-  "Carbon Fiber Mold Making",
-  "OEM Program Management"
+  "Prepreg-Formung",
+  "Handlaminierung & Vakuumbeutelung",
+  "Autoklavenhärtung",
+  "CNC-Bearbeitung von Carbonfaser",
+  "Carbonfaser-Werkzeugbau",
+  "OEM-Programmmanagement"
 ]
 
-# --- Localized fields (ja) — English fallback ---
+# --- Localized fields (ja) ---
+
 [ja]
 knows_about = [
-  "Carbon Fiber Manufacturing",
-  "OEM Composite Components",
-  "Carbon Fiber Prototyping",
-  "CNC Machining Carbon Fiber",
-  "Advanced Composite Solutions",
-  "Carbon Fiber Mold Making"
+  "炭素繊維製造",
+  "OEM複合材コンポーネント",
+  "炭素繊維プロトタイピング",
+  "炭素繊維のCNC加工",
+  "高度な複合材料ソリューション",
+  "カーボン金型製作"
 ]
-capabilities_description = "Since 2005, TechCarbonWorks has manufactured custom carbon fiber parts using prepreg molding, hand layup, vacuum bagging, autoclave curing and precision CNC machining — from rapid prototypes to certified OEM production for UAV, aerospace, motorsport and robotics customers worldwide."
-materials_primary = ["Prepreg Carbon Fiber", "Dry Carbon Fabric", "Forged Carbon", "Carbon-Kevlar Hybrid"]
+capabilities_description = "TechCarbonWorksは、2005年よりプリプレグ成形、ハンドレイアップ、真空バッグ成形、オートクレーブ硬化、および高精度CNC加工により、カーボンファイバー部品を受託製造しています。UAV、航空宇宙、モータースポーツ、ロボティクス向けに、迅速な試作から認証済みOEM量産まで世界各地の顧客に提供しています。"
+materials_primary = ["プリプレグ炭素繊維", "ドライカーボン織物", "鍛造カーボン", "カーボン・ケブラー・ハイブリッド"]
 process_types = [
-  "Prepreg Molding",
-  "Hand Layup & Vacuum Bagging",
-  "Autoclave Curing",
-  "CNC Machining Carbon Fiber",
-  "Carbon Fiber Mold Making",
-  "OEM Program Management"
+  "プリプレグ成形",
+  "ハンドレイアップ＆真空バッグ成形",
+  "オートクレーブ硬化",
+  "炭素繊維のCNC加工",
+  "カーボン金型製作",
+  "OEMプログラム管理"
 ]
 
-# --- Localized fields (fr) — English fallback ---
+# --- Localized fields (fr) ---
+
 [fr]
 knows_about = [
-  "Carbon Fiber Manufacturing",
-  "OEM Composite Components",
-  "Carbon Fiber Prototyping",
-  "CNC Machining Carbon Fiber",
-  "Advanced Composite Solutions",
-  "Carbon Fiber Mold Making"
+  "Fabrication de fibre de carbone",
+  "Composants composites OEM",
+  "Prototypage en fibre de carbone",
+  "Usinage CNC de la fibre de carbone",
+  "Solutions composites avancées",
+  "Fabrication de moules en fibre de carbone"
 ]
-capabilities_description = "Since 2005, TechCarbonWorks has manufactured custom carbon fiber parts using prepreg molding, hand layup, vacuum bagging, autoclave curing and precision CNC machining — from rapid prototypes to certified OEM production for UAV, aerospace, motorsport and robotics customers worldwide."
-materials_primary = ["Prepreg Carbon Fiber", "Dry Carbon Fabric", "Forged Carbon", "Carbon-Kevlar Hybrid"]
+capabilities_description = "Depuis 2005, TechCarbonWorks fabrique des pièces en fibre de carbone sur mesure par moulage de préimprégnés, drapage manuel, mise sous vide, cuisson en autoclave et usinage CNC de précision — des prototypes rapides à la production OEM certifiée pour les clients des secteurs UAV, aérospatial, sport automobile et robotique dans le monde entier."
+materials_primary = ["Préimprégné de fibre de carbone", "Tissu de carbone sec", "Carbone forgé", "Hybride carbone-Kevlar"]
 process_types = [
-  "Prepreg Molding",
-  "Hand Layup & Vacuum Bagging",
-  "Autoclave Curing",
-  "CNC Machining Carbon Fiber",
-  "Carbon Fiber Mold Making",
-  "OEM Program Management"
+  "Moulage par préimprégné",
+  "Drapage manuel et mise sous vide",
+  "Cuisson en autoclave",
+  "Usinage CNC de la fibre de carbone",
+  "Fabrication de moules en fibre de carbone",
+  "Gestion de programmes OEM"
 ]
 
-# --- Localized fields (es) — English fallback ---
+# --- Localized fields (es) ---
+
 [es]
 knows_about = [
-  "Carbon Fiber Manufacturing",
-  "OEM Composite Components",
-  "Carbon Fiber Prototyping",
-  "CNC Machining Carbon Fiber",
-  "Advanced Composite Solutions",
-  "Carbon Fiber Mold Making"
+  "Fabricación de fibra de carbono",
+  "Componentes compuestos OEM",
+  "Prototipado de fibra de carbono",
+  "Mecanizado CNC de fibra de carbono",
+  "Soluciones compuestas avanzadas",
+  "Fabricación de moldes de fibra de carbono"
 ]
-capabilities_description = "Since 2005, TechCarbonWorks has manufactured custom carbon fiber parts using prepreg molding, hand layup, vacuum bagging, autoclave curing and precision CNC machining — from rapid prototypes to certified OEM production for UAV, aerospace, motorsport and robotics customers worldwide."
-materials_primary = ["Prepreg Carbon Fiber", "Dry Carbon Fabric", "Forged Carbon", "Carbon-Kevlar Hybrid"]
+capabilities_description = "Desde 2005, TechCarbonWorks fabrica piezas de fibra de carbono a medida mediante moldeo de prepreg, laminado manual, embolsado al vacío, curado en autoclave y mecanizado CNC de precisión — desde prototipos rápidos hasta producción OEM certificada para clientes de los sectores UAV, aeroespacial, automovilismo y robótica en todo el mundo."
+materials_primary = ["Preimpregnado de fibra de carbono", "Tejido de carbono seco", "Carbono forjado", "Híbrido carbono-Kevlar"]
 process_types = [
-  "Prepreg Molding",
-  "Hand Layup & Vacuum Bagging",
-  "Autoclave Curing",
-  "CNC Machining Carbon Fiber",
-  "Carbon Fiber Mold Making",
-  "OEM Program Management"
+  "Moldeo por prepreg",
+  "Laminado manual y embolsado al vacío",
+  "Curado en autoclave",
+  "Mecanizado CNC de fibra de carbono",
+  "Fabricación de moldes de fibra de carbono",
+  "Gestión de programas OEM"
 ]

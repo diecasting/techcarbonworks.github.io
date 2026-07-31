@@ -6,124 +6,124 @@
 
 # --- Header navigation ---
 [[main]]
-  name = "Home"
+  name = "ホーム"
   url = "/"
   weight = 1
 
 [[main]]
-  name = "Capabilities"
+  name = "技術能力"
   url = "/#capabilities"
   weight = 2
 
 [[main]]
-  name = "Services"
+  name = "サービス"
   url = "/carbon-fiber-manufacturing-services/"
   weight = 3
   identifier = "services"
 
 [[main]]
-  name = "Carbon Fiber Manufacturing Services"
+  name = "炭素繊維製造サービス"
   url = "/carbon-fiber-manufacturing-services/"
   parent = "services"
   weight = 1
 
 [[main]]
-  name = "Custom Carbon Fiber Parts"
+  name = "カスタムカーボンファイバー部品"
   url = "/custom-carbon-fiber-parts-manufacturer/"
   parent = "services"
   weight = 2
 
 [[main]]
-  name = "CNC Machining Carbon Fiber"
+  name = "炭素繊維のCNC加工"
   url = "/cnc-machining-carbon-fiber-parts/"
   parent = "services"
   weight = 3
 
 [[main]]
-  name = "Carbon Fiber Prototyping"
+  name = "炭素繊維プロトタイピング"
   url = "/carbon-fiber-prototyping-services/"
   parent = "services"
   weight = 4
 
 [[main]]
-  name = "Carbon Fiber Mold Making"
+  name = "カーボン金型製作"
   url = "/carbon-fiber-mold-making-service/"
   parent = "services"
   weight = 5
 
 [[main]]
-  name = "Industries"
+  name = "対応業界"
   url = "/uav-carbon-fiber-components-manufacturer/"
   weight = 4
   identifier = "industries"
 
 [[main]]
-  name = "UAV & Drone Components"
+  name = "UAV・ドローン部品"
   url = "/uav-carbon-fiber-components-manufacturer/"
   parent = "industries"
   weight = 1
 
 [[main]]
-  name = "Aerospace Parts"
+  name = "航空宇宙部品"
   url = "/aerospace-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 2
 
 [[main]]
-  name = "Motorsport Parts"
+  name = "モータースポーツ部品"
   url = "/motorsport-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 3
 
 [[main]]
-  name = "Robotics Parts"
+  name = "ロボティクス部品"
   url = "/robotics-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 4
 
 [[main]]
-  name = "Resources"
+  name = "リソース"
   url = "/blog/"
   weight = 5
 
 [[main]]
-  name = "Contact"
+  name = "お問い合わせ"
   url = "/#rfq"
   weight = 6
 
 # --- Footer navigation (grouped columns) ---
 [[footer]]
   identifier = "company"
-  name = "Company"
+  name = "会社情報"
   weight = 1
 
 [[footer]]
-  name = "About TechCarbonWorks"
+  name = "TechCarbonWorksについて"
   url = "/#about-techcarbonworks"
   parent = "company"
   weight = 1
 
 [[footer]]
-  name = "Manufacturing Capabilities"
+  name = "製造能力"
   url = "/#capabilities"
   parent = "company"
   weight = 2
 
 [[footer]]
-  name = "Manufacturing Process"
+  name = "製造プロセス"
   url = "/#process"
   parent = "company"
   weight = 3
 
 [[footer]]
-  name = "Quality & Certifications"
+  name = "品質と認証"
   url = "/#certifications"
   parent = "company"
   weight = 4
 
 [[footer]]
   identifier = "services"
-  name = "Manufacturing Services"
+  name = "製造サービス"
   weight = 2
 
 [[footer]]
@@ -133,65 +133,65 @@
   weight = 1
 
 [[footer]]
-  name = "Custom Carbon Fiber Parts"
+  name = "カスタムカーボンファイバー部品"
   url = "/custom-carbon-fiber-parts-manufacturer/"
   parent = "services"
   weight = 2
 
 [[footer]]
-  name = "CNC Machining Carbon Fiber"
+  name = "炭素繊維のCNC加工"
   url = "/cnc-machining-carbon-fiber-parts/"
   parent = "services"
   weight = 3
 
 [[footer]]
-  name = "Carbon Fiber Prototyping"
+  name = "炭素繊維プロトタイピング"
   url = "/carbon-fiber-prototyping-services/"
   parent = "services"
   weight = 4
 
 [[footer]]
-  name = "Carbon Fiber Mold Making"
+  name = "カーボン金型製作"
   url = "/carbon-fiber-mold-making-service/"
   parent = "services"
   weight = 5
 
 [[footer]]
   identifier = "industries"
-  name = "Industries"
+  name = "対応業界"
   weight = 3
 
 [[footer]]
-  name = "UAV & Drone Components"
+  name = "UAV・ドローン部品"
   url = "/uav-carbon-fiber-components-manufacturer/"
   parent = "industries"
   weight = 1
 
 [[footer]]
-  name = "Aerospace Parts"
+  name = "航空宇宙部品"
   url = "/aerospace-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 2
 
 [[footer]]
-  name = "Motorsport Parts"
+  name = "モータースポーツ部品"
   url = "/motorsport-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 3
 
 [[footer]]
-  name = "Robotics Parts"
+  name = "ロボティクス部品"
   url = "/robotics-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 4
 
 [[footer]]
   identifier = "contact"
-  name = "Contact"
+  name = "お問い合わせ"
   weight = 4
 
 [[footer]]
-  name = "Request a Quote"
+  name = "見積りを依頼"
   url = "/#rfq"
   parent = "contact"
   weight = 1
@@ -203,7 +203,7 @@
   weight = 2
 
 [[footer]]
-  name = "Carbon Fiber Blog"
+  name = "炭素繊維ブログ"
   url = "/blog/"
   parent = "contact"
   weight = 3

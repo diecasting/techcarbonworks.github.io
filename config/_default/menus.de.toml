@@ -6,124 +6,124 @@
 
 # --- Header navigation ---
 [[main]]
-  name = "Home"
+  name = "Start"
   url = "/"
   weight = 1
 
 [[main]]
-  name = "Capabilities"
+  name = "Fähigkeiten"
   url = "/#capabilities"
   weight = 2
 
 [[main]]
-  name = "Services"
+  name = "Leistungen"
   url = "/carbon-fiber-manufacturing-services/"
   weight = 3
   identifier = "services"
 
 [[main]]
-  name = "Carbon Fiber Manufacturing Services"
+  name = "Carbonfaser-Fertigungsservices"
   url = "/carbon-fiber-manufacturing-services/"
   parent = "services"
   weight = 1
 
 [[main]]
-  name = "Custom Carbon Fiber Parts"
+  name = "Maßgefertigte Carbonfaser-Teile"
   url = "/custom-carbon-fiber-parts-manufacturer/"
   parent = "services"
   weight = 2
 
 [[main]]
-  name = "CNC Machining Carbon Fiber"
+  name = "CNC-Bearbeitung Carbonfaser"
   url = "/cnc-machining-carbon-fiber-parts/"
   parent = "services"
   weight = 3
 
 [[main]]
-  name = "Carbon Fiber Prototyping"
+  name = "Carbonfaser-Prototyping"
   url = "/carbon-fiber-prototyping-services/"
   parent = "services"
   weight = 4
 
 [[main]]
-  name = "Carbon Fiber Mold Making"
+  name = "Carbonfaser-Werkzeugbau"
   url = "/carbon-fiber-mold-making-service/"
   parent = "services"
   weight = 5
 
 [[main]]
-  name = "Industries"
+  name = "Branchen"
   url = "/uav-carbon-fiber-components-manufacturer/"
   weight = 4
   identifier = "industries"
 
 [[main]]
-  name = "UAV & Drone Components"
+  name = "UAV- & Drohnenkomponenten"
   url = "/uav-carbon-fiber-components-manufacturer/"
   parent = "industries"
   weight = 1
 
 [[main]]
-  name = "Aerospace Parts"
+  name = "Luft- und Raumfahrtteile"
   url = "/aerospace-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 2
 
 [[main]]
-  name = "Motorsport Parts"
+  name = "Motorsportteile"
   url = "/motorsport-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 3
 
 [[main]]
-  name = "Robotics Parts"
+  name = "Robotikteile"
   url = "/robotics-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 4
 
 [[main]]
-  name = "Resources"
+  name = "Ressourcen"
   url = "/blog/"
   weight = 5
 
 [[main]]
-  name = "Contact"
+  name = "Kontakt"
   url = "/#rfq"
   weight = 6
 
 # --- Footer navigation (grouped columns) ---
 [[footer]]
   identifier = "company"
-  name = "Company"
+  name = "Unternehmen"
   weight = 1
 
 [[footer]]
-  name = "About TechCarbonWorks"
+  name = "Über TechCarbonWorks"
   url = "/#about-techcarbonworks"
   parent = "company"
   weight = 1
 
 [[footer]]
-  name = "Manufacturing Capabilities"
+  name = "Fertigungskapazitäten"
   url = "/#capabilities"
   parent = "company"
   weight = 2
 
 [[footer]]
-  name = "Manufacturing Process"
+  name = "Fertigungsprozess"
   url = "/#process"
   parent = "company"
   weight = 3
 
 [[footer]]
-  name = "Quality & Certifications"
+  name = "Qualität & Zertifizierungen"
   url = "/#certifications"
   parent = "company"
   weight = 4
 
 [[footer]]
   identifier = "services"
-  name = "Manufacturing Services"
+  name = "Fertigungsservices"
   weight = 2
 
 [[footer]]
@@ -133,65 +133,65 @@
   weight = 1
 
 [[footer]]
-  name = "Custom Carbon Fiber Parts"
+  name = "Maßgefertigte Carbonfaser-Teile"
   url = "/custom-carbon-fiber-parts-manufacturer/"
   parent = "services"
   weight = 2
 
 [[footer]]
-  name = "CNC Machining Carbon Fiber"
+  name = "CNC-Bearbeitung Carbonfaser"
   url = "/cnc-machining-carbon-fiber-parts/"
   parent = "services"
   weight = 3
 
 [[footer]]
-  name = "Carbon Fiber Prototyping"
+  name = "Carbonfaser-Prototyping"
   url = "/carbon-fiber-prototyping-services/"
   parent = "services"
   weight = 4
 
 [[footer]]
-  name = "Carbon Fiber Mold Making"
+  name = "Carbonfaser-Werkzeugbau"
   url = "/carbon-fiber-mold-making-service/"
   parent = "services"
   weight = 5
 
 [[footer]]
   identifier = "industries"
-  name = "Industries"
+  name = "Branchen"
   weight = 3
 
 [[footer]]
-  name = "UAV & Drone Components"
+  name = "UAV- & Drohnenkomponenten"
   url = "/uav-carbon-fiber-components-manufacturer/"
   parent = "industries"
   weight = 1
 
 [[footer]]
-  name = "Aerospace Parts"
+  name = "Luft- und Raumfahrtteile"
   url = "/aerospace-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 2
 
 [[footer]]
-  name = "Motorsport Parts"
+  name = "Motorsportteile"
   url = "/motorsport-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 3
 
 [[footer]]
-  name = "Robotics Parts"
+  name = "Robotikteile"
   url = "/robotics-carbon-fiber-parts-manufacturer/"
   parent = "industries"
   weight = 4
 
 [[footer]]
   identifier = "contact"
-  name = "Contact"
+  name = "Kontakt"
   weight = 4
 
 [[footer]]
-  name = "Request a Quote"
+  name = "Angebot anfordern"
   url = "/#rfq"
   parent = "contact"
   weight = 1
@@ -203,7 +203,7 @@
   weight = 2
 
 [[footer]]
-  name = "Carbon Fiber Blog"
+  name = "Carbonfaser-Blog"
   url = "/blog/"
   parent = "contact"
   weight = 3

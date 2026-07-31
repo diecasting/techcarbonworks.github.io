@@ -50,82 +50,74 @@ description = "Restriction of Hazardous Substances compliance for resins, adhesi
 name = "REACH Compliant Chemistry"
 description = "EU REACH compliance for chemical substances used in prepregs, resin systems, and surface finishes across our production lines."
 
-# --- Localized (de) — English fallback ---
+# --- Localized (de) ---
+
 [de.iso-9001]
-name = "ISO 9001 Quality Management System"
-description = "Internationally recognized quality management standard ensuring consistent composite part quality, traceable materials and processes, and continuous improvement."
+name = "ISO 9001 Qualitätsmanagementsystem"
+description = "International anerkannter Qualitätsmanagement-Standard, der eine gleichbleibende Composite-Bauteilqualität, rückverfolgbare Materialien und Prozesse sowie kontinuierliche Verbesserung sicherstellt."
 
-# --- Localized (ja) — English fallback ---
-[ja.iso-9001]
-name = "ISO 9001 Quality Management System"
-description = "Internationally recognized quality management standard ensuring consistent composite part quality, traceable materials and processes, and continuous improvement."
-
-# --- Localized (fr) — English fallback ---
-[fr.iso-9001]
-name = "ISO 9001 Quality Management System"
-description = "Internationally recognized quality management standard ensuring consistent composite part quality, traceable materials and processes, and continuous improvement."
-
-# --- Localized (es) — English fallback ---
-[es.iso-9001]
-name = "ISO 9001 Quality Management System"
-description = "Internationally recognized quality management standard ensuring consistent composite part quality, traceable materials and processes, and continuous improvement."
-
-# --- Localized (de) — English fallback ---
 [de.iso-14001]
-name = "ISO 14001 Environmental Management"
-description = "Environmental management standard covering resin systems, waste handling, and resource efficiency across our composite manufacturing operations."
+name = "ISO 14001 Umweltmanagement"
+description = "Umweltmanagement-Standard, der Harzsysteme, Abfallhandhabung und Ressourceneffizienz in unseren Composite-Fertigungsprozessen abdeckt."
 
-# --- Localized (ja) — English fallback ---
-[ja.iso-14001]
-name = "ISO 14001 Environmental Management"
-description = "Environmental management standard covering resin systems, waste handling, and resource efficiency across our composite manufacturing operations."
-
-# --- Localized (fr) — English fallback ---
-[fr.iso-14001]
-name = "ISO 14001 Environmental Management"
-description = "Environmental management standard covering resin systems, waste handling, and resource efficiency across our composite manufacturing operations."
-
-# --- Localized (es) — English fallback ---
-[es.iso-14001]
-name = "ISO 14001 Environmental Management"
-description = "Environmental management standard covering resin systems, waste handling, and resource efficiency across our composite manufacturing operations."
-
-# --- Localized (de) — English fallback ---
 [de.rohs-compliant]
-name = "RoHS Compliant Materials"
-description = "Restriction of Hazardous Substances compliance for resins, adhesives, and coatings used in our carbon fiber components."
+name = "RoHS-konforme Materialien"
+description = "Einhaltung der RoHS-Richtlinie (Beschränkung gefährlicher Stoffe) für Harze, Klebstoffe und Beschichtungen in unseren Carbonfaser-Bauteilen."
 
-# --- Localized (ja) — English fallback ---
-[ja.rohs-compliant]
-name = "RoHS Compliant Materials"
-description = "Restriction of Hazardous Substances compliance for resins, adhesives, and coatings used in our carbon fiber components."
-
-# --- Localized (fr) — English fallback ---
-[fr.rohs-compliant]
-name = "RoHS Compliant Materials"
-description = "Restriction of Hazardous Substances compliance for resins, adhesives, and coatings used in our carbon fiber components."
-
-# --- Localized (es) — English fallback ---
-[es.rohs-compliant]
-name = "RoHS Compliant Materials"
-description = "Restriction of Hazardous Substances compliance for resins, adhesives, and coatings used in our carbon fiber components."
-
-# --- Localized (de) — English fallback ---
 [de.reach-compliant]
-name = "REACH Compliant Chemistry"
-description = "EU REACH compliance for chemical substances used in prepregs, resin systems, and surface finishes across our production lines."
+name = "REACH-konforme Chemie"
+description = "EU-REACH-Konformität für chemische Stoffe in Prepregs, Harzsystemen und Oberflächenfinishs auf unseren Produktionslinien."
 
-# --- Localized (ja) — English fallback ---
+# --- Localized (ja) ---
+
+[ja.iso-9001]
+name = "ISO 9001 品質マネジメントシステム"
+description = "一貫した複合材部品の品質、材料と工程のトレーサビリティ、および継続的改善を保証する、国際的に認められた品質マネジメント規格。"
+
+[ja.iso-14001]
+name = "ISO 14001 環境マネジメント"
+description = "当社の複合材製造オペレーションにおける樹脂システム、廃棄物処理、リソース効率を対象とする環境管理規格。"
+
+[ja.rohs-compliant]
+name = "RoHS準拠材料"
+description = "当社のカーボンファイバー部品に使用する樹脂、接着剤、コーティングに対する有害物質制限指令（RoHS）への準拠。"
+
 [ja.reach-compliant]
-name = "REACH Compliant Chemistry"
-description = "EU REACH compliance for chemical substances used in prepregs, resin systems, and surface finishes across our production lines."
+name = "REACH準拠の化学物質"
+description = "当社の生産ラインで使用されるプリプレグ、樹脂システム、表面仕上げに用いる化学物質のEU REACH規制への準拠。"
 
-# --- Localized (fr) — English fallback ---
+# --- Localized (fr) ---
+
+[fr.iso-9001]
+name = "Système de management de la qualité ISO 9001"
+description = "Norme de management de la qualité reconnue internationalement, garantissant une qualité constante des pièces composites, des matériaux et processus traçables, ainsi que l'amélioration continue."
+
+[fr.iso-14001]
+name = "Management environnemental ISO 14001"
+description = "Norme de management environnemental couvrant les systèmes de résine, la gestion des déchets et l'efficacité des ressources dans nos opérations de fabrication de composites."
+
+[fr.rohs-compliant]
+name = "Matériaux conformes RoHS"
+description = "Conformité à la directive RoHS (restriction des substances dangereuses) pour les résines, adhésifs et revêtements utilisés dans nos composants en fibre de carbone."
+
 [fr.reach-compliant]
-name = "REACH Compliant Chemistry"
-description = "EU REACH compliance for chemical substances used in prepregs, resin systems, and surface finishes across our production lines."
+name = "Chimie conforme REACH"
+description = "Conformité au règlement européen REACH pour les substances chimiques utilisées dans les préimprégnés, les systèmes de résine et les finitions de surface sur nos lignes de production."
 
-# --- Localized (es) — English fallback ---
+# --- Localized (es) ---
+
+[es.iso-9001]
+name = "Sistema de gestión de calidad ISO 9001"
+description = "Norma de gestión de calidad reconocida internacionalmente que garantiza una calidad constante de las piezas compuestas, materiales y procesos trazables, y la mejora continua."
+
+[es.iso-14001]
+name = "Gestión medioambiental ISO 14001"
+description = "Norma de gestión ambiental que abarca los sistemas de resina, el tratamiento de residuos y la eficiencia de los recursos en nuestras operaciones de fabricación de composites."
+
+[es.rohs-compliant]
+name = "Materiales conformes a RoHS"
+description = "Cumplimiento de la directiva RoHS (restricción de sustancias peligrosas) para resinas, adhesivos y recubrimientos utilizados en nuestros componentes de fibra de carbono."
+
 [es.reach-compliant]
-name = "REACH Compliant Chemistry"
-description = "EU REACH compliance for chemical substances used in prepregs, resin systems, and surface finishes across our production lines."
+name = "Química conforme a REACH"
+description = "Cumplimiento del reglamento europeo REACH para las sustancias químicas utilizadas en preimpregnados, sistemas de resina y acabados de superficie en nuestras líneas de producción."
