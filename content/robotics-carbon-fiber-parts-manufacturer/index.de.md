@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "Robotics Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "robotics-carbon-fiber-parts-manufacturer"

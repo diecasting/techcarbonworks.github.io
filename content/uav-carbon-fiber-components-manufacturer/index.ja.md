@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "UAV Carbon Fiber Components Manufacturer"
 layout: "landing"
 translationKey: "uav-carbon-fiber-components-manufacturer"

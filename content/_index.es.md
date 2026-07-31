@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "Custom Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "home"

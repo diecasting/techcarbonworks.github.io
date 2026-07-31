@@ -5,7 +5,7 @@
 {{ with .Description }}<meta name="description" content="{{ . }}">{{ else }}<meta name="description" content="{{ .Site.Params.description }}">{{ end }}
 {{ with .Keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
 <meta name="author" content="{{ .Site.Params.Author.name }}">
-{{ with .Params.robots }}<meta name="robots" content="{{ . }}">{{ end }}
+{{ with .Params.robots }}<meta name="robots" content="{{ if reflect.IsSlice . }}{{ delimit . ", " }}{{ else }}{{ . }}{{ end }}">{{ end }}
 
 <!-- Canonical (self-referencing, per-language) -->
 {{ partial "seo/canonical.html" . }}

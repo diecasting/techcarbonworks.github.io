@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "Motorsport Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "motorsport-carbon-fiber-parts-manufacturer"

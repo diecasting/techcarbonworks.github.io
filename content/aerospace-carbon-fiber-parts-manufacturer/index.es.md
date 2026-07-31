@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "Aerospace Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "aerospace-carbon-fiber-parts-manufacturer"

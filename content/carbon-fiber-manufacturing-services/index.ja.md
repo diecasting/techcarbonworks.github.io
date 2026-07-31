@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "Carbon Fiber Manufacturing Services"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"

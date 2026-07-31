@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "Carbon Fiber Prototyping Services"
 layout: "landing"
 translationKey: "carbon-fiber-prototyping-services"

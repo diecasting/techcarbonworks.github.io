@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "CNC Machining Carbon Fiber Parts"
 layout: "landing"
 translationKey: "cnc-machining-carbon-fiber-parts"

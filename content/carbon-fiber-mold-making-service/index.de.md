@@ -1,4 +1,8 @@
 ---
+robots:
+  - noindex
+  - nofollow
+
 title: "Carbon Fiber Mold Making Service"
 layout: "landing"
 translationKey: "carbon-fiber-mold-making-service"
