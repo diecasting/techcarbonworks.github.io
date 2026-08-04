@@ -29,6 +29,10 @@ keywords = ["carbon fiber parts manufacturer", "custom carbon fiber parts", "OEM
   enableRFQ = true
   enableMultilingual = true
 
+# Google Analytics (gtag.js)
+[analytics]
+  google_analytics_id = "G-182NM7HFRD"
+
 # Homepage configuration
 [homepage]
   showServices = true
