@@ -107,180 +107,180 @@ description = "Precision carbon fiber arms, links, frames and end-effector compo
 
 # --- Localized (de) — English fallback ---
 [de.carbon-fiber-manufacturing-services]
-name = "Carbon Fiber Manufacturing Services"
-description = "Custom carbon fiber manufacturing services including carbon fiber prototyping, OEM production, prepreg molding, hand layup, vacuum bagging, autoclave curing and CNC machining, serving customers worldwide."
+name = "Carbonfaser-Fertigungsdienstleistungen"
+description = "Maßgeschneiderte Carbonfaser-Fertigungsdienstleistungen umfassend Carbonfaser-Prototyping, OEM-Serienfertigung, Prepeg-Verarbeitung, Handlaminierung, Vakuumabsackung, Autoklavenhärtung und CNC-Bearbeitung – für Kunden weltweit."
 
 # --- Localized (ja) — English fallback ---
 [ja.carbon-fiber-manufacturing-services]
-name = "Carbon Fiber Manufacturing Services"
-description = "Custom carbon fiber manufacturing services including carbon fiber prototyping, OEM production, prepreg molding, hand layup, vacuum bagging, autoclave curing and CNC machining, serving customers worldwide."
+name = "カーボンファイバー製造サービス"
+description = "カーボンファイバーの試作、OEM生産、プリプレグ成形、ハンドレイアップ、バキュームバギング、オートクレーブ硬化、およびCNC加工を含む、お客様向けのカスタム炭素繊維製造サービスを世界規模で提供します。"
 
 # --- Localized (fr) — English fallback ---
 [fr.carbon-fiber-manufacturing-services]
-name = "Carbon Fiber Manufacturing Services"
-description = "Custom carbon fiber manufacturing services including carbon fiber prototyping, OEM production, prepreg molding, hand layup, vacuum bagging, autoclave curing and CNC machining, serving customers worldwide."
+name = "Services de fabrication en fibre de carbone"
+description = "Services de fabrication sur mesure en fibre de carbone incluant le prototypage en fibre de carbone, la production OEM, le moulage par préimprégné, le drapage manuel, le vacuum-bagging, la cuisson en autoclave et l'usinage CNC, pour des clients dans le monde entier."
 
 # --- Localized (es) — English fallback ---
 [es.carbon-fiber-manufacturing-services]
-name = "Carbon Fiber Manufacturing Services"
-description = "Custom carbon fiber manufacturing services including carbon fiber prototyping, OEM production, prepreg molding, hand layup, vacuum bagging, autoclave curing and CNC machining, serving customers worldwide."
+name = "Servicios de fabricación de fibra de carbono"
+description = "Servicios de fabricación personalizados de fibra de carbono que incluyen prototipado de fibra de carbono, producción OEM, moldeo por prepreg, laminado manual, ensacado al vacío, curado en autoclave y mecanizado CNC, para clientes de todo el mundo."
 
 # --- Localized (de) — English fallback ---
 [de.custom-carbon-fiber-parts-manufacturer]
-name = "Custom Carbon Fiber Parts Manufacturer"
-description = "TechCarbonWorks designs and manufactures custom carbon fiber parts to print — from one-off prototypes to certified OEM production runs — with full material traceability and dimensional inspection."
+name = "Hersteller von kundenspezifischen Carbonfaser-Bauteilen"
+description = "TechCarbonWorks entwickelt und fertigt kundenspezifische Carbonfaser-Bauteile nach Zeichnung – von Einzelprototypen bis zu zertifizierten OEM-Serienfertigungen – mit vollständiger Materialrückverfolgbarkeit und Maßprüfung."
 
 # --- Localized (ja) — English fallback ---
 [ja.custom-carbon-fiber-parts-manufacturer]
-name = "Custom Carbon Fiber Parts Manufacturer"
-description = "TechCarbonWorks designs and manufactures custom carbon fiber parts to print — from one-off prototypes to certified OEM production runs — with full material traceability and dimensional inspection."
+name = "カスタムカーボンファイバー部品メーカー"
+description = "TechCarbonWorksは、図面に基づくカスタム炭素繊維部品を設計・製造します。ワンオフの試作から認証済みOEM量産まで、完全な材料トレーサビリティと寸法検査を伴って提供します。"
 
 # --- Localized (fr) — English fallback ---
 [fr.custom-carbon-fiber-parts-manufacturer]
-name = "Custom Carbon Fiber Parts Manufacturer"
-description = "TechCarbonWorks designs and manufactures custom carbon fiber parts to print — from one-off prototypes to certified OEM production runs — with full material traceability and dimensional inspection."
+name = "Fabricant de pièces sur mesure en fibre de carbone"
+description = "TechCarbonWorks conçoit et fabrique des pièces sur mesure en fibre de carbone à partir de plans – des prototypes uniques aux séries OEM certifiées – avec une traçabilité matière complète et un contrôle dimensionnel."
 
 # --- Localized (es) — English fallback ---
 [es.custom-carbon-fiber-parts-manufacturer]
-name = "Custom Carbon Fiber Parts Manufacturer"
-description = "TechCarbonWorks designs and manufactures custom carbon fiber parts to print — from one-off prototypes to certified OEM production runs — with full material traceability and dimensional inspection."
+name = "Fabricante de piezas personalizadas de fibra de carbono"
+description = "TechCarbonWorks diseña y fabrica piezas personalizadas de fibra de carbono según plano — desde prototipos unitarios hasta series OEM certificadas — con trazabilidad completa de materiales e inspección dimensional."
 
 # --- Localized (de) — English fallback ---
 [de.cnc-machining-carbon-fiber-parts]
-name = "CNC Machining Carbon Fiber Parts"
-description = "Precision 3- and 5-axis CNC machining of carbon fiber sheets, tubes and molded components with tight tolerances, clean edges and delamination-free finishes."
+name = "CNC-Bearbeitung von Carbonfaser-Bauteilen"
+description = "Präzise 3- und 5-Achs-CNC-Bearbeitung von Carbonfaser-Platten, -Rohren und geformten Bauteilen mit engen Toleranzen, sauberen Kanten und delaminationsfreien Oberflächen."
 
 # --- Localized (ja) — English fallback ---
 [ja.cnc-machining-carbon-fiber-parts]
-name = "CNC Machining Carbon Fiber Parts"
-description = "Precision 3- and 5-axis CNC machining of carbon fiber sheets, tubes and molded components with tight tolerances, clean edges and delamination-free finishes."
+name = "カーボンファイバー部品のCNC加工"
+description = "炭素繊維板材、パイプ、成形部品の精密な3軸・5軸CNC加工を、厳しい公差、清浄なエッジ、および層間剥離のない仕上げで提供します。"
 
 # --- Localized (fr) — English fallback ---
 [fr.cnc-machining-carbon-fiber-parts]
-name = "CNC Machining Carbon Fiber Parts"
-description = "Precision 3- and 5-axis CNC machining of carbon fiber sheets, tubes and molded components with tight tolerances, clean edges and delamination-free finishes."
+name = "Usinage CNC de pièces en fibre de carbone"
+description = "Usinage CNC de précision 3 et 5 axes de plaques, tubes et composants moulés en fibre de carbone, avec des tolérances serrées, des arêtes nettes et des finitions sans délaminage."
 
 # --- Localized (es) — English fallback ---
 [es.cnc-machining-carbon-fiber-parts]
-name = "CNC Machining Carbon Fiber Parts"
-description = "Precision 3- and 5-axis CNC machining of carbon fiber sheets, tubes and molded components with tight tolerances, clean edges and delamination-free finishes."
+name = "Mecanizado CNC de piezas de fibra de carbono"
+description = "Mecanizado CNC de precisión de 3 y 5 ejes de planchas, tubos y componentes moldeados de fibra de carbono, con tolerancias ajustadas, bordes limpios y acabados sin delaminación."
 
 # --- Localized (de) — English fallback ---
 [de.carbon-fiber-prototyping-services]
-name = "Carbon Fiber Prototyping Services"
-description = "Rapid carbon fiber prototyping with fast tooling, prepreg or wet layup construction and quick design iterations to move your composite part from CAD to functional prototype."
+name = "Carbonfaser-Prototyping-Dienstleistungen"
+description = "Schnelles Carbonfaser-Prototyping mit rascher Werkzeugkonstruktion, Prepeg- oder Nasslaminierungs-Aufbau sowie zügigen Designiterationen, um Ihr Carbonfaser-Bauteil von CAD zum funktionsfähigen Prototyp zu bringen."
 
 # --- Localized (ja) — English fallback ---
 [ja.carbon-fiber-prototyping-services]
-name = "Carbon Fiber Prototyping Services"
-description = "Rapid carbon fiber prototyping with fast tooling, prepreg or wet layup construction and quick design iterations to move your composite part from CAD to functional prototype."
+name = "カーボンファイバー試作サービス"
+description = "迅速なツーリング、プリプレグまたはウエットレイアップ構造、および迅速な設計反復により、複合材料部品をCADから機能する試作品へと早期に進める、高速な炭素繊維試作サービスです。"
 
 # --- Localized (fr) — English fallback ---
 [fr.carbon-fiber-prototyping-services]
-name = "Carbon Fiber Prototyping Services"
-description = "Rapid carbon fiber prototyping with fast tooling, prepreg or wet layup construction and quick design iterations to move your composite part from CAD to functional prototype."
+name = "Services de prototypage en fibre de carbone"
+description = "Prototypage rapide en fibre de carbone avec outillage rapide, construction par préimprégné ou drapage humide et itérations de conception rapides, pour passer votre pièce composite du CAO à un prototype fonctionnel."
 
 # --- Localized (es) — English fallback ---
 [es.carbon-fiber-prototyping-services]
-name = "Carbon Fiber Prototyping Services"
-description = "Rapid carbon fiber prototyping with fast tooling, prepreg or wet layup construction and quick design iterations to move your composite part from CAD to functional prototype."
+name = "Servicios de prototipado de fibra de carbono"
+description = "Prototipado rápido de fibra de carbono con utillaje rápido, construcción por prepreg o laminado en húmedo e iteraciones de diseño ágiles, para llevar su pieza compuesta de CAD a un prototipo funcional."
 
 # --- Localized (de) — English fallback ---
 [de.carbon-fiber-mold-making-service]
-name = "Carbon Fiber Mold Making Service"
-description = "In-house composite mold and tooling fabrication — CNC-machined patterns, composite and aluminum molds — engineered for accurate, repeatable carbon fiber production."
+name = "Carbonfaser-Werkzeug- und Formenbau"
+description = "Interne Fertigung von Composite-Formen und Werkzeugen – CNC-gefräste Modelle, Composite- und Aluminiumformen – konstruiert für präzise, reproduzierbare Carbonfaser-Produktion."
 
 # --- Localized (ja) — English fallback ---
 [ja.carbon-fiber-mold-making-service]
-name = "Carbon Fiber Mold Making Service"
-description = "In-house composite mold and tooling fabrication — CNC-machined patterns, composite and aluminum molds — engineered for accurate, repeatable carbon fiber production."
+name = "カーボンファイバー金型製造サービス"
+description = "複合材料金型および工具の社内製造 — CNC加工されたパターン、複合材およびアルミニウム金型 — 正確で再現性の高い炭素繊維生産のために設計されています。"
 
 # --- Localized (fr) — English fallback ---
 [fr.carbon-fiber-mold-making-service]
-name = "Carbon Fiber Mold Making Service"
-description = "In-house composite mold and tooling fabrication — CNC-machined patterns, composite and aluminum molds — engineered for accurate, repeatable carbon fiber production."
+name = "Service de fabrication de moules en fibre de carbone"
+description = "Fabrication interne de moules et d'outillage composites — modèles usinés CNC, moules composites et en aluminium — conçus pour une production en fibre de carbone précise et reproductible."
 
 # --- Localized (es) — English fallback ---
 [es.carbon-fiber-mold-making-service]
-name = "Carbon Fiber Mold Making Service"
-description = "In-house composite mold and tooling fabrication — CNC-machined patterns, composite and aluminum molds — engineered for accurate, repeatable carbon fiber production."
+name = "Servicio de fabricación de moldes de fibra de carbono"
+description = "Fabricación interna de moldes y utillaje compuestos — patrones mecanizados por CNC, moldes compuestos y de aluminio — diseñados para una producción de fibra de carbono precisa y reproducible."
 
 # --- Localized (de) — English fallback ---
 [de.uav-carbon-fiber-components-manufacturer]
-name = "UAV Carbon Fiber Components Manufacturer"
-description = "Lightweight, high-stiffness carbon fiber airframes, arms, plates and booms for UAV and drone platforms where weight, stiffness and consistency decide flight performance."
+name = "Hersteller von UAV-Carbonfaser-Komponenten"
+description = "Leichte, hochsteife Carbonfaser-Rümpfe, -Arme, -Platten und -Ausleger für UAV- und Drohnenplattformen, bei denen Gewicht, Steifigkeit und Konsistenz die Flugleistung bestimmen."
 
 # --- Localized (ja) — English fallback ---
 [ja.uav-carbon-fiber-components-manufacturer]
-name = "UAV Carbon Fiber Components Manufacturer"
-description = "Lightweight, high-stiffness carbon fiber airframes, arms, plates and booms for UAV and drone platforms where weight, stiffness and consistency decide flight performance."
+name = "UAVカーボンファイバーコンポーネントメーカー"
+description = "重量、剛性、および均一性が飛行性能を決定するUAVおよびドローンプラットフォーム向けの、軽量かつ高剛性の炭素繊維製胴体、アーム、プレート、ブームを提供します。"
 
 # --- Localized (fr) — English fallback ---
 [fr.uav-carbon-fiber-components-manufacturer]
-name = "UAV Carbon Fiber Components Manufacturer"
-description = "Lightweight, high-stiffness carbon fiber airframes, arms, plates and booms for UAV and drone platforms where weight, stiffness and consistency decide flight performance."
+name = "Fabricant de composants en fibre de carbone pour UAV"
+description = "Châssis, bras, plaques et flèches en fibre de carbone légers et à haute rigidité pour plateformes UAV et drones, où le poids, la rigidité et la constance déterminent les performances de vol."
 
 # --- Localized (es) — English fallback ---
 [es.uav-carbon-fiber-components-manufacturer]
-name = "UAV Carbon Fiber Components Manufacturer"
-description = "Lightweight, high-stiffness carbon fiber airframes, arms, plates and booms for UAV and drone platforms where weight, stiffness and consistency decide flight performance."
+name = "Fabricante de componentes de fibra de carbono para UAV"
+description = "Estructuras, brazos, placas y brazos (booms) de fibra de carbono ligeros y de alta rigidez para plataformas UAV y drones, donde el peso, la rigidez y la consistencia determinan el rendimiento de vuelo."
 
 # --- Localized (de) — English fallback ---
 [de.aerospace-carbon-fiber-parts-manufacturer]
-name = "Aerospace Carbon Fiber Parts Manufacturer"
-description = "Autoclave-cured aerospace-grade carbon fiber components manufactured with controlled processes, material traceability and documented quality inspection."
+name = "Hersteller von Luftfahrt-Carbonfaser-Bauteilen"
+description = "Im Autoklaven gehärtete Carbonfaser-Bauteile in Luftfahrtqualität, gefertigt mit kontrollierten Prozessen, Materialrückverfolgbarkeit und dokumentierter Qualitätsprüfung."
 
 # --- Localized (ja) — English fallback ---
 [ja.aerospace-carbon-fiber-parts-manufacturer]
-name = "Aerospace Carbon Fiber Parts Manufacturer"
-description = "Autoclave-cured aerospace-grade carbon fiber components manufactured with controlled processes, material traceability and documented quality inspection."
+name = "航空宇宙向けカーボンファイバー部品メーカー"
+description = "管理されたプロセス、材料トレーサビリティ、および文書化された品質検査により製造される、オートクレーブ硬化済みの航空宇宙グレード炭素繊維部品です。"
 
 # --- Localized (fr) — English fallback ---
 [fr.aerospace-carbon-fiber-parts-manufacturer]
-name = "Aerospace Carbon Fiber Parts Manufacturer"
-description = "Autoclave-cured aerospace-grade carbon fiber components manufactured with controlled processes, material traceability and documented quality inspection."
+name = "Fabricant de pièces en fibre de carbone pour l'aéronautique"
+description = "Composants en fibre de carbone de qualité aéronautique durcis en autoclave, fabriqués selon des procédés contrôlés, avec traçabilité matière et contrôle qualité documenté."
 
 # --- Localized (es) — English fallback ---
 [es.aerospace-carbon-fiber-parts-manufacturer]
-name = "Aerospace Carbon Fiber Parts Manufacturer"
-description = "Autoclave-cured aerospace-grade carbon fiber components manufactured with controlled processes, material traceability and documented quality inspection."
+name = "Fabricante de piezas de fibra de carbono para aeroespacial"
+description = "Componentes de fibra de carbono de grado aeroespacial curados en autoclave, fabricados con procesos controlados, trazabilidad de materiales e inspección de calidad documentada."
 
 # --- Localized (de) — English fallback ---
 [de.motorsport-carbon-fiber-parts-manufacturer]
-name = "Motorsport Carbon Fiber Parts Manufacturer"
-description = "Race-proven carbon fiber bodywork, aero components and structural parts built for strength-to-weight, impact resistance and fast turnaround between race seasons."
+name = "Hersteller von Motorsport-Carbonfaser-Bauteilen"
+description = "Rennerprobte Carbonfaser-Karosserieteile, Aerodynamik-Komponenten und Strukturbauteile, ausgelegt auf hohes Festigkeits-Gewichts-Verhältnis, Schlagfestigkeit und schnelle Durchlaufzeiten zwischen den Rennsaisons."
 
 # --- Localized (ja) — English fallback ---
 [ja.motorsport-carbon-fiber-parts-manufacturer]
-name = "Motorsport Carbon Fiber Parts Manufacturer"
-description = "Race-proven carbon fiber bodywork, aero components and structural parts built for strength-to-weight, impact resistance and fast turnaround between race seasons."
+name = "モータースポーツ向けカーボンファイバー部品メーカー"
+description = "強度重量比、耐衝撃性、およびレースシーズン間の迅速なターンアラウンドのために設計された、レース実績のある炭素繊維製ボディワーク、エアロコンポーネント、および構造部品です。"
 
 # --- Localized (fr) — English fallback ---
 [fr.motorsport-carbon-fiber-parts-manufacturer]
-name = "Motorsport Carbon Fiber Parts Manufacturer"
-description = "Race-proven carbon fiber bodywork, aero components and structural parts built for strength-to-weight, impact resistance and fast turnaround between race seasons."
+name = "Fabricant de pièces en fibre de carbone pour le sport automobile"
+description = "Carrosseries, composants aérodynamiques et pièces structurelles en fibre de carbone éprouvés en course, conçus pour un ratio résistance/poids élevé, une résistance aux chocs et un délai de retour rapide entre les saisons."
 
 # --- Localized (es) — English fallback ---
 [es.motorsport-carbon-fiber-parts-manufacturer]
-name = "Motorsport Carbon Fiber Parts Manufacturer"
-description = "Race-proven carbon fiber bodywork, aero components and structural parts built for strength-to-weight, impact resistance and fast turnaround between race seasons."
+name = "Fabricante de piezas de fibra de carbono para automovilismo"
+description = "Carrocerías, componentes aerodinámicos y piezas estructurales de fibra de carbono probadas en competición, diseñadas para una alta relación resistencia-peso, resistencia al impacto y una rápida entrega entre temporadas."
 
 # --- Localized (de) — English fallback ---
 [de.robotics-carbon-fiber-parts-manufacturer]
-name = "Robotics Carbon Fiber Parts Manufacturer"
-description = "Precision carbon fiber arms, links, frames and end-effector components that lower moving mass and raise stiffness for faster, more accurate robotic systems."
+name = "Hersteller von Robotik-Carbonfaser-Bauteilen"
+description = "Präzise Carbonfaser-Arme, -Glieder, -Rahmen und Endeffektor-Komponenten, die die bewegte Masse senken und die Steifigkeit erhöhen – für schnellere, genauere Robotiksysteme."
 
 # --- Localized (ja) — English fallback ---
 [ja.robotics-carbon-fiber-parts-manufacturer]
-name = "Robotics Carbon Fiber Parts Manufacturer"
-description = "Precision carbon fiber arms, links, frames and end-effector components that lower moving mass and raise stiffness for faster, more accurate robotic systems."
+name = "ロボティクス向けカーボンファイバー部品メーカー"
+description = "移動質量を低減し剛性を高め、より高速で精度の高いロボットシステムを実現する、精密な炭素繊維製アーム、リンク、フレーム、およびエンドエフェクタコンポーネントです。"
 
 # --- Localized (fr) — English fallback ---
 [fr.robotics-carbon-fiber-parts-manufacturer]
-name = "Robotics Carbon Fiber Parts Manufacturer"
-description = "Precision carbon fiber arms, links, frames and end-effector components that lower moving mass and raise stiffness for faster, more accurate robotic systems."
+name = "Fabricant de pièces en fibre de carbone pour la robotique"
+description = "Bras, liaisons, châssis et composants d'effecteur en fibre de carbone de précision qui réduisent la masse en mouvement et augmentent la rigidité pour des systèmes robotiques plus rapides et plus précis."
 
 # --- Localized (es) — English fallback ---
 [es.robotics-carbon-fiber-parts-manufacturer]
-name = "Robotics Carbon Fiber Parts Manufacturer"
-description = "Precision carbon fiber arms, links, frames and end-effector components that lower moving mass and raise stiffness for faster, more accurate robotic systems."
+name = "Fabricante de piezas de fibra de carbono para robótica"
+description = "Brazos, eslabones, estructuras y componentes de efector final de fibra de carbono de precisión que reducen la masa en movimiento y aumentan la rigidez para sistemas robóticos más rápidos y precisos."

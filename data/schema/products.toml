@@ -68,96 +68,96 @@ key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vib
 
 # --- Localized (de) — English fallback ---
 [de.prepreg-carbon-fiber]
-name = "Prepreg Carbon Fiber Components"
-description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
-key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+name = "Prepeg-Carbonfaser-Bauteile"
+description = "Im Autoklaven gehärtete Prepeg-Carbonfaser-Bauteile mit präzisem Harzgehalt, maximalem Faservolumengehalt und oberflächlicher sowie struktureller Qualität in Luftfahrtstandard."
+key_properties = "Höchstes Festigkeits-Gewichts-Verhältnis, kontrollierter Harzgehalt, blasenfreie Laminate, reproduzierbare Qualität"
 
 # --- Localized (ja) — English fallback ---
 [ja.prepreg-carbon-fiber]
-name = "Prepreg Carbon Fiber Components"
-description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
-key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+name = "プリプレグカーボンファイバー部品"
+description = "正確な樹脂含有量、最大の繊維体積含有率、および航空宇宙グレードの表面・構造品質を備えた、オートクレーブ硬化済みプリプレグ炭素繊維部品です。"
+key_properties = "最高の強度重量比、制御された樹脂含有量、ボイドフリーの積層、再現性のある品質"
 
 # --- Localized (fr) — English fallback ---
 [fr.prepreg-carbon-fiber]
-name = "Prepreg Carbon Fiber Components"
-description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
-key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+name = "Composants en fibre de carbone préimprégnée"
+description = "Pièces en fibre de carbone préimprégnée durcies en autoclave, avec un taux de résine précis, une fraction volumique de fibres maximale et une qualité de surface et structurelle de grade aéronautique."
+key_properties = "Rapport résistance/poids maximal, taux de résine contrôlé, stratifiés sans bulles, qualité reproductible"
 
 # --- Localized (es) — English fallback ---
 [es.prepreg-carbon-fiber]
-name = "Prepreg Carbon Fiber Components"
-description = "Autoclave-cured prepreg carbon fiber parts with precise resin content, maximum fiber volume fraction and aerospace-grade surface and structural quality."
-key_properties = "Highest strength-to-weight, controlled resin content, void-free laminates, repeatable quality"
+name = "Componentes de fibra de carbono prepreg"
+description = "Piezas de fibra de carbono prepreg curadas en autoclave, con contenido de resina preciso, fracción volumétrica de fibra máxima y calidad de superficie y estructural de grado aeroespacial."
+key_properties = "Relación resistencia-peso máxima, contenido de resina controlado, laminados sin porosidad, calidad reproducible"
 
 # --- Localized (de) — English fallback ---
 [de.dry-carbon-fabric]
-name = "Dry Fabric Layup Components"
-description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
-key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+name = "Trockenlaminat-Bauteile"
+description = "Durch Handlaminierung und Vakuumabsackung gefertigte Carbonfaser-Bauteile aus Trockengeweben und Infusion für kosteneffiziente Prototypen und Kleinserienfertigung."
+key_properties = "Kosteneffizient, flexible Lagenpläne, schnelle Werkzeuge, ideal für Prototypen"
 
 # --- Localized (ja) — English fallback ---
 [ja.dry-carbon-fabric]
-name = "Dry Fabric Layup Components"
-description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
-key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+name = "ドライファブリック積層部品"
+description = "乾式織物とインフュージョンを用いたハンドレイアップおよびバキュームバギングにより製造される炭素繊維部品で、コスト効率の高い試作および少量生産に適しています。"
+key_properties = "コスト効率が高い、柔軟な積層スケジュール、迅速なツーリング、試作に最適"
 
 # --- Localized (fr) — English fallback ---
 [fr.dry-carbon-fabric]
-name = "Dry Fabric Layup Components"
-description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
-key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+name = "Composants en drapage de tissu sec"
+description = "Pièces en fibre de carbone réalisées par drapage manuel et vacuum-bagging à partir de tissus secs et d'infusion, pour des prototypes rentables et une production en petits volumes."
+key_properties = "Rentable, plans de stratification flexibles, outillage rapide, idéal pour les prototypes"
 
 # --- Localized (es) — English fallback ---
 [es.dry-carbon-fabric]
-name = "Dry Fabric Layup Components"
-description = "Hand layup and vacuum-bagged carbon fiber parts using dry fabrics and infusion for cost-effective prototypes and low-volume production."
-key_properties = "Cost-effective, flexible ply schedules, fast tooling, ideal for prototypes"
+name = "Componentes de laminado de tejido seco"
+description = "Piezas de fibra de carbono fabricadas por laminado manual y ensacado al vacío con tejidos secos e infusión, para prototipos rentables y producción de bajo volumen."
+key_properties = "Rentable, secuencias de laminado flexibles, utillaje rápido, ideal para prototipos"
 
 # --- Localized (de) — English fallback ---
 [de.forged-carbon]
-name = "Forged Carbon Components"
-description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
-key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+name = "Forged-Carbon-Bauteile"
+description = "Im Kompressionsguss gefertigte Forged-Carbon-Bauteile mit quasi-isotropen Eigenschaften und markantem Marmor-Look für komplexe 3D-Geometrien."
+key_properties = "Komplexe Geometriefähigkeit, quasi-isotrope Festigkeit, charakteristisches Erscheinungsbild, kurze Zykluszeiten"
 
 # --- Localized (ja) — English fallback ---
 [ja.forged-carbon]
-name = "Forged Carbon Components"
-description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
-key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+name = "フォージドカーボン部品"
+description = "複雑な3D形状向けに、準等方性特性と独特の大理石調外観を備えた、圧縮成形フォージドカーボン部品です。"
+key_properties = "複雑な形状対応、準等方性強度、特徴的な外観、短いサイクルタイム"
 
 # --- Localized (fr) — English fallback ---
 [fr.forged-carbon]
-name = "Forged Carbon Components"
-description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
-key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+name = "Composants en carbone forgé"
+description = "Pièces en carbone forgé moulées par compression, à propriétés quasi isotropes et à esthétique marbrée distincte, pour des géométries 3D complexes."
+key_properties = "Capacité pour géométries complexes, résistance quasi isotrope, apparence distinctive, temps de cycle courts"
 
 # --- Localized (es) — English fallback ---
 [es.forged-carbon]
-name = "Forged Carbon Components"
-description = "Compression-molded forged carbon parts with quasi-isotropic properties and a distinctive marbled aesthetic for complex 3D geometries."
-key_properties = "Complex geometry capability, quasi-isotropic strength, distinctive appearance, short cycle times"
+name = "Componentes de carbono forjado"
+description = "Piezas de carbono forjado moldeadas por compresión, con propiedades cuasi-isotrópicas y una estética marmórea distintiva, para geometrías 3D complejas."
+key_properties = "Capacidad para geometrías complejas, resistencia cuasi-isotrópica, apariencia distintiva, tiempos de ciclo cortos"
 
 # --- Localized (de) — English fallback ---
 [de.carbon-kevlar-hybrid]
-name = "Carbon-Kevlar Hybrid Components"
-description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
-key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"
+name = "Carbon-Kevlar-Hybrid-Bauteile"
+description = "Hybrid-Laminate, die die Steifigkeit von Carbon mit der Schlagfestigkeit von Aramid für Bauteile kombinieren, die Abrieb, Schlag oder Vibration ausgesetzt sind."
+key_properties = "Schlagfestigkeit, Abriebfestigkeit, maßgeschneiderte Steifigkeit, Schwingungsdämpfung"
 
 # --- Localized (ja) — English fallback ---
 [ja.carbon-kevlar-hybrid]
-name = "Carbon-Kevlar Hybrid Components"
-description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
-key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"
+name = "カーボン・ケブラーハイブリッド部品"
+description = "摩耗、衝撃、または振動にさらされる部品向けに、炭素の剛性とアラミドの耐衝撃性を組み合わせたハイブリッド積層です。"
+key_properties = "耐衝撃性、耐摩耗性、調整可能な剛性、振動減衰"
 
 # --- Localized (fr) — English fallback ---
 [fr.carbon-kevlar-hybrid]
-name = "Carbon-Kevlar Hybrid Components"
-description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
-key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"
+name = "Composants hybrides carbone-Kevlar"
+description = "Laminés hybrides combinant la rigidité du carbone à la résistance aux chocs de l'aramide, pour des pièces exposées à l'abrasion, aux chocs ou aux vibrations."
+key_properties = "Résistance aux chocs, tolérance à l'abrasion, rigidité adaptée, amortissement des vibrations"
 
 # --- Localized (es) — English fallback ---
 [es.carbon-kevlar-hybrid]
-name = "Carbon-Kevlar Hybrid Components"
-description = "Hybrid laminates combining carbon stiffness with aramid impact resistance for parts exposed to abrasion, impact or vibration."
-key_properties = "Impact resistance, abrasion tolerance, tailored stiffness, vibration damping"
+name = "Componentes híbridos de carbono-Kevlar"
+description = "Laminados híbridos que combinan la rigidez del carbono con la resistencia al impacto del aramida para piezas expuestas a abrasión, impacto o vibración."
+key_properties = "Resistencia al impacto, tolerancia a la abrasión, rigidez ajustada, amortiguación de vibraciones"
