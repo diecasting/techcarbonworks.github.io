@@ -5,6 +5,8 @@
       <h4>{{ .Site.Title }}</h4>
       <p>{{ .Site.Params.description }}</p>
       {{ with .Site.Params.contact.email }}<p><a href="mailto:{{ . }}">{{ . }}</a></p>{{ end }}
+      {{ with hugo.Data.schema.organization.identity.legal_name }}<p class="footer-legal">{{ . }}</p>{{ end }}
+      {{ with .Site.Params.contact.address }}<address class="footer-address" style="font-style: normal;">{{ . }}</address>{{ end }}
     </div>
     {{- range .Site.Menus.footer -}}
     <div class="footer-col">
