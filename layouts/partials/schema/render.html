@@ -55,38 +55,44 @@
   {{ partial "schema/geo-entity.html" . -}}
 
 {{- else -}}
-  {{- /* NON-HOMEPAGE: Detect page type */ -}}
+  {{- /* NON-HOMEPAGE: Detect applicable entities (Service + Product may coexist) */ -}}
   {{- .Scratch.Set "schema_page_type" "article" -}}
   {{- .Scratch.Set "schema_matched_service" "" -}}
   {{- .Scratch.Set "schema_matched_product" "" -}}
+  {{- .Scratch.Set "schema_matched_product_list" slice -}}
 
   {{- with .File -}}
     {{- $dir := strings.TrimSuffix "/" (replace .Dir "\\" "/") -}}
     {{- $sectionPath := printf "/%s/" $dir -}}
     {{- $matchedSvcs := where $services.services "url_path" $sectionPath -}}
-    {{- if gt (len $matchedSvcs) 0 -}}
-      {{- $.Scratch.Set "schema_page_type" "service" -}}
-      {{- $.Scratch.Set "schema_matched_service" (index $matchedSvcs 0).id -}}
-    {{- else -}}
-      {{- $matchedProds := where $products.products "url_path" $sectionPath -}}
-      {{- if gt (len $matchedProds) 0 -}}
-        {{- $.Scratch.Set "schema_page_type" "product" -}}
-        {{- $.Scratch.Set "schema_matched_product" (index $matchedProds 0).id -}}
+    {{- $matchedProds := where $products.products "url_path" $sectionPath -}}
+    {{- if ne $dir "blog" -}}
+      {{- if gt (len $matchedSvcs) 0 -}}
+        {{- $.Scratch.Set "schema_page_type" "service" -}}
+        {{- $.Scratch.Set "schema_matched_service" (index $matchedSvcs 0).id -}}
       {{- end -}}
-    {{- end -}}
-
-    {{- if eq $dir "blog" -}}
-      {{- $.Scratch.Set "schema_page_type" "article" -}}
+      {{- if gt (len $matchedProds) 0 -}}
+        {{- $.Scratch.Set "schema_matched_product_list" $matchedProds -}}
+      {{- end -}}
     {{- end -}}
   {{- end -}}
 
-  {{- $pageType := .Scratch.Get "schema_page_type" -}}
+  {{- $svcID := .Scratch.Get "schema_matched_service" -}}
+  {{- $prodList := .Scratch.Get "schema_matched_product_list" -}}
 
-  {{- if eq $pageType "service" -}}
+  {{- /* Service entity (unchanged when matched) */ -}}
+  {{- if $svcID -}}
     {{ partial "schema/service.html" . -}}
-  {{- else if eq $pageType "product" -}}
-    {{ partial "schema/product.html" . -}}
-  {{- else -}}
+  {{- end -}}
+
+  {{- /* Product entities — all matched products, coexist with Service */ -}}
+  {{- range $prodList -}}
+    {{- $.Scratch.Set "schema_matched_product" .id -}}
+    {{ partial "schema/product.html" $ -}}
+  {{- end -}}
+
+  {{- /* Article fallback only when neither Service nor Product matched */ -}}
+  {{- if and (not $svcID) (eq (len $prodList) 0) -}}
     {{ partial "schema/article.html" . -}}
   {{- end -}}
 

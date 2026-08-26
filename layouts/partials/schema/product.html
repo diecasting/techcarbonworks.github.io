@@ -21,7 +21,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "@id": "{{ printf "%s#product" .Permalink | safeJS }}",
+  "@id": "{{ printf "%s#product-%s" .Permalink $matchedID | safeJS }}",
   "name": "{{ $prodText.name | safeJS }}",
   {{ with .Site.Language.Params.locale }}"inLanguage": "{{ . | safeJS }}",{{ end }}
   {{ with $prodText.description }}"description": "{{ . | safeJS }}",{{ end }}

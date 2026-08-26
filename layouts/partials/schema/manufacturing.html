@@ -47,11 +47,29 @@
     {{- end -}}
   ]
   {{- end -}}
-  {{- if $certs.certifications -}}
+  {{- /* Formal ISO certifications only — expressed as Schema.org Certification.
+         RoHS / REACH are EU directives (regulatory compliance), NOT certifications;
+         they are intentionally excluded from JSON-LD to avoid misrepresentation
+         and are retained in human HTML via sections/certifications.html. */ -}}
+  {{- $isoCerts := slice -}}
+  {{- range $certs.certifications -}}
+    {{- if in .id "iso-" -}}{{- $isoCerts = $isoCerts | append . -}}{{- end -}}
+  {{- end -}}
+  {{- if $isoCerts -}}
   ,
-  "certifications": [
-    {{ range $i, $cert := $certs.certifications -}}
-    {{- if $i }}, {{ end -}}"{{ $cert.code | safeJS }}"
+  "hasCertification": [
+    {{- range $i, $cert := $isoCerts -}}
+    {{- if $i }}, {{ end -}}
+    {
+      "@type": "Certification",
+      "@id": "{{ printf "%s#cert-%s" $.Site.BaseURL $cert.id | safeJS }}",
+      "name": "{{ $cert.code | safeJS }}",
+      "certifiedBy": {
+        "@type": "Organization",
+        "name": "{{ $cert.issue_authority | safeJS }}"
+      },
+      "url": "{{ $cert.url | safeJS }}"
+    }
     {{- end -}}
   ]
   {{- end -}}

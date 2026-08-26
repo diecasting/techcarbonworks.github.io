@@ -7,6 +7,7 @@
 [identity]
 legal_name = "TechCarbonWorks"
 url = "https://blog.techcarbonworks.com/"
+sameAs = ["https://techcarbonworks.com/"]
 logo = "/logo.svg"
 founding_date = "2005"
 industry = "Carbon Fiber Composite Manufacturing"

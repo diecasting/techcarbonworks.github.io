@@ -51,6 +51,13 @@
     {{- end -}}
   ],
   {{ end -}}
+  {{- with $org.identity.sameAs -}}
+  "sameAs": [
+    {{ range $i, $s := . -}}
+    {{- if $i }}, {{ end -}}"{{ $s | safeJS }}"
+    {{- end -}}
+  ],
+  {{- end -}}
   "address": {
     "@type": "PostalAddress",
     {{ with $org.identity.address_locality }}"addressLocality": "{{ . | safeJS }}",{{ end }}
