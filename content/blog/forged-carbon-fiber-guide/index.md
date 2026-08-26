@@ -53,7 +53,7 @@ Good applications include automotive trim and brackets, consumer product shells,
 
 ## How it fits a program
 
-Forged carbon fiber suits programs that need repeatable, complex, good-looking parts at moderate volume without the layup labor of laminates. It pairs naturally with the cost logic in our [buyer's cost guide](/blog/carbon-fiber-part-cost-guide/), because compression molding amortizes tooling across higher volumes efficiently. It is one more option in the broader [carbon fiber manufacturing services](/carbon-fiber-manufacturing-services/) toolkit we offer from Dongguan to worldwide clients.
+Forged carbon fiber suits programs that need repeatable, complex, good-looking parts at moderate volume without the layup labor of laminates. It pairs naturally with the cost logic in our [buyer's cost guide](/blog/carbon-fiber-part-cost-guide/), because compression molding amortizes tooling across higher volumes efficiently. It is one more option in the broader [carbon fiber manufacturing services](/carbon-fiber-manufacturing-services/) toolkit we offer from Huizhou to worldwide clients.
 
 For background on the molding and cure context, see [how carbon fiber parts are made](/blog/how-carbon-fiber-parts-are-made/), which explains compression-molded routes alongside prepreg autoclave workflows.
 

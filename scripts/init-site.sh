@@ -38,8 +38,8 @@ EMAIL="${EMAIL:-contact@example.com}"
 read -rp "Website URL [https://example.com/]: " WEBSITE_URL
 WEBSITE_URL="${WEBSITE_URL:-https://example.com/}"
 
-read -rp "City [Dongguan]: " CITY
-CITY="${CITY:-Dongguan}"
+read -rp "City [Huizhou]: " CITY
+CITY="${CITY:-Huizhou}"
 
 read -rp "Province/State [Guangdong]: " REGION
 REGION="${REGION:-Guangdong}"

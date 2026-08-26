@@ -6,7 +6,7 @@ robots:
 title: "Fabricante de piezas de fibra de carbono a medida"
 layout: "landing"
 translationKey: "home"
-description: "TechCarbonWorks es un fabricante de piezas de fibra de carbono a medida fundado en 2005 en Dongguan, China, que sirve a Estados Unidos, Europa y Australia con moldeo de prepreg e mecanizado CNC certificados por ISO 9001."
+description: "TechCarbonWorks es un fabricante de piezas de fibra de carbono a medida fundado en 2013 en Huizhou, China, que sirve a Estados Unidos, Europa y Australia con moldeo de prepreg e mecanizado CNC certificados por ISO 9001."
 sections:
   - hero
   - capabilities
@@ -20,7 +20,7 @@ sections:
 schema:
   faq:
     - question: "¿En qué se diferencia TechCarbonWorks de otros proveedores de fibra de carbono?"
-      answer: "Somos un fabricante de piezas de fibra de carbono a medida integrado verticalmente, con nuestro propio taller de moldes, sala limpia de laminado de prepreg y centro de mecanizado CNC de 5 ejes en Dongguan. Desde 2005 controlamos cada proceso, desde la herramienta hasta la inspección final, lo que protege plazos, tolerancias y trazabilidad para compradores técnicos en Estados Unidos, Europa y Australia."
+      answer: "Somos un fabricante de piezas de fibra de carbono a medida integrado verticalmente, con nuestro propio taller de moldes, sala limpia de laminado de prepreg y centro de mecanizado CNC de 5 ejes en Huizhou. Desde 2013 controlamos cada proceso, desde la herramienta hasta la inspección final, lo que protege plazos, tolerancias y trazabilidad para compradores técnicos en Estados Unidos, Europa y Australia."
     - question: "¿Qué materiales de fibra de carbono tiene en stock como prepreg estándar?"
       answer: "Nuestro inventario estándar cubre prepreg unidireccional y tejido Toray T300, T700 y T800, además de tejido 3K sarga y tafetán, láminas de carbono forjado y apilamientos híbridos carbono-Kevlar. Todos los prepreg se almacenan a -18 °C y se rastrean por lote, para que los equipos puedan especificar fibra, gramaje y sistema de resina exactos."
     - question: "¿Qué tolerancia mantiene el mecanizado CNC en piezas de carbono curadas?"
@@ -35,11 +35,11 @@ schema:
 
 ## Acerca de TechCarbonWorks
 
-TechCarbonWorks es un **fabricante de piezas de fibra de carbono a medida** fundado en 2005 en Dongguan, China, y hemos dedicado casi dos décadas a construir una de las operaciones de fabricación compuesta más completas del delta del río Perla. Servimos a equipos de ingeniería y responsables de compras en Estados Unidos, Europa y Australia que necesitan componentes de fibra de carbono de alto rendimiento conformes al plano, a la tolerancia y al plazo. A diferencia de los corredores que revenden piezas hechas por subcontratistas desconocidos, poseemos toda la cadena de fabricación: diseño de herramientas, fabricación de moldes, laminado de prepreg, curado en autoclave, mecanizado CNC e inspección final, bajo un mismo techo.
+TechCarbonWorks es un **fabricante de piezas de fibra de carbono a medida** fundado en 2013 en Huizhou, China, y hemos dedicado casi dos décadas a construir una de las operaciones de fabricación compuesta más completas del delta del río Perla. Servimos a equipos de ingeniería y responsables de compras en Estados Unidos, Europa y Australia que necesitan componentes de fibra de carbono de alto rendimiento conformes al plano, a la tolerancia y al plazo. A diferencia de los corredores que revenden piezas hechas por subcontratistas desconocidos, poseemos toda la cadena de fabricación: diseño de herramientas, fabricación de moldes, laminado de prepreg, curado en autoclave, mecanizado CNC e inspección final, bajo un mismo techo.
 
 Cuando especifica una pieza de fibra de carbono a medida, en realidad está especificando un sistema de material, proceso y disciplina de calidad. Una pieza correcta por fuera puede fallar en servicio si el porcentaje de fibra es erróneo, el ciclo de curado está desfasado o la secuencia de laminado introdujo vacíos ocultos. Por eso nuestros clientes eligen un fabricante integrado verticalmente en lugar de coordinar múltiples proveedores. Asumimos la responsabilidad del resultado, desde la primera capa hasta el informe dimensional final.
 
-Nuestras instalaciones en Dongguan se construyeron para la producción compuesta. Incluyen una sala limpia de laminado de prepreg con temperatura y humedad controladas, una flota de autoclaves dimensionados para soportes pequeños y paneles estructurales grandes, un centro de mecanizado CNC 3 y 5 ejes dedicado a recortar y taladrar laminados curados, y una sala de metrología con máquinas de medición por coordenadas. Como controlamos estos recursos directamente, podemos cotizar con honestidad, proteger plazos en picos de demanda y rastrear cada lote de material hasta su certificado de conformidad.
+Nuestras instalaciones en Huizhou se construyeron para la producción compuesta. Incluyen una sala limpia de laminado de prepreg con temperatura y humedad controladas, una flota de autoclaves dimensionados para soportes pequeños y paneles estructurales grandes, un centro de mecanizado CNC 3 y 5 ejes dedicado a recortar y taladrar laminados curados, y una sala de metrología con máquinas de medición por coordenadas. Como controlamos estos recursos directamente, podemos cotizar con honestidad, proteger plazos en picos de demanda y rastrear cada lote de material hasta su certificado de conformidad.
 
 ![Componentes de fibra de carbono a medida producidos por TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Componentes de fibra de carbono a medida")
 
@@ -47,7 +47,7 @@ Nuestras instalaciones en Dongguan se construyeron para la producción compuesta
 
 Desde el principio, nuestra filosofía ha sido actuar como una extensión del departamento de ingeniería de nuestros clientes. Muchos programas comenzaron como un boceto y crecieron a volúmenes de decenas de miles de piezas al año. Hemos apoyado células de drones, estructuras secundarias aeroespaciales, dispositivos aerodinámicos de automovilismo, equipos de imagen médica y brazos de robótica industrial. En cada caso, el factor de éxito fue el mismo: un fabricante que entendía la intención técnica, no solo la geometría.
 
-Estamos orgullosos de nuestra huella global. Cerca de la mitad de nuestra producción se envía a Norteamérica, con fuerte demanda de Europa y una base en rápido crecimiento en Australia. Cotizamos en múltiples divisas, gestionamos la documentación de exportación y trabajamos con Incoterms que se ajustan a cada cliente, ya sea EXW Dongguan, FOB Shenzhen o DDP a un almacén en Alemania o Illinois. Nuestro equipo domina las expectativas documentales y de calidad que exigen los OEM occidentales, y trata un dossier de primer artículo limpio como una entrega innegociable.
+Estamos orgullosos de nuestra huella global. Cerca de la mitad de nuestra producción se envía a Norteamérica, con fuerte demanda de Europa y una base en rápido crecimiento en Australia. Cotizamos en múltiples divisas, gestionamos la documentación de exportación y trabajamos con Incoterms que se ajustan a cada cliente, ya sea EXW Huizhou, FOB Shenzhen o DDP a un almacén en Alemania o Illinois. Nuestro equipo domina las expectativas documentales y de calidad que exigen los OEM occidentales, y trata un dossier de primer artículo limpio como una entrega innegociable.
 
 ## Nuestras capacidades de fabricación de fibra de carbono
 
@@ -93,7 +93,7 @@ La calidad de la herramienta define la calidad de la pieza. Mecanizamos moldes d
 
 ![Planta de fabricación de fibra de carbono de TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Planta de fabricación de fibra de carbono")
 
-*Nuestra planta de Dongguan integra fabricación de moldes, laminado de prepreg, curado en autoclave y mecanizado CNC bajo un mismo techo.*
+*Nuestra planta de Huizhou integra fabricación de moldes, laminado de prepreg, curado en autoclave y mecanizado CNC bajo un mismo techo.*
 
 ## Selección de materiales
 
@@ -218,7 +218,7 @@ También prestamos atención a los químicos de nuestro proceso. Las películas 
 
 Exportar piezas compuestas de precisión es una disciplina en sí misma. La fibra de carbono curada es ligera pero frágil en los bordes, y un embalaje mal hecho puede arruinar semanas de fabricación cuidadosa. Diseñamos el embalaje según la geometría: cavidades de espuma a medida, cajas de cartón rígido o contrachapado, protección de aristas y desecante para destinos sensibles a la humedad. Para pedidos grandes o de alto valor usamos bastidores de transporte reutilizables que los clientes pueden devolver, reduciendo coste y residuo.
 
-En logística, cotizamos con los Incoterms que convienen a cada programa, desde EXW Dongguan hasta DDP en almacén del cliente en Alemania o Illinois. Preparamos documentación de exportación, facturas comerciales, listas de paquete y certificados de material para que el despacho aduanero avance sin retraso. Nuestro equipo coordina con transitarios experimentados en envíos compuestos y aeroespaciales, y rastrea los envíos hasta destino. Como somos un único fabricante responsable, no hay reproches entre taller de moldes, subcontratista de curado y transportista — un proveedor lleva el resultado de la capa al puerto. Más antecedentes sobre nuestras prácticas de exportación aparecen en el [blog de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) de nuestro sitio principal.
+En logística, cotizamos con los Incoterms que convienen a cada programa, desde EXW Huizhou hasta DDP en almacén del cliente en Alemania o Illinois. Preparamos documentación de exportación, facturas comerciales, listas de paquete y certificados de material para que el despacho aduanero avance sin retraso. Nuestro equipo coordina con transitarios experimentados en envíos compuestos y aeroespaciales, y rastrea los envíos hasta destino. Como somos un único fabricante responsable, no hay reproches entre taller de moldes, subcontratista de curado y transportista — un proveedor lleva el resultado de la capa al puerto. Más antecedentes sobre nuestras prácticas de exportación aparecen en el [blog de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) de nuestro sitio principal.
 
 ## Del prototipo a la producción: un caso
 
@@ -234,4 +234,4 @@ Si su programa abarca varios procesos, explore nuestras páginas de servicio ded
 
 Si está evaluando un fabricante de piezas de fibra de carbono a medida para un programa próximo, le invitamos a la conversación. Envíe sus planos, volúmenes objetivo y requisitos de rendimiento, y le devolveremos un presupuesto transparente con un cronograma de plazos realista. Nuestros ingenieros revisarán con gusto el diseño para la fabricabilidad antes de comprometerse con la herramienta.
 
-Para una conversación técnica directa, contacte a Hank en **hank@techcarbonworks.com**. También puede saber más en nuestro sitio principal [TechCarbonWorks](https://techcarbonworks.com/) o leer análisis de procesos en nuestro [blog de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/). Desde 2005 ayudamos a equipos en Estados Unidos, Europa y Australia a convertir ideas de fibra de carbono en piezas de producción ligeras y fiables — y nos complacerá apoyar su próximo build.
+Para una conversación técnica directa, contacte a Hank en **hank@techcarbonworks.com**. También puede saber más en nuestro sitio principal [TechCarbonWorks](https://techcarbonworks.com/) o leer análisis de procesos en nuestro [blog de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/). Desde 2013 ayudamos a equipos en Estados Unidos, Europa y Australia a convertir ideas de fibra de carbono en piezas de producción ligeras y fiables — y nos complacerá apoyar su próximo build.

@@ -30,7 +30,7 @@ schema:
 ---
 ## Carbon Fiber Prototyping Services
 
-**Carbon fiber prototyping services** let engineering and sourcing teams prove a design's form, fit, and structural behavior before committing to expensive production tooling. Because carbon fiber is a directional, layered material, a prototype that is merely "the right shape" can still fail in service if the layup, radii, and draft were wrong. Since 2005 TechCarbonWorks has helped customers in the United States, Europe, and Australia move from CAD to a credible composite prototype in as little as one to three weeks, using rapid tooling routes that keep cost low while preserving the lessons needed for production.
+**Carbon fiber prototyping services** let engineering and sourcing teams prove a design's form, fit, and structural behavior before committing to expensive production tooling. Because carbon fiber is a directional, layered material, a prototype that is merely "the right shape" can still fail in service if the layup, radii, and draft were wrong. Since 2013 TechCarbonWorks has helped customers in the United States, Europe, and Australia move from CAD to a credible composite prototype in as little as one to three weeks, using rapid tooling routes that keep cost low while preserving the lessons needed for production.
 
 ![Custom carbon fiber prototype components produced by layup and molding](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Prototype carbon fiber components built for design validation")
 
@@ -194,6 +194,6 @@ For deeper background, our [carbon fiber prototyping services](https://techcarbo
 
 ## Why TechCarbonWorks
 
-Founded in 2005 in Dongguan, China, TechCarbonWorks is an ISO 9001 certified composite manufacturer shipping worldwide to the US, Europe, and Australia. Our integrated prototyping, tooling, and molding teams mean your prototype and your production tool come from one accountable source, with engineering continuity from first sketch to final shipment.
+Founded in 2013 in Huizhou, China, TechCarbonWorks is an ISO 9001 certified composite manufacturer shipping worldwide to the US, Europe, and Australia. Our integrated prototyping, tooling, and molding teams mean your prototype and your production tool come from one accountable source, with engineering continuity from first sketch to final shipment.
 
 Start your prototype program today by emailing **hank@techcarbonworks.com** with your CAD files, target properties, and expected volumes. We will propose the fastest, lowest-risk route and quote a firm lead time.

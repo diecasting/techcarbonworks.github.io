@@ -6,7 +6,7 @@ robots:
 title: "Fabricante de Piezas de Fibra de Carbono a Medida"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
-description: "TechCarbonWorks es un fabricante de piezas de fibra de carbono a medida en Dongguan desde 2005, que construye piezas de preimpregnado y mecanizadas con CNC para EE. UU., Europa y Australia con calidad ISO 9001 y trazabilidad completa."
+description: "TechCarbonWorks es un fabricante de piezas de fibra de carbono a medida en Huizhou desde 2013, que construye piezas de preimpregnado y mecanizadas con CNC para EE. UU., Europa y Australia con calidad ISO 9001 y trazabilidad completa."
 sections:
   - hero
   - capabilities
@@ -35,7 +35,7 @@ schema:
 
 ## Acerca de TechCarbonWorks como Fabricante de Piezas de Fibra de Carbono a Medida
 
-TechCarbonWorks es un **fabricante de piezas de fibra de carbono a medida** fundado en 2005 en Dongguan, China, y todo nuestro negocio se organiza en torno a una promesa: construimos componentes de fibra de carbono exactamente según su intención de ingeniería. Servimos a responsables de abastecimiento e ingenieros de diseño de Estados Unidos, Europa y Australia que necesitan piezas ligeras y de alta resistencia producidas según plano, tolerancia y un calendario fiable. Como fabricante de piezas de fibra de carbono a medida, no vendemos artículos de catálogo; fabricamos lo que describen sus dibujos, ya sea un ménsula prototipo única o una corrida de producción recurrente de miles.
+TechCarbonWorks es un **fabricante de piezas de fibra de carbono a medida** fundado en 2013 en Huizhou, China, y todo nuestro negocio se organiza en torno a una promesa: construimos componentes de fibra de carbono exactamente según su intención de ingeniería. Servimos a responsables de abastecimiento e ingenieros de diseño de Estados Unidos, Europa y Australia que necesitan piezas ligeras y de alta resistencia producidas según plano, tolerancia y un calendario fiable. Como fabricante de piezas de fibra de carbono a medida, no vendemos artículos de catálogo; fabricamos lo que describen sus dibujos, ya sea un ménsula prototipo única o una corrida de producción recurrente de miles.
 
 Lo que distingue a un verdadero fabricante de piezas de fibra de carbono a medida de un revendedor es la propiedad del proceso. Operamos nuestro propio taller de moldes, sala limpia de colocación de preimpregnado, autoclaves y centro de mecanizado CNC, por lo que la pieza que aprueba es la pieza que hacemos. No hay una transferencia silenciosa a un subcontratista desconocido, ningún misterio sobre qué resina se usó y ninguna brecha entre la tolerancia cotizada y la dimensión entregada. Esa integración vertical es la base de la confianza que nuestros clientes de todo el mundo depositan en nosotros.
 
@@ -195,4 +195,4 @@ Nuestro trabajo de fabricante de piezas de fibra de carbono a medida se conecta 
 
 Si está seleccionando un fabricante de piezas de fibra de carbono a medida para un programa próximo, le damos la bienvenida a la conversación. Envíe sus dibujos, volúmenes objetivo y requisitos de rendimiento, y le devolveremos una cotización transparente con un calendario de plazos realista y un plan de primer artículo.
 
-Contacte a nuestro equipo de ingeniería directamente en **hank@techcarbonworks.com**. También puede visitar nuestro sitio principal en [TechCarbonWorks](https://techcarbonworks.com/) o nuestra página dedicada de [fabricante de piezas de fibra de carbono a medida](https://techcarbonworks.com/custom-carbon-fiber-parts-manufacturer/). Desde 2005 hemos ayudado a equipos en EE. UU., Europa y Australia a convertir conceptos de fibra de carbono en piezas de producción ligeras y fiables — y esperamos construir las suyas. Para conocimientos prácticos de ingeniería, nuestro [blog de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) publica orientación sobre diseño, materiales y selección de proceso.
+Contacte a nuestro equipo de ingeniería directamente en **hank@techcarbonworks.com**. También puede visitar nuestro sitio principal en [TechCarbonWorks](https://techcarbonworks.com/) o nuestra página dedicada de [fabricante de piezas de fibra de carbono a medida](https://techcarbonworks.com/custom-carbon-fiber-parts-manufacturer/). Desde 2013 hemos ayudado a equipos en EE. UU., Europa y Australia a convertir conceptos de fibra de carbono en piezas de producción ligeras y fiables — y esperamos construir las suyas. Para conocimientos prácticos de ingeniería, nuestro [blog de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) publica orientación sobre diseño, materiales y selección de proceso.

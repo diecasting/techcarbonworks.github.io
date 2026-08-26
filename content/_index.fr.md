@@ -6,7 +6,7 @@ robots:
 title: "Fabricant de pièces en fibre de carbone sur mesure"
 layout: "landing"
 translationKey: "home"
-description: "TechCarbonWorks est un fabricant de pièces en fibre de carbone sur mesure, fondé en 2005 à Dongguan, en Chine, qui dessert les États-Unis, l'Europe et l'Australie avec un moulage de préimprégnés et un usinage CNC certifiés ISO 9001."
+description: "TechCarbonWorks est un fabricant de pièces en fibre de carbone sur mesure, fondé en 2013 à Huizhou, en Chine, qui dessert les États-Unis, l'Europe et l'Australie avec un moulage de préimprégnés et un usinage CNC certifiés ISO 9001."
 sections:
   - hero
   - capabilities
@@ -20,7 +20,7 @@ sections:
 schema:
   faq:
     - question: "En quoi TechCarbonWorks se distingue-t-il des autres fournisseurs de fibre de carbone ?"
-      answer: "Nous sommes un fabricant de pièces en fibre de carbone sur mesure intégré verticalement, disposant de notre propre atelier d'outillage, d'une salle propre de drapage de préimprégnés et d'un centre d'usinage CNC 5 axes à Dongguan. Fondé en 2005, nous contrôlons chaque processus, de l'outillage à l'inspection finale, ce qui protège les délais, les tolérances et la traçabilité des acheteurs techniques aux États-Unis, en Europe et en Australie."
+      answer: "Nous sommes un fabricant de pièces en fibre de carbone sur mesure intégré verticalement, disposant de notre propre atelier d'outillage, d'une salle propre de drapage de préimprégnés et d'un centre d'usinage CNC 5 axes à Huizhou. Fondé en 2013, nous contrôlons chaque processus, de l'outillage à l'inspection finale, ce qui protège les délais, les tolérances et la traçabilité des acheteurs techniques aux États-Unis, en Europe et en Australie."
     - question: "Quels matériaux en fibre de carbone détenez-vous en stock comme préimprégnés standard ?"
       answer: "Notre stock standard couvre les préimprégnés unidirectionnels et tissés Toray T300, T700 et T800, ainsi que les tissus 3K sergé et toile, les plaques de carbone forgé et les empilements hybrides carbone-Kevlar. Tous les préimprégnés sont stockés à -18 °C et tracés par lot, afin que les équipes puissent spécifier fibre, masse surfacique et système de résine exacts."
     - question: "Quelle tolérance l'usinage CNC peut-il maintenir sur des pièces en carbone durci ?"
@@ -35,11 +35,11 @@ schema:
 
 ## À propos de TechCarbonWorks
 
-TechCarbonWorks est un **fabricant de pièces en fibre de carbone sur mesure** fondé en 2005 à Dongguan, en Chine, et nous avons passé près de deux décennies à bâtir l'une des opérations de fabrication composite les plus complètes du delta de la rivière des Perles. Nous servons des équipes techniques et des responsables d'achats aux États-Unis, en Europe et en Australie qui ont besoin de composants haute performance conformes au plan, à la tolérance et au délai. Contrairement aux courtiers qui revendent des pièces fabriquées par des sous-traitants inconnus, nous possédons toute la chaîne de fabrication : conception d'outillage, fabrication de moules, drapage de préimprégnés, cuisson en autoclave, usinage CNC et inspection finale, sous un même toit.
+TechCarbonWorks est un **fabricant de pièces en fibre de carbone sur mesure** fondé en 2013 à Huizhou, en Chine, et nous avons passé près de deux décennies à bâtir l'une des opérations de fabrication composite les plus complètes du delta de la rivière des Perles. Nous servons des équipes techniques et des responsables d'achats aux États-Unis, en Europe et en Australie qui ont besoin de composants haute performance conformes au plan, à la tolérance et au délai. Contrairement aux courtiers qui revendent des pièces fabriquées par des sous-traitants inconnus, nous possédons toute la chaîne de fabrication : conception d'outillage, fabrication de moules, drapage de préimprégnés, cuisson en autoclave, usinage CNC et inspection finale, sous un même toit.
 
 Lorsque vous spécifiez une pièce en fibre de carbone sur mesure, vous spécifiez en réalité un système de matériau, de procédé et de discipline qualité. Une pièce correcte en apparence peut échouer en service si le taux de fibres est erroné, le cycle de cure décalé ou la séquence de drapage introduit des vides cachés. C'est pourquoi nos clients choisissent un fabricant intégré verticalement plutôt que de jongler avec plusieurs fournisseurs. Nous assumons la responsabilité du résultat, de la première couche au rapport dimensionnel final.
 
-Notre site de Dongguan a été conçu pour la production composite. Il inclut une salle propre de drapage de préimprégnés à température et humidité contrôlées, une flotte d'autoclaves dimensionnés pour les petits supports comme les grands panneaux structurels, un centre d'usinage CNC 3 et 5 axes dédié à la coupe et au perçage des laminés durcis, et une salle de métrologie avec machines à mesurer par coordonnées. Parce que nous contrôlons ces ressources directement, nous pouvons chiffrer honnêtement, protéger les délais en période de pointe et tracer chaque lot de matière jusqu'à son certificat de conformité.
+Notre site de Huizhou a été conçu pour la production composite. Il inclut une salle propre de drapage de préimprégnés à température et humidité contrôlées, une flotte d'autoclaves dimensionnés pour les petits supports comme les grands panneaux structurels, un centre d'usinage CNC 3 et 5 axes dédié à la coupe et au perçage des laminés durcis, et une salle de métrologie avec machines à mesurer par coordonnées. Parce que nous contrôlons ces ressources directement, nous pouvons chiffrer honnêtement, protéger les délais en période de pointe et tracer chaque lot de matière jusqu'à son certificat de conformité.
 
 ![Composants en fibre de carbone sur mesure produits par TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Composants en fibre de carbone sur mesure")
 
@@ -47,7 +47,7 @@ Notre site de Dongguan a été conçu pour la production composite. Il inclut un
 
 Dès le départ, notre philosophie a été d'agir comme une extension du département ingénierie de nos clients. Beaucoup de programmes ont commencé par une esquisse et sont devenus des volumes de dizaines de milliers de pièces par an. Nous avons accompagné des cellules de drones, des structures secondaires aérospatiales, des dispositifs aérodynamiques de sport automobile, des équipements d'imagerie médicale et des bras de robotique industrielle. Dans chaque cas, le facteur de succès était le même : un fabricant qui comprenait l'intention technique, pas seulement la géométrie.
 
-Nous sommes fiers de notre présence mondiale. Environ la moitié de notre production part en Amérique du Nord, avec une forte demande en Europe et une base croissante en Australie. Nous chiffrons dans plusieurs devises, gérons la documentation d'export et travaillons aux Incoterms adaptés à chaque client, qu'il s'agisse d'EXW Dongguan, FOB Shenzhen ou DDP vers un entrepôt en Allemagne ou en Illinois. Notre équipe maîtrise les attentes documentaires et qualité des OEM occidentaux, et considère un dossier de premier article propre comme une livrable innegociable.
+Nous sommes fiers de notre présence mondiale. Environ la moitié de notre production part en Amérique du Nord, avec une forte demande en Europe et une base croissante en Australie. Nous chiffrons dans plusieurs devises, gérons la documentation d'export et travaillons aux Incoterms adaptés à chaque client, qu'il s'agisse d'EXW Huizhou, FOB Shenzhen ou DDP vers un entrepôt en Allemagne ou en Illinois. Notre équipe maîtrise les attentes documentaires et qualité des OEM occidentaux, et considère un dossier de premier article propre comme une livrable innegociable.
 
 ## Nos capacités de fabrication en fibre de carbone
 
@@ -93,7 +93,7 @@ La qualité de l'outillage définit la qualité de la pièce. Nous usinons les m
 
 ![Atelier de fabrication de fibre de carbone TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Atelier de fabrication de fibre de carbone")
 
-*Notre atelier de Dongguan intègre fabrication de moules, drapage de préimprégnés, cuisson en autoclave et usinage CNC sous un même toit.*
+*Notre atelier de Huizhou intègre fabrication de moules, drapage de préimprégnés, cuisson en autoclave et usinage CNC sous un même toit.*
 
 ## Choix des matériaux
 
@@ -218,7 +218,7 @@ Nous prêtons aussi attention aux produits chimiques de notre procédé. Les fil
 
 Exporter des pièces composites de précision est une discipline en soi. Le carbone durci est léger mais fragile sur les bords, et un emballage mal fait peut ruiner des semaines de fabrication soignée. Nous concevons l'emballage selon la géométrie : cavités mousse sur mesure, caisses carton rigide ou contreplaqué, protection des arêtes et dessicant pour les destinations sensibles à l'humidité. Pour les commandes grandes ou de valeur, nous utilisons des cadres de transport réutilisables que les clients peuvent retourner, réduisant coût et déchet.
 
-Côté logistique, nous chiffrons aux Incoterms adaptés à chaque programme, d'EXW Dongguan à DDP en entrepôt client en Allemagne ou en Illinois. Nous préparons documentation d'export, factures commerciales, listes de colisage et certificats matière afin que le dédouanement se fasse sans retard. Notre équipe coordonne avec des transitaires expérimentés dans l'expédition composite et aérospatiale, et suit les envois jusqu'à destination. Comme nous sommes un unique fabricant responsable, il n'y a pas de reproches entre mouliste, sous-traitant de cure et transporteur — un fournisseur porte le résultat de la couche au port. D'autres éléments sur nos pratiques d'export apparaissent sur le [blog de fabrication fibre de carbone](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) de notre site principal.
+Côté logistique, nous chiffrons aux Incoterms adaptés à chaque programme, d'EXW Huizhou à DDP en entrepôt client en Allemagne ou en Illinois. Nous préparons documentation d'export, factures commerciales, listes de colisage et certificats matière afin que le dédouanement se fasse sans retard. Notre équipe coordonne avec des transitaires expérimentés dans l'expédition composite et aérospatiale, et suit les envois jusqu'à destination. Comme nous sommes un unique fabricant responsable, il n'y a pas de reproches entre mouliste, sous-traitant de cure et transporteur — un fournisseur porte le résultat de la couche au port. D'autres éléments sur nos pratiques d'export apparaissent sur le [blog de fabrication fibre de carbone](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) de notre site principal.
 
 ## Du prototype à la production : une étude de cas
 
@@ -234,4 +234,4 @@ Si votre programme couvre plusieurs procédés, explorez nos pages de service d�
 
 Si vous évaluez un fabricant de pièces en fibre de carbone sur mesure pour un programme à venir, nous accueillons volontiers la discussion. Envoyez vos plans, volumes cibles et exigences de performance, et nous reviendrons avec un devis transparent et un calendrier de délai réaliste. Nos ingénieurs réviseront volontiers la conception pour la fabricabilité avant que vous ne vous engagez sur l'outillage.
 
-Pour une discussion technique directe, contactez Hank à **hank@techcarbonworks.com**. Vous pouvez aussi en savoir plus sur notre site principal [TechCarbonWorks](https://techcarbonworks.com/) ou lire les analyses de procédés sur notre [blog de fabrication fibre de carbone](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/). Depuis 2005, nous aidons les équipes des États-Unis, d'Europe et d'Australie à transformer des idées en pièces de production légères et fiables — et nous serions heureux de soutenir votre prochain build.
+Pour une discussion technique directe, contactez Hank à **hank@techcarbonworks.com**. Vous pouvez aussi en savoir plus sur notre site principal [TechCarbonWorks](https://techcarbonworks.com/) ou lire les analyses de procédés sur notre [blog de fabrication fibre de carbone](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/). Depuis 2013, nous aidons les équipes des États-Unis, d'Europe et d'Australie à transformer des idées en pièces de production légères et fiables — et nous serions heureux de soutenir votre prochain build.

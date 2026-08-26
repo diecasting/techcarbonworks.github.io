@@ -2,7 +2,7 @@
 title: "Carbon Fiber Manufacturing Services"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
-description: "TechCarbonWorks provides carbon fiber manufacturing services including prepreg molding, autoclave curing, CNC machining and mold making for US, Europe and Australia since 2005 with ISO 9001."
+description: "TechCarbonWorks provides carbon fiber manufacturing services including prepreg molding, autoclave curing, CNC machining and mold making for US, Europe and Australia since 2013 with ISO 9001."
 sections:
   - hero
   - capabilities
@@ -30,7 +30,7 @@ schema:
 ---
 ## About Our Carbon Fiber Manufacturing Services
 
-TechCarbonWorks delivers integrated **carbon fiber manufacturing services** from our Dongguan, China facility, which we founded in 2005. We exist to solve a specific problem for engineering and sourcing teams in the United States, Europe and Australia: finding a supplier that can take a carbon fiber program from raw material to finished, inspected part without fragmenting the work across a chain of subcontractors. Our answer is vertical integration. We operate our own mold shop, prepreg layup clean room, autoclaves, CNC machining center and metrology room, so the carbon fiber manufacturing services we quote are the carbon fiber manufacturing services we actually perform.
+TechCarbonWorks delivers integrated **carbon fiber manufacturing services** from our Huizhou, China facility, which we founded in 2013. We exist to solve a specific problem for engineering and sourcing teams in the United States, Europe and Australia: finding a supplier that can take a carbon fiber program from raw material to finished, inspected part without fragmenting the work across a chain of subcontractors. Our answer is vertical integration. We operate our own mold shop, prepreg layup clean room, autoclaves, CNC machining center and metrology room, so the carbon fiber manufacturing services we quote are the carbon fiber manufacturing services we actually perform.
 
 For an engineer, the value of consolidated carbon fiber manufacturing services is risk reduction. Every time a part changes hands between vendors, there is a chance for miscommunication about datum, cure cycle or tolerance. By keeping layup, cure, machining and inspection in one plant, we hold a single chain of accountability. When a dimension is challenged, we can trace it to the mold, the layup batch and the machine program without blaming a third party.
 
@@ -212,4 +212,4 @@ Our carbon fiber manufacturing services connect closely with our other capabilit
 
 If you are scoping a program and want carbon fiber manufacturing services that are vertically integrated, transparent and export-ready, we are ready to help. Share your drawings, target volumes and performance targets, and we will return a clear quotation with a milestone schedule.
 
-Reach our engineering team directly at **hank@techcarbonworks.com**, or explore our main site at [TechCarbonWorks](https://techcarbonworks.com/) and our detailed [carbon fiber manufacturing services](https://techcarbonworks.com/carbon-fiber-manufacturing-services/) page. Since 2005 we have helped companies in the US, Europe and Australia turn carbon fiber designs into reliable production parts, and we look forward to supporting your next project. For deeper process insight, our [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) publishes practical engineering guidance.
+Reach our engineering team directly at **hank@techcarbonworks.com**, or explore our main site at [TechCarbonWorks](https://techcarbonworks.com/) and our detailed [carbon fiber manufacturing services](https://techcarbonworks.com/carbon-fiber-manufacturing-services/) page. Since 2013 we have helped companies in the US, Europe and Australia turn carbon fiber designs into reliable production parts, and we look forward to supporting your next project. For deeper process insight, our [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) publishes practical engineering guidance.

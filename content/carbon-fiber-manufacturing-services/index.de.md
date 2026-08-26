@@ -6,7 +6,7 @@ robots:
 title: "Carbonfaser-Fertigungsdienstleistungen"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
-description: "TechCarbonWorks bietet Carbonfaser-Fertigungsdienstleistungen umfassend Prepreg-Formen, Autoklaven-Aushärtung, CNC-Bearbeitung und Formenbau für die USA, Europa und Australien seit 2005 mit ISO 9001."
+description: "TechCarbonWorks bietet Carbonfaser-Fertigungsdienstleistungen umfassend Prepreg-Formen, Autoklaven-Aushärtung, CNC-Bearbeitung und Formenbau für die USA, Europa und Australien seit 2013 mit ISO 9001."
 sections:
   - hero
   - capabilities
@@ -35,7 +35,7 @@ schema:
 
 ## Über unsere Carbonfaser-Fertigungsdienstleistungen
 
-TechCarbonWorks bietet integrierte **Carbonfaser-Fertigungsdienstleistungen** aus unserem Werk in Dongguan, China, das wir 2005 gegründet haben. Wir existieren, um ein spezifisches Problem für Entwicklungs- und Beschaffungsteams in den Vereinigten Staaten, Europa und Australien zu lösen: einen Lieferanten zu finden, der ein Carbonfaser-Programm von der Rohware bis zum fertig geprüften Teil führen kann, ohne die Arbeit auf eine Kette von Unterauftragnehmern zu fragmentieren. Unsere Antwort ist vertikale Integration. Wir betreiben unsere eigene Formenwerkstatt, einen Reinraum für Prepreg-Laminierung, Autoklaven, ein CNC-Bearbeitungszentrum und einen Mesraum, sodass die Carbonfaser-Fertigungsdienstleistungen, die wir anbieten, genau die sind, die wir auch tatsächlich ausführen.
+TechCarbonWorks bietet integrierte **Carbonfaser-Fertigungsdienstleistungen** aus unserem Werk in Huizhou, China, das wir 2013 gegründet haben. Wir existieren, um ein spezifisches Problem für Entwicklungs- und Beschaffungsteams in den Vereinigten Staaten, Europa und Australien zu lösen: einen Lieferanten zu finden, der ein Carbonfaser-Programm von der Rohware bis zum fertig geprüften Teil führen kann, ohne die Arbeit auf eine Kette von Unterauftragnehmern zu fragmentieren. Unsere Antwort ist vertikale Integration. Wir betreiben unsere eigene Formenwerkstatt, einen Reinraum für Prepreg-Laminierung, Autoklaven, ein CNC-Bearbeitungszentrum und einen Mesraum, sodass die Carbonfaser-Fertigungsdienstleistungen, die wir anbieten, genau die sind, die wir auch tatsächlich ausführen.
 
 Für einen Konstrukteur liegt der Wert konsolidierter Carbonfaser-Fertigungsdienstleistungen in der Risikominderung. Jedes Mal, wenn ein Teil zwischen Lieferanten den Besitzer wechselt, besteht die Gefahr von Fehlkommunikation bezüglich Bezug (Datum), Aushärtezyklus oder Toleranz. Indem wir Laminieren, Aushärten, Bearbeiten und Prüfen unter einem Dach vereinen, halten wir eine einzige Verantwortungskette. Wenn eine Maßangabe angezweifelt wird, können wir sie auf die Form, die Laminiercharge und das Maschinenprogramm zurückverfolgen, ohne einen Dritten zu bemühen.
 
@@ -217,4 +217,4 @@ Unsere Carbonfaser-Fertigungsdienstleistungen stehen in engem Zusammenhang mit u
 
 Wenn Sie ein Programm planen und Carbonfaser-Fertigungsdienstleistungen suchen, die vertikal integriert, transparent und exportbereit sind, sind wir bereit zu helfen. Teilen Sie Ihre Zeichnungen, Zielstückzahlen und Leistungsziele mit, und wir werden ein klares Angebot mit Meilensteinplan zurückgeben.
 
-Kontaktieren Sie unser Engineering-Team direkt unter **hank@techcarbonworks.com**, oder erkunden Sie unsere Hauptseite bei [TechCarbonWorks](https://techcarbonworks.com/) und unsere detaillierte Seite [Carbonfaser-Fertigungsdienstleistungen](https://techcarbonworks.com/carbon-fiber-manufacturing-services/). Seit 2005 haben wir Unternehmen in den USA, Europa und Australien geholfen, Carbonfaser-Designs in verlässliche Produktionsteile zu verwandeln, und wir freuen uns, Ihr nächstes Projekt zu unterstützen. Für tiefere Prozesseinblicke veröffentlicht unser [Carbonfaser-Fertigungsblog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) praxisnahe Engineering-Leitfäden.
+Kontaktieren Sie unser Engineering-Team direkt unter **hank@techcarbonworks.com**, oder erkunden Sie unsere Hauptseite bei [TechCarbonWorks](https://techcarbonworks.com/) und unsere detaillierte Seite [Carbonfaser-Fertigungsdienstleistungen](https://techcarbonworks.com/carbon-fiber-manufacturing-services/). Seit 2013 haben wir Unternehmen in den USA, Europa und Australien geholfen, Carbonfaser-Designs in verlässliche Produktionsteile zu verwandeln, und wir freuen uns, Ihr nächstes Projekt zu unterstützen. Für tiefere Prozesseinblicke veröffentlicht unser [Carbonfaser-Fertigungsblog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) praxisnahe Engineering-Leitfäden.

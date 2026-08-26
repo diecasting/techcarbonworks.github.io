@@ -8,7 +8,7 @@ categories: ["Resources"]
 layout: "single"
 ---
 
-Understanding how carbon fiber parts are made helps B2B buyers set realistic lead times, budgets, and quality expectations. The journey from a rolled sheet of prepreg to a finished, inspected component is a tightly controlled sequence of material handling, hand craftsmanship, and precision machining. At TechCarbonWorks our Dongguan facility runs this workflow daily for aerospace, robotics, motorsport, and UAV clients. This article follows a part through every stage so you can spec, source, and plan with confidence.
+Understanding how carbon fiber parts are made helps B2B buyers set realistic lead times, budgets, and quality expectations. The journey from a rolled sheet of prepreg to a finished, inspected component is a tightly controlled sequence of material handling, hand craftsmanship, and precision machining. At TechCarbonWorks our Huizhou facility runs this workflow daily for aerospace, robotics, motorsport, and UAV clients. This article follows a part through every stage so you can spec, source, and plan with confidence.
 
 ![Technicians laying up carbon fiber components in the factory](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Layup and kitting in a controlled composite workshop")
 

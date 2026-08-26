@@ -1,15 +1,15 @@
 # ==========================================================================
-# organization.toml — TechCarbonWorks Organization Identity [SITE LAYER]
+# organization.toml — Huizhou Zhongweite Carbon Fiber Products Co., Ltd. Organization Identity [SITE LAYER]
 # ==========================================================================
 
 # --- Language-neutral fields (identical across all locales) ---
 
 [identity]
-legal_name = "TechCarbonWorks"
+legal_name = "Huizhou Zhongweite Carbon Fiber Products Co., Ltd."
 url = "https://blog.techcarbonworks.com/"
 sameAs = ["https://techcarbonworks.com/"]
 logo = "/logo.svg"
-founding_date = "2005"
+founding_date = "2013"
 industry = "Carbon Fiber Composite Manufacturing"
 area_served = ["Worldwide", "United States", "Europe", "Australia"]
 images = [
@@ -18,7 +18,8 @@ images = [
   "https://techcarbonworks.com/wp-content/uploads/2026/07/cnc-machining-carbon-fiber-components.webp.webp",
   "https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp"
 ]
-address_locality = "Dongguan"
+address_street = "1st Floor, Building 1, No. 76, Jinqiu Road, Qiuchang"
+address_locality = "Huizhou"
 address_region = "Guangdong"
 address_country = "CN"
 contact_email = "hank@techcarbonworks.com"
@@ -28,7 +29,7 @@ contact_phone = ""
 
 [en]
 name = "TechCarbonWorks"
-description = "TechCarbonWorks is a custom carbon fiber parts manufacturer providing OEM composite manufacturing, carbon fiber prototyping, CNC machining and advanced composite solutions since 2005, serving customers worldwide across the United States, Europe and Australia."
+description = "Huizhou Zhongweite Carbon Fiber Products Co., Ltd. (TechCarbonWorks) is a custom carbon fiber parts manufacturer providing OEM composite manufacturing, carbon fiber prototyping, CNC machining and advanced composite solutions since 2013, serving customers worldwide across the United States, Europe and Australia."
 knows_about = [
   "Carbon Fiber Manufacturing",
   "OEM Composite Components",
@@ -51,7 +52,7 @@ slogan = "Advanced Carbon Fiber Composites, Engineered to Perform"
 
 [de]
 name = "TechCarbonWorks"
-description = "TechCarbonWorks ist ein Hersteller von maßgefertigten Carbonfaser-Bauteilen und bietet seit 2005 OEM-Composite-Fertigung, Carbonfaser-Prototyping, CNC-Bearbeitung und fortschrittliche Composite-Lösungen für Kunden weltweit in den USA, Europa und Australien."
+description = "Huizhou Zhongweite Carbon Fiber Products Co., Ltd. (TechCarbonWorks) ist ein Hersteller von maßgefertigten Carbonfaser-Bauteilen und bietet seit 2013 OEM-Composite-Fertigung, Carbonfaser-Prototyping, CNC-Bearbeitung und fortschrittliche Composite-Lösungen für Kunden weltweit in den USA, Europa und Australien."
 knows_about = [
   "Carbonfaser-Fertigung",
   "OEM-Composite-Bauteile",
@@ -74,7 +75,7 @@ slogan = "Hochwertige Carbonfaser-Composites, konstruiert für Leistung"
 
 [ja]
 name = "TechCarbonWorks"
-description = "TechCarbonWorksは、2005年よりOEM複合材料製造、炭素繊維プロトタイピング、CNC加工、および高度な複合材料ソリューションを提供するカーボンファイバー部品の受託製造メーカーです。米国、欧州、オーストラリアの顧客に世界中で製品を供給しています。"
+description = "Huizhou Zhongweite Carbon Fiber Products Co., Ltd. (TechCarbonWorks)は、2013年よりOEM複合材料製造、炭素繊維プロトタイピング、CNC加工、および高度な複合材料ソリューションを提供するカーボンファイバー部品の受託製造メーカーです。米国、欧州、オーストラリアの顧客に世界中で製品を供給しています。"
 knows_about = [
   "炭素繊維製造",
   "OEM複合材コンポーネント",
@@ -97,7 +98,7 @@ slogan = "性能のために設計された高度な炭素繊維コンポジッ�
 
 [fr]
 name = "TechCarbonWorks"
-description = "TechCarbonWorks est un fabricant de pièces en fibre de carbone sur mesure, proposant depuis 2005 la fabrication de composites OEM, le prototypage en fibre de carbone, l'usinage CNC et des solutions composites avancées pour des clients dans le monde entier, aux États-Unis, en Europe et en Australie."
+description = "Huizhou Zhongweite Carbon Fiber Products Co., Ltd. (TechCarbonWorks) est un fabricant de pièces en fibre de carbone sur mesure, proposant depuis 2013 la fabrication de composites OEM, le prototypage en fibre de carbone, l'usinage CNC et des solutions composites avancées pour des clients dans le monde entier, aux États-Unis, en Europe et en Australie."
 knows_about = [
   "Fabrication de fibre de carbone",
   "Composants composites OEM",
@@ -120,7 +121,7 @@ slogan = "Composites en fibre de carbone avancés, conçus pour la performance"
 
 [es]
 name = "TechCarbonWorks"
-description = "TechCarbonWorks es un fabricante de piezas de fibra de carbono a medida que, desde 2005, ofrece fabricación de composites OEM, prototipado de fibra de carbono, mecanizado CNC y soluciones compuestas avanzadas a clientes de todo el mundo en Estados Unidos, Europa y Australia."
+description = "Huizhou Zhongweite Carbon Fiber Products Co., Ltd. (TechCarbonWorks) es un fabricante de piezas de fibra de carbono a medida que, desde 2013, ofrece fabricación de composites OEM, prototipado de fibra de carbono, mecanizado CNC y soluciones compuestas avanzadas a clientes de todo el mundo en Estados Unidos, Europa y Australia."
 knows_about = [
   "Fabricación de fibra de carbono",
   "Componentes compuestos OEM",

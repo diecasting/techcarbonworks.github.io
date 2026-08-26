@@ -2,7 +2,7 @@
 title: "Custom Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "home"
-description: "TechCarbonWorks is a custom carbon fiber parts manufacturer founded in 2005 in Dongguan, China, serving the US, Europe and Australia with ISO 9001 prepreg molding and CNC machining."
+description: "TechCarbonWorks is a custom carbon fiber parts manufacturer founded in 2013 in Huizhou, China, serving the US, Europe and Australia with ISO 9001 prepreg molding and CNC machining."
 sections:
   - hero
   - capabilities
@@ -16,7 +16,7 @@ sections:
 schema:
   faq:
     - question: "What makes TechCarbonWorks different from other carbon fiber suppliers?"
-      answer: "We are a vertically integrated custom carbon fiber parts manufacturer operating our own mold shop, prepreg layup clean room and 5-axis CNC machining center in Dongguan. Founded in 2005, we control every process from tooling to final inspection, which protects lead times, tolerances and traceability for engineering buyers in the US, Europe and Australia."
+      answer: "We are a vertically integrated custom carbon fiber parts manufacturer operating our own mold shop, prepreg layup clean room and 5-axis CNC machining center in Huizhou. Founded in 2013, we control every process from tooling to final inspection, which protects lead times, tolerances and traceability for engineering buyers in the US, Europe and Australia."
     - question: "Which carbon fiber materials do you stock as standard prepreg?"
       answer: "Our standard inventory covers Toray T300, T700 and T800 unidirectional and fabric prepreg, plus 3K twill and plain weave cloth, forged carbon sheets and carbon-kevlar hybrid layups. All prepreg is stored in a -18C cold room and lot-traced so engineering teams can specify exact fiber, areal weight and resin system for their program."
     - question: "What tolerance can your CNC machining hold on cured carbon parts?"
@@ -30,11 +30,11 @@ schema:
 ---
 ## About TechCarbonWorks
 
-TechCarbonWorks is a **custom carbon fiber parts manufacturer** founded in 2005 in Dongguan, China, and we have spent nearly two decades building one of the most complete composite fabrication operations in the Pearl River Delta. We serve engineering teams and sourcing managers across the United States, Europe and Australia who need high-performance carbon fiber components built to print, to tolerance and to schedule. Unlike brokers who resell parts made by unknown subcontractors, we own the entire manufacturing chain: tooling design, mold making, prepreg layup, autoclave curing, CNC machining and final inspection all happen under one roof.
+TechCarbonWorks is a **custom carbon fiber parts manufacturer** founded in 2013 in Huizhou, China, and we have spent nearly two decades building one of the most complete composite fabrication operations in the Pearl River Delta. We serve engineering teams and sourcing managers across the United States, Europe and Australia who need high-performance carbon fiber components built to print, to tolerance and to schedule. Unlike brokers who resell parts made by unknown subcontractors, we own the entire manufacturing chain: tooling design, mold making, prepreg layup, autoclave curing, CNC machining and final inspection all happen under one roof.
 
 When you specify a custom carbon fiber part, you are really specifying a system of material, process and quality discipline. A component that looks correct on the outside can fail in service if the fiber volume fraction is wrong, the cure cycle was off, or the layup sequence introduced hidden voids. That is why our customers choose a vertically integrated custom carbon fiber parts manufacturer rather than juggling multiple vendors. We take responsibility for the outcome from the first laminate ply to the final dimensional report.
 
-Our facility in Dongguan was purpose-built for composite production. It includes a temperature- and humidity-controlled prepreg layup clean room, a fleet of autoclaves sized for both small brackets and large structural panels, a 3-axis and 5-axis CNC machining center dedicated to trimming and drilling cured laminates, and a metrology room with coordinate measuring machines. Because we control these resources directly, we can quote honestly, protect lead times during demand surges, and trace every lot of material back to its certificate of conformance.
+Our facility in Huizhou was purpose-built for composite production. It includes a temperature- and humidity-controlled prepreg layup clean room, a fleet of autoclaves sized for both small brackets and large structural panels, a 3-axis and 5-axis CNC machining center dedicated to trimming and drilling cured laminates, and a metrology room with coordinate measuring machines. Because we control these resources directly, we can quote honestly, protect lead times during demand surges, and trace every lot of material back to its certificate of conformance.
 
 ![Custom carbon fiber components produced by TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Custom Carbon Fiber Components")
 
@@ -42,7 +42,7 @@ Our facility in Dongguan was purpose-built for composite production. It includes
 
 From the beginning, our philosophy has been to act as an extension of our customers' engineering departments. Many of the programs we run started as a rough sketch on a napkin and grew into production volumes of tens of thousands of parts per year. We have supported drone airframes, aerospace secondary structures, motorsport aero devices, medical imaging equipment, and industrial robotics arms. In every case the success factor was the same: a custom carbon fiber parts manufacturer that understood the engineering intent, not just the geometry.
 
-We are proud of our global footprint. Roughly half of our output ships to North America, with strong demand from Europe and a fast-growing base in Australia. We quote in multiple currencies, handle export documentation, and work to Incoterms that suit each customer, whether that is EXW Dongguan, FOB Shenzhen, or DDP to a warehouse in Germany or Illinois. Our team is fluent in the documentation and quality expectations that Western OEMs require, and we treat a clean first-article package as a non-negotiable deliverable.
+We are proud of our global footprint. Roughly half of our output ships to North America, with strong demand from Europe and a fast-growing base in Australia. We quote in multiple currencies, handle export documentation, and work to Incoterms that suit each customer, whether that is EXW Huizhou, FOB Shenzhen, or DDP to a warehouse in Germany or Illinois. Our team is fluent in the documentation and quality expectations that Western OEMs require, and we treat a clean first-article package as a non-negotiable deliverable.
 
 ## Our Carbon Fiber Manufacturing Capabilities
 
@@ -88,7 +88,7 @@ Tooling quality defines part quality. We machine molds from aluminum for product
 
 ![Carbon fiber manufacturing factory floor at TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Carbon Fiber Manufacturing Factory")
 
-*Our Dongguan factory floor integrates mold making, prepreg layup, autoclave curing and CNC machining under one roof.*
+*Our Huizhou factory floor integrates mold making, prepreg layup, autoclave curing and CNC machining under one roof.*
 
 ## Material Selection
 
@@ -213,7 +213,7 @@ We also pay attention to the chemicals in our process. Vacuum bagging films, rel
 
 Exporting precision composite parts is a discipline in its own right. Cured carbon fiber is light but brittle at edges, and a poorly packed shipment can undo weeks of careful manufacturing. We engineer packaging per part geometry: custom foam cavities, rigid corrugated or plywood cases, edge protection and desiccant for humidity-sensitive destinations. For large or high-value orders we use reusable transit frames that customers can return, reducing both cost and waste.
 
-On the logistics side, we quote to the Incoterms that suit each program, from EXW Dongguan to DDP at a customer warehouse in Germany or Illinois. We prepare export documentation, commercial invoices, packing lists and material certificates so that customs clearance proceeds without delay. Our team coordinates with freight forwarders experienced in composite and aerospace shipments, and we track consignments to destination. Because we act as a single accountable custom carbon fiber parts manufacturer, there is no finger-pointing between a mold shop, a curing subcontractor and a shipper — one supplier owns the outcome from ply to port. Further background on our export practices appears on the [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) at our main site.
+On the logistics side, we quote to the Incoterms that suit each program, from EXW Huizhou to DDP at a customer warehouse in Germany or Illinois. We prepare export documentation, commercial invoices, packing lists and material certificates so that customs clearance proceeds without delay. Our team coordinates with freight forwarders experienced in composite and aerospace shipments, and we track consignments to destination. Because we act as a single accountable custom carbon fiber parts manufacturer, there is no finger-pointing between a mold shop, a curing subcontractor and a shipper — one supplier owns the outcome from ply to port. Further background on our export practices appears on the [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) at our main site.
 
 ## From Prototype to Production: A Case Walkthrough
 
@@ -229,4 +229,4 @@ If your program spans more than one process, explore our dedicated service pages
 
 If you are evaluating a custom carbon fiber parts manufacturer for an upcoming program, we welcome the conversation. Send your drawings, target volumes and performance requirements, and we will return a transparent quotation with a realistic lead-time schedule. Our engineers are happy to review design for manufacturability before you commit to tooling.
 
-For a direct technical discussion, contact Hank at **hank@techcarbonworks.com**. You can also learn more on our main site at [TechCarbonWorks](https://techcarbonworks.com/) or read process deep-dives on our [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/). Since 2005 we have helped teams in the US, Europe and Australia turn carbon fiber concepts into reliable, lightweight production parts — and we look forward to supporting your next build.
+For a direct technical discussion, contact Hank at **hank@techcarbonworks.com**. You can also learn more on our main site at [TechCarbonWorks](https://techcarbonworks.com/) or read process deep-dives on our [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/). Since 2013 we have helped teams in the US, Europe and Australia turn carbon fiber concepts into reliable, lightweight production parts — and we look forward to supporting your next build.

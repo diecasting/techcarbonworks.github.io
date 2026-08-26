@@ -30,7 +30,7 @@ schema:
 ---
 ## Motorsport Carbon Fiber Parts Manufacturer
 
-TechCarbonWorks is a specialist **Motorsport Carbon Fiber Parts Manufacturer** supplying race teams, tuning houses, and automotive engineering firms across the United States, Europe, and Australia. Founded in Dongguan, China in 2005, we understand that motorsport operates on a different clock from every other industry: the calendar is set by race weekends, not by quarterly planning. A damaged diffuser on Friday can end a campaign on Sunday, so turnaround is as important as lap time. This page explains the aero packages, body panels, and impact-zone parts we build, the carbon-kevlar hybrids that survive contact, and the quick-turn workflow that keeps cars on track.
+TechCarbonWorks is a specialist **Motorsport Carbon Fiber Parts Manufacturer** supplying race teams, tuning houses, and automotive engineering firms across the United States, Europe, and Australia. Founded in Huizhou, China in 2013, we understand that motorsport operates on a different clock from every other industry: the calendar is set by race weekends, not by quarterly planning. A damaged diffuser on Friday can end a campaign on Sunday, so turnaround is as important as lap time. This page explains the aero packages, body panels, and impact-zone parts we build, the carbon-kevlar hybrids that survive contact, and the quick-turn workflow that keeps cars on track.
 
 ## Aero Packages: Splitters, Diffusers, and Wings
 
@@ -103,4 +103,4 @@ The FAQ schema above covers aero package scope, carbon-kevlar rationale, turnaro
 
 ## Talk to Our Motorsport Desk
 
-If your team needs aero, bodywork, or impact-zone parts built to a race calendar, reach out. As a Motorsport Carbon Fiber Parts Manufacturer founded in 2005, we combine laminate discipline with the quick-turn responsiveness that racing demands. Contact **hank@techcarbonworks.com** with your drawings, weight targets, or a crash-rebuild request, and we will propose a build and lead time. You can also visit our main [TechCarbonWorks site](https://techcarbonworks.com/) and our [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) for more on composite aero design and finish techniques.
+If your team needs aero, bodywork, or impact-zone parts built to a race calendar, reach out. As a Motorsport Carbon Fiber Parts Manufacturer founded in 2013, we combine laminate discipline with the quick-turn responsiveness that racing demands. Contact **hank@techcarbonworks.com** with your drawings, weight targets, or a crash-rebuild request, and we will propose a build and lead time. You can also visit our main [TechCarbonWorks site](https://techcarbonworks.com/) and our [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) for more on composite aero design and finish techniques.

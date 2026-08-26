@@ -2,7 +2,7 @@
 title: "Custom Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
-description: "TechCarbonWorks is a custom carbon fiber parts manufacturer in Dongguan since 2005, building prepreg and CNC-machined parts for the US, Europe and Australia with ISO 9001 quality and full traceability."
+description: "TechCarbonWorks is a custom carbon fiber parts manufacturer in Huizhou since 2013, building prepreg and CNC-machined parts for the US, Europe and Australia with ISO 9001 quality and full traceability."
 sections:
   - hero
   - capabilities
@@ -30,7 +30,7 @@ schema:
 ---
 ## About TechCarbonWorks as a Custom Carbon Fiber Parts Manufacturer
 
-TechCarbonWorks is a **custom carbon fiber parts manufacturer** founded in 2005 in Dongguan, China, and our entire business is organized around one promise: we build carbon fiber components exactly to your engineering intent. We serve sourcing managers and design engineers across the United States, Europe and Australia who need lightweight, high-strength parts produced to print, to tolerance and to a reliable schedule. As a custom carbon fiber parts manufacturer, we do not sell catalog items; we manufacture what your drawings describe, whether that is a single prototype bracket or a recurring production run of thousands.
+TechCarbonWorks is a **custom carbon fiber parts manufacturer** founded in 2013 in Huizhou, China, and our entire business is organized around one promise: we build carbon fiber components exactly to your engineering intent. We serve sourcing managers and design engineers across the United States, Europe and Australia who need lightweight, high-strength parts produced to print, to tolerance and to a reliable schedule. As a custom carbon fiber parts manufacturer, we do not sell catalog items; we manufacture what your drawings describe, whether that is a single prototype bracket or a recurring production run of thousands.
 
 What sets a true custom carbon fiber parts manufacturer apart from a reseller is ownership of the process. We run our own mold shop, prepreg layup clean room, autoclaves and CNC machining center, so the part you approve is the part we make. There is no silent hand-off to an unknown subcontractor, no mystery about which resin was used, and no gap between the quoted tolerance and the delivered dimension. That vertical integration is the foundation of the trust our worldwide customers place in us.
 
@@ -190,4 +190,4 @@ Our custom carbon fiber parts manufacturer work connects with deeper capability 
 
 If you are selecting a custom carbon fiber parts manufacturer for an upcoming program, we welcome the conversation. Send your drawings, target volumes and performance requirements, and we will return a transparent quotation with a realistic lead-time schedule and a first-article plan.
 
-Contact our engineering team directly at **hank@techcarbonworks.com**. You can also visit our main site at [TechCarbonWorks](https://techcarbonworks.com/) or our dedicated [custom carbon fiber parts manufacturer](https://techcarbonworks.com/custom-carbon-fiber-parts-manufacturer/) page. Since 2005 we have helped teams in the US, Europe and Australia turn carbon fiber concepts into reliable, lightweight production parts — and we look forward to building yours. For practical engineering insight, our [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) publishes guidance on design, materials and process selection.
+Contact our engineering team directly at **hank@techcarbonworks.com**. You can also visit our main site at [TechCarbonWorks](https://techcarbonworks.com/) or our dedicated [custom carbon fiber parts manufacturer](https://techcarbonworks.com/custom-carbon-fiber-parts-manufacturer/) page. Since 2013 we have helped teams in the US, Europe and Australia turn carbon fiber concepts into reliable, lightweight production parts — and we look forward to building yours. For practical engineering insight, our [carbon fiber manufacturing blog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) publishes guidance on design, materials and process selection.

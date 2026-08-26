@@ -2,7 +2,7 @@
 title: "CNC Machining Carbon Fiber Parts"
 layout: "landing"
 translationKey: "cnc-machining-carbon-fiber-parts"
-description: "CNC machining carbon fiber parts with 3-axis and 5-axis mills, ±0.05-0.1mm tolerances, delamination-free edges, and CMM inspection. ISO 9001 since 2005."
+description: "CNC machining carbon fiber parts with 3-axis and 5-axis mills, ±0.05-0.1mm tolerances, delamination-free edges, and CMM inspection. ISO 9001 since 2013."
 sections:
   - hero
   - capabilities
@@ -30,7 +30,7 @@ schema:
 ---
 ## CNC Machining Carbon Fiber Parts
 
-**CNC machining carbon fiber parts** is one of the most demanding operations in composite manufacturing because the same stiffness and hardness that make the material attractive also destroy ordinary cutting tools and cause delamination if the process is not tightly controlled. At TechCarbonWorks we have machined carbon fiber laminates, tubes, and molded blanks since 2005, building a process chain that delivers clean edges, repeatable tolerances, and verified quality for engineering teams in the United States, Europe, and Australia. This page explains how we select machines, tooling, and inspection methods so that your drawings become production-ready carbon components rather than frayed, dimensionally drifting rejects.
+**CNC machining carbon fiber parts** is one of the most demanding operations in composite manufacturing because the same stiffness and hardness that make the material attractive also destroy ordinary cutting tools and cause delamination if the process is not tightly controlled. At TechCarbonWorks we have machined carbon fiber laminates, tubes, and molded blanks since 2013, building a process chain that delivers clean edges, repeatable tolerances, and verified quality for engineering teams in the United States, Europe, and Australia. This page explains how we select machines, tooling, and inspection methods so that your drawings become production-ready carbon components rather than frayed, dimensionally drifting rejects.
 
 ![CNC milling of carbon fiber composite components on a 5-axis machining center](https://techcarbonworks.com/wp-content/uploads/2026/07/cnc-machining-carbon-fiber-components.webp.webp "5-axis CNC machining of carbon fiber composite components")
 
@@ -157,6 +157,6 @@ If you are evaluating suppliers, our main [CNC machining carbon fiber parts](htt
 
 ## Why TechCarbonWorks
 
-Founded in 2005 in Dongguan, China, TechCarbonWorks is an ISO 9001 certified composite manufacturer shipping worldwide to the US, Europe, and Australia. We combine in-house CNC machining, molding, and inspection so your carbon fiber parts move from drawing to delivered component without hand-offs between vendors. Our engineering team reviews every file for manufacturability before we cut, reducing scrap and speeding your program.
+Founded in 2013 in Huizhou, China, TechCarbonWorks is an ISO 9001 certified composite manufacturer shipping worldwide to the US, Europe, and Australia. We combine in-house CNC machining, molding, and inspection so your carbon fiber parts move from drawing to delivered component without hand-offs between vendors. Our engineering team reviews every file for manufacturability before we cut, reducing scrap and speeding your program.
 
 Ready to start? Email **hank@techcarbonworks.com** with your drawings and quantities for a fast, engineering-led quotation and lead-time estimate.

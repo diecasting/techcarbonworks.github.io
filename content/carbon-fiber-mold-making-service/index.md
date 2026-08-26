@@ -2,7 +2,7 @@
 title: "Carbon Fiber Mold Making Service"
 layout: "landing"
 translationKey: "carbon-fiber-mold-making-service"
-description: "Carbon fiber mold making service with CNC plug machining, composite, aluminum and steel molds, class-A polish, and vacuum integrity testing. ISO 9001 since 2005."
+description: "Carbon fiber mold making service with CNC plug machining, composite, aluminum and steel molds, class-A polish, and vacuum integrity testing. ISO 9001 since 2013."
 sections:
   - hero
   - capabilities
@@ -30,7 +30,7 @@ schema:
 ---
 ## Carbon Fiber Mold Making Service
 
-A **carbon fiber mold making service** is the foundation of every repeatable composite part, because the mold dictates the surface, the dimensional envelope, and the rate at which you can produce. A poorly made tool leaks vacuum, transfers orange-peel texture, or warps the part under cure heat, and those defects multiply across every unit it makes. Since 2005 TechCarbonWorks has built composite, aluminum, and steel tooling for customers in the United States, Europe, and Australia, combining CNC plug machining, surface engineering, and vacuum testing so the mold you receive is production-ready on day one.
+A **carbon fiber mold making service** is the foundation of every repeatable composite part, because the mold dictates the surface, the dimensional envelope, and the rate at which you can produce. A poorly made tool leaks vacuum, transfers orange-peel texture, or warps the part under cure heat, and those defects multiply across every unit it makes. Since 2013 TechCarbonWorks has built composite, aluminum, and steel tooling for customers in the United States, Europe, and Australia, combining CNC plug machining, surface engineering, and vacuum testing so the mold you receive is production-ready on day one.
 
 ![Autoclave curing of carbon fiber parts in precision composite tooling](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Autoclave cure of carbon fiber parts in composite molds")
 
@@ -192,6 +192,6 @@ For the full program, visit our [carbon fiber mold making service](https://techc
 
 ## Why TechCarbonWorks
 
-Founded in 2005 in Dongguan, China, TechCarbonWorks is an ISO 9001 certified composite manufacturer shipping worldwide to the US, Europe, and Australia. We machine plugs, build molds, and run production under one roof, so tooling intent is never lost in a hand-off between vendors. Every mold leaves with inspection data, a maintenance log, and a clear life expectation.
+Founded in 2013 in Huizhou, China, TechCarbonWorks is an ISO 9001 certified composite manufacturer shipping worldwide to the US, Europe, and Australia. We machine plugs, build molds, and run production under one roof, so tooling intent is never lost in a hand-off between vendors. Every mold leaves with inspection data, a maintenance log, and a clear life expectation.
 
 Commission your production tooling by emailing **hank@techcarbonworks.com** with your part geometry, resin system, and expected annual volume. We will recommend the right mold material and quote a build schedule.

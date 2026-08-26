@@ -6,7 +6,7 @@ robots:
 title: "Servicios de Fabricación de Fibra de Carbono"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
-description: "TechCarbonWorks ofrece servicios de fabricación de fibra de carbono que incluyen moldeo por preimpregnado, curado en autoclave, mecanizado CNC y fabricación de moldes para EE. UU., Europa y Australia desde 2005, con ISO 9001."
+description: "TechCarbonWorks ofrece servicios de fabricación de fibra de carbono que incluyen moldeo por preimpregnado, curado en autoclave, mecanizado CNC y fabricación de moldes para EE. UU., Europa y Australia desde 2013, con ISO 9001."
 sections:
   - hero
   - capabilities
@@ -35,7 +35,7 @@ schema:
 
 ## Acerca de Nuestros Servicios de Fabricación de Fibra de Carbono
 
-TechCarbonWorks ofrece **servicios de fabricación de fibra de carbono** integrados desde nuestras instalaciones de Dongguan, China, fundadas en 2005. Existe para resolver un problema concreto de los equipos de ingeniería y abastecimiento de Estados Unidos, Europa y Australia: encontrar un proveedor capaz de llevar un programa de fibra de carbono desde la materia prima hasta la pieza terminada e inspeccionada sin fragmentar el trabajo entre una cadena de subcontratistas. Nuestra respuesta es la integración vertical. Operamos nuestro propio taller de moldes, sala limpia de colocación de preimpregnado, autoclaves, centro de mecanizado CNC y sala de metrología, por lo que los servicios de fabricación de fibra de carbono que cotizamos son los que realmente ejecutamos.
+TechCarbonWorks ofrece **servicios de fabricación de fibra de carbono** integrados desde nuestras instalaciones de Huizhou, China, fundadas en 2013. Existe para resolver un problema concreto de los equipos de ingeniería y abastecimiento de Estados Unidos, Europa y Australia: encontrar un proveedor capaz de llevar un programa de fibra de carbono desde la materia prima hasta la pieza terminada e inspeccionada sin fragmentar el trabajo entre una cadena de subcontratistas. Nuestra respuesta es la integración vertical. Operamos nuestro propio taller de moldes, sala limpia de colocación de preimpregnado, autoclaves, centro de mecanizado CNC y sala de metrología, por lo que los servicios de fabricación de fibra de carbono que cotizamos son los que realmente ejecutamos.
 
 Para un ingeniero, el valor de unos servicios de fabricación de fibra de carbono consolidados es la reducción del riesgo. Cada vez que una pieza cambia de manos entre proveedores, existe la posibilidad de un malentendido sobre la referencia (datum), el ciclo de curado o la tolerancia. Al mantener la colocación, el curado, el mecanizado y la inspección en una misma planta, mantenemos una única cadena de responsabilidad. Cuando se cuestiona una dimensión, podemos rastrearla hasta el molde, el lote de colocación y el programa de máquina sin culpar a un tercero.
 
@@ -217,4 +217,4 @@ Nuestros servicios de fabricación de fibra de carbono se conectan estrechamente
 
 Si está delimitando un programa y desea servicios de fabricación de fibra de carbono integrados verticalmente, transparentes y listos para exportación, estamos listos para ayudar. Comparta sus dibujos, volúmenes objetivo y objetivos de rendimiento, y le devolveremos una cotización clara con un calendario de hitos.
 
-Comuníquese con nuestro equipo de ingeniería directamente en **hank@techcarbonworks.com**, o explore nuestro sitio principal en [TechCarbonWorks](https://techcarbonworks.com/) y nuestra página detallada de [servicios de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-services/). Desde 2005 hemos ayudado a empresas de EE. UU., Europa y Australia a convertir diseños de fibra de carbono en piezas de producción fiables, y esperamos apoyar su próximo proyecto. Para profundizar en el proceso, nuestro [blog de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) publica orientación práctica de ingeniería.
+Comuníquese con nuestro equipo de ingeniería directamente en **hank@techcarbonworks.com**, o explore nuestro sitio principal en [TechCarbonWorks](https://techcarbonworks.com/) y nuestra página detallada de [servicios de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-services/). Desde 2013 hemos ayudado a empresas de EE. UU., Europa y Australia a convertir diseños de fibra de carbono en piezas de producción fiables, y esperamos apoyar su próximo proyecto. Para profundizar en el proceso, nuestro [blog de fabricación de fibra de carbono](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) publica orientación práctica de ingeniería.

@@ -6,7 +6,7 @@ robots:
 title: "Kundenspezifischer Carbonfaserteile-Hersteller"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
-description: "TechCarbonWorks ist ein kundenspezifischer Carbonfaserteile-Hersteller in Dongguan seit 2005, der Prepreg- und CNC-bearbeitete Teile für die USA, Europa und Australien mit ISO 9001 Qualität und vollständiger Rückverfolgbarkeit fertigt."
+description: "TechCarbonWorks ist ein kundenspezifischer Carbonfaserteile-Hersteller in Huizhou seit 2013, der Prepreg- und CNC-bearbeitete Teile für die USA, Europa und Australien mit ISO 9001 Qualität und vollständiger Rückverfolgbarkeit fertigt."
 sections:
   - hero
   - capabilities
@@ -35,7 +35,7 @@ schema:
 
 ## Über TechCarbonWorks als kundenspezifischer Carbonfaserteile-Hersteller
 
-TechCarbonWorks ist ein **kundenspezifischer Carbonfaserteile-Hersteller**, 2005 in Dongguan, China, gegründet, und unser gesamtes Geschäft ist um ein Versprechen organisiert: Wir fertigen Carbonfaser-Bauteile exakt nach Ihrer technischen Intention. Wir unterstützen Beschaffungsleiter und Konstrukteure in den Vereinigten Staaten, Europa und Australien, die leichte, hochfeste Teile nach Zeichnung, nach Toleranz und zuverlässigem Zeitplan benötigen. Als kundenspezifischer Carbonfaserteile-Hersteller verkaufen wir keine Katalogartikel; wir fertigen, was Ihre Zeichnungen beschreiben, sei es eine einzelne Prototyp-Halterung oder eine wiederkehrende Produktionsserie von Tausenden.
+TechCarbonWorks ist ein **kundenspezifischer Carbonfaserteile-Hersteller**, 2013 in Huizhou, China, gegründet, und unser gesamtes Geschäft ist um ein Versprechen organisiert: Wir fertigen Carbonfaser-Bauteile exakt nach Ihrer technischen Intention. Wir unterstützen Beschaffungsleiter und Konstrukteure in den Vereinigten Staaten, Europa und Australien, die leichte, hochfeste Teile nach Zeichnung, nach Toleranz und zuverlässigem Zeitplan benötigen. Als kundenspezifischer Carbonfaserteile-Hersteller verkaufen wir keine Katalogartikel; wir fertigen, was Ihre Zeichnungen beschreiben, sei es eine einzelne Prototyp-Halterung oder eine wiederkehrende Produktionsserie von Tausenden.
 
 Was einen wahren kundenspezifischen Carbonfaserteile-Hersteller von einem Wiederverkäufer unterscheidet, ist der Besitz des Prozesses. Wir betreiben unsere eigene Formenwerkstatt, einen Prepreg-Laminier-Reinraum, Autoklaven und ein CNC-Bearbeitungszentrum, sodass das Teil, das Sie freigeben, das Teil ist, das wir herstellen. Es gibt keine stille Weitergabe an einen unbekannten Unterauftragnehmer, kein Rätselraten über das verwendete Harz und keine Lücke zwischen der angebotenen Toleranz und dem gelieferten Maß. Diese vertikale Integration ist das Fundament des Vertrauens, das unsere weltweiten Kunden in uns setzen.
 
@@ -195,4 +195,4 @@ Unsere Arbeit als kundenspezifischer Carbonfaserteile-Hersteller steht in Verbin
 
 Wenn Sie für ein anstehendes Programm einen kundenspezifischen Carbonfaserteile-Hersteller auswählen, heißen wir das Gespräch willkommen. Senden Sie Ihre Zeichnungen, Zielstückzahlen und Leistungsanforderungen, und wir werden ein transparentes Angebot mit realistischem Lieferzeitplan und einem Erstmusterplan zurückgeben.
 
-Kontaktieren Sie unser Engineering-Team direkt unter **hank@techcarbonworks.com**. Sie können auch unsere Hauptseite unter [TechCarbonWorks](https://techcarbonworks.com/) oder unsere dedizierte Seite [kundenspezifischer Carbonfaserteile-Hersteller](https://techcarbonworks.com/custom-carbon-fiber-parts-manufacturer/) besuchen. Seit 2005 haben wir Teams in den USA, Europa und Australien geholfen, Carbonfaser-Konzepte in verlässliche, leichte Produktionsteile zu verwandeln — und wir freuen uns, Ihres zu bauen. Für praxisnahe Engineering-Einblicke veröffentlicht unser [Carbonfaser-Fertigungsblog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) Leitfäden zu Design, Materialien und Prozessauswahl.
+Kontaktieren Sie unser Engineering-Team direkt unter **hank@techcarbonworks.com**. Sie können auch unsere Hauptseite unter [TechCarbonWorks](https://techcarbonworks.com/) oder unsere dedizierte Seite [kundenspezifischer Carbonfaserteile-Hersteller](https://techcarbonworks.com/custom-carbon-fiber-parts-manufacturer/) besuchen. Seit 2013 haben wir Teams in den USA, Europa und Australien geholfen, Carbonfaser-Konzepte in verlässliche, leichte Produktionsteile zu verwandeln — und wir freuen uns, Ihres zu bauen. Für praxisnahe Engineering-Einblicke veröffentlicht unser [Carbonfaser-Fertigungsblog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) Leitfäden zu Design, Materialien und Prozessauswahl.

@@ -66,7 +66,7 @@ Understanding cost drivers turns carbon fiber from a mystery line item into a co
 
 ## Hidden costs: scrap, logistics, and duties
 
-The quoted unit price rarely tells the whole story. Scrap from a difficult process or fragile design quietly raises effective cost, because you pay for rejected parts too. Logistics matter for worldwide programs: carbon fiber parts are light but often bulky and fragile, so packaging and freight can surprise first-time buyers. Import duties and compliance documentation add line items that vary by destination. Our [custom carbon fiber parts manufacturer](/custom-carbon-fiber-parts-manufacturer/) team ships worldwide from Dongguan and factors these into realistic landed-cost estimates rather than factory-door prices alone.
+The quoted unit price rarely tells the whole story. Scrap from a difficult process or fragile design quietly raises effective cost, because you pay for rejected parts too. Logistics matter for worldwide programs: carbon fiber parts are light but often bulky and fragile, so packaging and freight can surprise first-time buyers. Import duties and compliance documentation add line items that vary by destination. Our [custom carbon fiber parts manufacturer](/custom-carbon-fiber-parts-manufacturer/) team ships worldwide from Huizhou and factors these into realistic landed-cost estimates rather than factory-door prices alone.
 
 ## Total cost of ownership example
 

@@ -6,7 +6,7 @@ robots:
 title: "Maßgefertigte Carbonfaser-Bauteile vom Hersteller"
 layout: "landing"
 translationKey: "home"
-description: "TechCarbonWorks ist ein seit 2005 in Dongguan, China, ansässiger Hersteller von maßgefertigten Carbonfaser-Bauteilen, der die USA, Europa und Australien mit ISO 9001-zertifizierter Prepreg-Formung und CNC-Bearbeitung beliefert."
+description: "TechCarbonWorks ist ein seit 2013 in Huizhou, China, ansässiger Hersteller von maßgefertigten Carbonfaser-Bauteilen, der die USA, Europa und Australien mit ISO 9001-zertifizierter Prepreg-Formung und CNC-Bearbeitung beliefert."
 sections:
   - hero
   - capabilities
@@ -20,7 +20,7 @@ sections:
 schema:
   faq:
     - question: "Wodurch unterscheidet sich TechCarbonWorks von anderen Carbonfaser-Lieferanten?"
-      answer: "Wir sind ein vertikal integrierter Hersteller von maßgefertigten Carbonfaser-Bauteilen mit eigener Werkzeugbau, Prepreg-Laminierungsreinraum und 5-Achs-CNC-Bearbeitungszentrum in Dongguan. Seit 2005 kontrollieren wir jeden Prozess von der Werkzeugkonstruktion bis zur Endprüfung – das schützt Lieferzeiten, Toleranzen und Rückverfolgbarkeit für Technik-Einkäufer in den USA, Europa und Australien."
+      answer: "Wir sind ein vertikal integrierter Hersteller von maßgefertigten Carbonfaser-Bauteilen mit eigener Werkzeugbau, Prepreg-Laminierungsreinraum und 5-Achs-CNC-Bearbeitungszentrum in Huizhou. Seit 2013 kontrollieren wir jeden Prozess von der Werkzeugkonstruktion bis zur Endprüfung – das schützt Lieferzeiten, Toleranzen und Rückverfolgbarkeit für Technik-Einkäufer in den USA, Europa und Australien."
     - question: "Welche Carbonfaser-Materialien führen Sie als Standard-Prepreg?"
       answer: "Unser Standardlager umfasst Toray T300, T700 und T800 als unidirektionales und gewebtes Prepreg sowie 3K-Köper- und Leinwandgewebe, geschmiedetes Carbon und Carbon-Kevlar-Hybridlagen. Alle Prepregs lagern bei -18 °C und sind chargenverfolgt, sodass Entwicklungsteams exakte Faser, Flächengewicht und Harzsystem vorgeben können."
     - question: "Welche Toleranz hält die CNC-Bearbeitung an gehärteten Carbonteilen?"
@@ -35,11 +35,11 @@ schema:
 
 ## Über TechCarbonWorks
 
-TechCarbonWorks ist ein **Hersteller von maßgefertigten Carbonfaser-Bauteilen**, 2005 in Dongguan, China, gegründet, und hat in fast zwei Jahrzehnten einen der vollständigsten Composite-Fertigungsbetriebe im Perlflussdelta aufgebaut. Wir unterstützen Entwicklungsteams und Einkäufer in den USA, Europa und Australien, die leistungsstarke Carbonfaser-Komponenten zeichnungs-, toleranz- und termin gerecht benötigen. Anders als Broker, die Teile unbekannter Unterlieferanten weiterverkaufen, gehört unsere gesamte Fertigungskette uns: Werkzeugdesign, Formenbau, Prepreg-Laminierung, Autoklavenhärtung, CNC-Bearbeitung und Endprüfung unter einem Dach.
+TechCarbonWorks ist ein **Hersteller von maßgefertigten Carbonfaser-Bauteilen**, 2013 in Huizhou, China, gegründet, und hat in fast zwei Jahrzehnten einen der vollständigsten Composite-Fertigungsbetriebe im Perlflussdelta aufgebaut. Wir unterstützen Entwicklungsteams und Einkäufer in den USA, Europa und Australien, die leistungsstarke Carbonfaser-Komponenten zeichnungs-, toleranz- und termin gerecht benötigen. Anders als Broker, die Teile unbekannter Unterlieferanten weiterverkaufen, gehört unsere gesamte Fertigungskette uns: Werkzeugdesign, Formenbau, Prepreg-Laminierung, Autoklavenhärtung, CNC-Bearbeitung und Endprüfung unter einem Dach.
 
 Wenn Sie ein maßgefertigtes Carbonfaser-Bauteil spezifizieren, spezifizieren Sie eigentlich ein System aus Material, Prozess und Qualitätsdisziplin. Ein äußerlich korrektes Bauteil kann im Einsatz versagen, wenn der Faser-Volumengehalt falsch, der Härtezyklus versetzt oder die Laminierreihenfolge fehlerhaft war. Deshalb wählen unsere Kunden einen vertikal integrierten Hersteller statt mehrere Lieferanten zu koordinieren. Wir übernehmen die Verantwortung für das Ergebnis – von der ersten Lage bis zum finalen Maßbericht.
 
-Unser Werk in Dongguan wurde für die Composite-Fertigung gebaut: ein temperatur- und feuchtegeregelter Prepreg-Laminierungsreinraum, Autoklaven von kleinen Haltern bis zu großen Strukturpaneelen, ein 3- und 5-Achs-CNC-Bearbeitungszentrum sowie ein Messraum mit Koordinatenmessgeräten. Weil wir diese Ressourcen direkt kontrollieren, können wir ehrlich kalkulieren, Lieferzeiten bei Nachfragespitzen sichern und jede Materialcharge bis zum Konformitätszertifikat zurückverfolgen.
+Unser Werk in Huizhou wurde für die Composite-Fertigung gebaut: ein temperatur- und feuchtegeregelter Prepreg-Laminierungsreinraum, Autoklaven von kleinen Haltern bis zu großen Strukturpaneelen, ein 3- und 5-Achs-CNC-Bearbeitungszentrum sowie ein Messraum mit Koordinatenmessgeräten. Weil wir diese Ressourcen direkt kontrollieren, können wir ehrlich kalkulieren, Lieferzeiten bei Nachfragespitzen sichern und jede Materialcharge bis zum Konformitätszertifikat zurückverfolgen.
 
 ![Von TechCarbonWorks gefertigte maßgefertigte Carbonfaser-Bauteile](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Maßgefertigte Carbonfaser-Bauteile")
 
@@ -47,7 +47,7 @@ Unser Werk in Dongguan wurde für die Composite-Fertigung gebaut: ein temperatur
 
 Von Beginn an war unsere Philosophie, eine Erweiterung der Entwicklungsabteilung unserer Kunden zu sein. Viele Programme begannen als Skizze und wuchsen auf Jahresvolumina von Zehntausenden Teilen. Wir haben Drohnen-Zellen, Aerospace-Sekundärstrukturen, Motorsport-Aero-Komponenten, medizinische Bildgebungsgeräte und Industrieroboterarme unterstützt. Der Erfolgsfaktor war stets derselbe: ein Hersteller, der die technische Intention verstand – nicht nur die Geometrie.
 
-Wir sind stolz auf unsere globale Reichweite. Etwa die Hälfte unserer Produktion geht nach Nordamerika, mit starker Nachfrage aus Europa und einer schnell wachsenden Basis in Australien. Wir kalkulieren in mehreren Währungen, übernehmen Exportdokumentation und arbeiten mit Incoterms, die zum Kunden passen – ob EXW Dongguan, FOB Shenzhen oder DDP bis ins Lager nach Deutschland oder Illinois. Unser Team beherrscht die Dokumentations- und Qualitätserwartungen westlicher OEMs; ein sauberer Erstmusterbericht ist für uns selbstverständlich.
+Wir sind stolz auf unsere globale Reichweite. Etwa die Hälfte unserer Produktion geht nach Nordamerika, mit starker Nachfrage aus Europa und einer schnell wachsenden Basis in Australien. Wir kalkulieren in mehreren Währungen, übernehmen Exportdokumentation und arbeiten mit Incoterms, die zum Kunden passen – ob EXW Huizhou, FOB Shenzhen oder DDP bis ins Lager nach Deutschland oder Illinois. Unser Team beherrscht die Dokumentations- und Qualitätserwartungen westlicher OEMs; ein sauberer Erstmusterbericht ist für uns selbstverständlich.
 
 ## Unsere Carbonfaser-Fertigungskapazitäten
 
@@ -93,7 +93,7 @@ Die Werkzeugqualität bestimmt die Bauteilqualität. Wir fräsen Formen aus Alum
 
 ![Carbonfaser-Fertigungshalle von TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Carbonfaser-Fertigungshalle")
 
-*Unsere Fertigungshalle in Dongguan integriert Formenbau, Prepreg-Laminierung, Autoklavenhärtung und CNC-Bearbeitung unter einem Dach.*
+*Unsere Fertigungshalle in Huizhou integriert Formenbau, Prepreg-Laminierung, Autoklavenhärtung und CNC-Bearbeitung unter einem Dach.*
 
 ## Materialauswahl
 
@@ -218,7 +218,7 @@ Auch auf die Chemikalien in unserem Prozess achten wir. Vakuumbeutelfolien, Tren
 
 Präzisions-Composite-Teile zu exportieren ist eine eigene Disziplin. Gehärtete Carbonfaser ist leicht, aber an Kanten spröde, und eine schlecht verpackte Lieferung kann Wochen sorgfältiger Fertigung zunichtemachen. Wir konstruieren die Verpackung je Bauteilgeometrie: maßgeschneiderte Schaumstoffkavitäten, starre Wellpappe oder Sperrholzkisten, Kantenschutz und Trockenmittel für feuchteempfindliche Ziele. Bei großen oder hochwertigen Aufträgen nutzen wir wiederverwendbare Transportrahmen, die Kunden zurückgeben können – Kosten und Abfall sinken gleichermaßen.
 
-Logistisch kalkulieren wir nach den Incoterms, die zum Programm passen, von EXW Dongguan bis DDP ins Kundenlager nach Deutschland oder Illinois. Wir bereiten Exportdokumente, Handelsrechnungen, Packlisten und Materialzertifikate vor, sodass die Zollabfertigung ohne Verzögerung läuft. Unser Team koordiniert mit Spediteuren, die mit Composite- und Aerospace-Sendungen vertraut sind, und verfolgt die Sendung bis zum Ziel. Als ein einziger verantwortlicher Hersteller gibt es kein Finger-pointing zwischen Formenbau, Härteunterlieferant und Spediteur – ein Lieferant trägt das Ergebnis von der Lage bis zum Hafen. Weitere Hintergründe zu unseren Exportpraktiken finden sich auf dem [Carbonfaser-Fertigungsblog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) auf unserer Hauptseite.
+Logistisch kalkulieren wir nach den Incoterms, die zum Programm passen, von EXW Huizhou bis DDP ins Kundenlager nach Deutschland oder Illinois. Wir bereiten Exportdokumente, Handelsrechnungen, Packlisten und Materialzertifikate vor, sodass die Zollabfertigung ohne Verzögerung läuft. Unser Team koordiniert mit Spediteuren, die mit Composite- und Aerospace-Sendungen vertraut sind, und verfolgt die Sendung bis zum Ziel. Als ein einziger verantwortlicher Hersteller gibt es kein Finger-pointing zwischen Formenbau, Härteunterlieferant und Spediteur – ein Lieferant trägt das Ergebnis von der Lage bis zum Hafen. Weitere Hintergründe zu unseren Exportpraktiken finden sich auf dem [Carbonfaser-Fertigungsblog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/) auf unserer Hauptseite.
 
 ## Vom Prototyp zur Produktion: ein Fallbeispiel
 
@@ -234,4 +234,4 @@ Spannt Ihr Programm über mehrere Prozesse, erkunden Sie unsere dedizierten Serv
 
 Wenn Sie für ein kommendes Programm einen Hersteller maßgefertigter Carbonfaser-Bauteile evaluieren, freuen wir uns über das Gespräch. Senden Sie Ihre Zeichnungen, Zielvolumina und Leistungsanforderungen, und wir senden ein transparentes Angebot mit realistischem Lieferzeitplan zurück. Unsere Ingenieure prüfen gern die fertigungsgerechte Konstruktion, bevor Sie sich auf Werkzeuge festlegen.
 
-Für eine direkte technische Diskussion kontaktieren Sie Hank unter **hank@techcarbonworks.com**. Mehr erfahren Sie auf unserer Hauptseite [TechCarbonWorks](https://techcarbonworks.com/) oder in den Prozess-Tiefenanalysen auf unserem [Carbonfaser-Fertigungsblog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/). Seit 2005 helfen wir Teams in den USA, Europa und Australien, Carbonfaser-Ideen in verlässliche, leichte Produktionsteile zu verwandeln – und wir freuen uns, Ihren nächsten Bau zu unterstützen.
+Für eine direkte technische Diskussion kontaktieren Sie Hank unter **hank@techcarbonworks.com**. Mehr erfahren Sie auf unserer Hauptseite [TechCarbonWorks](https://techcarbonworks.com/) oder in den Prozess-Tiefenanalysen auf unserem [Carbonfaser-Fertigungsblog](https://techcarbonworks.com/carbon-fiber-manufacturing-blog/). Seit 2013 helfen wir Teams in den USA, Europa und Australien, Carbonfaser-Ideen in verlässliche, leichte Produktionsteile zu verwandeln – und wir freuen uns, Ihren nächsten Bau zu unterstützen.

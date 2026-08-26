@@ -7,12 +7,13 @@
 [[locations]]
 id = "main-facility"
 schema_type = "Place"
-address_locality = "Dongguan"
+address_locality = "Huizhou"
 address_region = "Guangdong"
 address_country = "CN"
+address_street = "1st Floor, Building 1, No. 76, Jinqiu Road, Qiuchang"
 address_country_iso = "CN"
-latitude = 23.0207
-longitude = 113.7518
+latitude = 22.81
+longitude = 114.43
 timezone = "Asia/Shanghai"
 facility_type = "Carbon Fiber Composite Manufacturing Facility"
 url = "https://blog.techcarbonworks.com/"
@@ -22,28 +23,28 @@ url = "https://blog.techcarbonworks.com/"
 [en.main-facility]
 name = "TechCarbonWorks Manufacturing Facility"
 description = "Integrated carbon fiber factory with clean layup rooms, autoclave curing, 5-axis CNC machining, mold making, and CMM inspection under one roof, serving customers worldwide."
-address_display = "Dongguan, Guangdong, China"
+address_display = "1st Floor, Building 1, No. 76, Jinqiu Road, Qiuchang, Huiyang District, Huizhou City, Guangdong Province, China"
 
 # --- Localized (de) — English fallback ---
 [de.main-facility]
 name = "TechCarbonWorks Fertigungsstätte"
 description = "Integrierte Carbonfaser-Fertigung mit sauberen Laminierräumen, Autoklavenhärtung, 5-Achs-CNC-Bearbeitung, Formenbau und CMM-Prüfung unter einem Dach – für Kunden weltweit."
-address_display = "Dongguan, Guangdong, China"
+address_display = "1st Floor, Building 1, No. 76, Jinqiu Road, Qiuchang, Huiyang District, Huizhou City, Guangdong Province, China"
 
 # --- Localized (ja) — English fallback ---
 [ja.main-facility]
 name = "TechCarbonWorks 製造施設"
 description = "クリーンな積層ルーム、オートクレーブ硬化、5軸CNC加工、金型製造、およびCMM検査を一貫して擁する統合炭素繊維工場で、世界のお客様にご利用いただいています。"
-address_display = "Dongguan, Guangdong, China"
+address_display = "1st Floor, Building 1, No. 76, Jinqiu Road, Qiuchang, Huiyang District, Huizhou City, Guangdong Province, China"
 
 # --- Localized (fr) — English fallback ---
 [fr.main-facility]
 name = "Site de fabrication TechCarbonWorks"
 description = "Usine intégrée de fibre de carbone réunissant sous un même toit des salles de drapage propres, la cuisson en autoclave, l'usinage CNC 5 axes, la fabrication de moules et le contrôle CMM, au service de clients dans le monde entier."
-address_display = "Dongguan, Guangdong, China"
+address_display = "1st Floor, Building 1, No. 76, Jinqiu Road, Qiuchang, Huiyang District, Huizhou City, Guangdong Province, China"
 
 # --- Localized (es) — English fallback ---
 [es.main-facility]
 name = "Instalación de fabricación de TechCarbonWorks"
 description = "Fábrica integrada de fibra de carbono con salas de laminado limpias, curado en autoclave, mecanizado CNC de 5 ejes, fabricación de moldes e inspección CMM bajo un mismo techo, para clientes de todo el mundo."
-address_display = "Dongguan, Guangdong, China"
+address_display = "1st Floor, Building 1, No. 76, Jinqiu Road, Qiuchang, Huiyang District, Huizhou City, Guangdong Province, China"
