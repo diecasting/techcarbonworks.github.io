@@ -6,6 +6,7 @@ robots:
 title: "Fabricant de pièces personnalisées en fibre de carbone"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
+hero_image: "/images/custom-carbon-fiber-parts.webp"
 description: "TechCarbonWorks est un fabricant de pièces personnalisées en fibre de carbone à Huizhou depuis 2013, produisant des pièces en préimprégné et usinées CNC pour les États-Unis, l'Europe et l'Australie avec la qualité ISO 9001 et une traçabilité complète."
 sections:
   - hero

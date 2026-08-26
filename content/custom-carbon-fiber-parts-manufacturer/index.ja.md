@@ -6,6 +6,7 @@ robots:
 title: "カスタムカーボンファイバー部品メーカー"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
+hero_image: "/images/custom-carbon-fiber-parts.webp"
 description: "TechCarbonWorksは2013年以来、恵州に拠点を置くカスタムカーボンファイバー部品メーカーとして、米国・欧州・オーストラリア向けにプリプレグおよびCNC加工部品をISO 9001品質と完全なトレーサビリティで製造しています。"
 sections:
   - hero

@@ -1,0 +1,36 @@
+{{- /* image.html — unified responsive image partial (PHASE 4.6)
+   Renders a semantic <img> with performance + accessibility attributes.
+   Photos are served from static/ (NOT pipelined), so this partial emits the
+   provided src/srcset/sizes strings directly. Callers pass pre-computed
+   srcset/sizes when responsive variants exist.
+
+   Usage:
+   {{ partial "image.html" (dict
+     "src"          "/images/hero/x.webp"
+     "alt"          "descriptive alt text"
+     "width"        1920
+     "height"       1080
+     "class"        "hero-bg"
+     "loading"      "eager"      (or "lazy" for below-fold)
+     "decoding"     "async"
+     "fetchpriority" "high"      (ONLY for the LCP hero; omit otherwise)
+     "srcset"       ""           (optional: "x-1920.webp 1920w, x-1280.webp 1280w")
+     "sizes"        ""           (optional: "100vw")
+   ) }}
+*/ -}}
+{{- $src := .src -}}
+{{- if not $src }}{{ return }}{{ end -}}
+{{- $imgSrc := "" -}}
+{{- if (findRE "^https?://" $src) }}{{ $imgSrc = $src }}{{ else }}{{ $imgSrc = ($src | absURL) }}{{ end -}}
+<img
+  src="{{ $imgSrc }}"
+  {{- with .alt }} alt="{{ . }}"{{ end }}
+  {{- with .width }} width="{{ . }}"{{ end }}
+  {{- with .height }} height="{{ . }}"{{ end }}
+  {{- with .class }} class="{{ . }}"{{ end }}
+  {{- with .loading }} loading="{{ . }}"{{ end }}
+  {{- with .decoding }} decoding="{{ . }}"{{ end }}
+  {{- with .fetchpriority }} fetchpriority="{{ . }}"{{ end }}
+  {{- with .srcset }} srcset="{{ . }}"{{ end }}
+  {{- with .sizes }} sizes="{{ . }}"{{ end }}
+>

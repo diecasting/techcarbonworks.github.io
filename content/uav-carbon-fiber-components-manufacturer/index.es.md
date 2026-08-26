@@ -6,6 +6,7 @@ robots:
 title: "Fabricante de Componentes de Fibra de Carbono para UAV"
 layout: "landing"
 translationKey: "uav-carbon-fiber-components-manufacturer"
+hero_image: "/images/uav-carbon-fiber-components.webp"
 description: "TechCarbonWorks es un Fabricante de Componentes de Fibra de Carbono para UAV que construye estructuras de aeronaves, brazos, soportes de motor y placas de carga útil con laminados de carbono optimizados para el vuelo."
 sections:
   - hero

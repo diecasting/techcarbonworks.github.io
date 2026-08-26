@@ -38,6 +38,10 @@
     "@type": "Organization",
     "@id": "{{ printf "%s#organization" .Site.BaseURL | safeJS }}"
   }
+  {{- with .Params.image -}}
+  ,
+  "image": "{{ . | absURL | safeJS }}"
+  {{- end -}}
   {{- with $productEntry.material_grades -}}
   ,
   "material": [

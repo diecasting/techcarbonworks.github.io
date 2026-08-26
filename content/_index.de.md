@@ -6,6 +6,7 @@ robots:
 title: "Maßgefertigte Carbonfaser-Bauteile vom Hersteller"
 layout: "landing"
 translationKey: "home"
+hero_image: "/images/hero-carbon-fiber-manufacturing.webp"
 description: "TechCarbonWorks ist ein seit 2013 in Huizhou, China, ansässiger Hersteller von maßgefertigten Carbonfaser-Bauteilen, der die USA, Europa und Australien mit ISO 9001-zertifizierter Prepreg-Formung und CNC-Bearbeitung beliefert."
 sections:
   - hero

@@ -6,6 +6,7 @@ robots:
 title: "カーボンファイバー部品の受託製造メーカー"
 layout: "landing"
 translationKey: "home"
+hero_image: "/images/hero-carbon-fiber-manufacturing.webp"
 description: "TechCarbonWorksは、2013年に中国・恵州で設立されたカーボンファイバー部品の受託製造メーカーです。ISO 9001認証のプリプレグ成形とCNC加工により、米国・欧州・オーストラリアのお客様に製品を提供しています。"
 sections:
   - hero

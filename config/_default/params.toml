@@ -45,6 +45,19 @@ keywords = ["carbon fiber parts manufacturer", "custom carbon fiber parts", "OEM
   copyright = "TechCarbonWorks. All rights reserved."
   showLegalLinks = true
 
+# --- Image architecture defaults (PHASE 4.6) ---
+# default_hero / default_og currently point to the LEGACY WordPress photo as a
+# transitional fallback ONLY. REPLACE both with self-hosted local paths under
+# /images/... (served from blog.techcarbonworks.com) in PHASE 4.7.
+# Do NOT treat techcarbonworks.com as the final image host.
+[images]
+  default_hero = "/images/hero-carbon-fiber-manufacturing.webp"
+  default_og = "/images/og-carbon-fiber-manufacturing.webp"
+  default_og_width = 1200
+  default_og_height = 630
+  default_og_type = "image/webp"
+  default_alt = "TechCarbonWorks carbon fiber composite manufacturing facility"
+
 # --- RFQ form configuration (Formspree backend) ---
 # The RFQ shortcode ({{< rfq_form >}}) and the `rfq` landing section read
 # `.Site.Params.rfq.endpoint`. No website domain is hardcoded here — redirect

@@ -6,6 +6,7 @@ robots:
 title: "UAVカーボンファイバー部品メーカー"
 layout: "landing"
 translationKey: "uav-carbon-fiber-components-manufacturer"
+hero_image: "/images/uav-carbon-fiber-components.webp"
 description: "TechCarbonWorksはUAVカーボンファイバー部品メーカーとして、飛行最適化カーボン積層による機体構造、アーム、モーターマウント、ペイロードプレートを製造しています。"
 sections:
   - hero

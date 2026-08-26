@@ -2,6 +2,7 @@
 title: "Carbon Fiber Manufacturing Services"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
+hero_image: "/images/autoclave-carbon-fiber-manufacturing.webp"
 description: "TechCarbonWorks provides carbon fiber manufacturing services including prepreg molding, autoclave curing, CNC machining and mold making for US, Europe and Australia since 2013 with ISO 9001."
 sections:
   - hero

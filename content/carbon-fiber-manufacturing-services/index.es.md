@@ -6,6 +6,7 @@ robots:
 title: "Servicios de Fabricación de Fibra de Carbono"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
+hero_image: "/images/autoclave-carbon-fiber-manufacturing.webp"
 description: "TechCarbonWorks ofrece servicios de fabricación de fibra de carbono que incluyen moldeo por preimpregnado, curado en autoclave, mecanizado CNC y fabricación de moldes para EE. UU., Europa y Australia desde 2013, con ISO 9001."
 sections:
   - hero

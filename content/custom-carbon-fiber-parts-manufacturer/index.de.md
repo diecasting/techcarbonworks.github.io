@@ -6,6 +6,7 @@ robots:
 title: "Kundenspezifischer Carbonfaserteile-Hersteller"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
+hero_image: "/images/custom-carbon-fiber-parts.webp"
 description: "TechCarbonWorks ist ein kundenspezifischer Carbonfaserteile-Hersteller in Huizhou seit 2013, der Prepreg- und CNC-bearbeitete Teile für die USA, Europa und Australien mit ISO 9001 Qualität und vollständiger Rückverfolgbarkeit fertigt."
 sections:
   - hero

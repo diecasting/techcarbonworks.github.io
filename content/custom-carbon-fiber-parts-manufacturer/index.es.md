@@ -6,6 +6,7 @@ robots:
 title: "Fabricante de Piezas de Fibra de Carbono a Medida"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
+hero_image: "/images/custom-carbon-fiber-parts.webp"
 description: "TechCarbonWorks es un fabricante de piezas de fibra de carbono a medida en Huizhou desde 2013, que construye piezas de preimpregnado y mecanizadas con CNC para EE. UU., Europa y Australia con calidad ISO 9001 y trazabilidad completa."
 sections:
   - hero

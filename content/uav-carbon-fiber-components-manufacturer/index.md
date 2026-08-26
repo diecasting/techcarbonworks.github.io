@@ -2,6 +2,7 @@
 title: "UAV Carbon Fiber Components Manufacturer"
 layout: "landing"
 translationKey: "uav-carbon-fiber-components-manufacturer"
+hero_image: "/images/uav-carbon-fiber-components.webp"
 description: "TechCarbonWorks is a UAV Carbon Fiber Components Manufacturer building airframes, arms, motor mounts and payload plates with flight-optimized carbon layups."
 sections:
   - hero

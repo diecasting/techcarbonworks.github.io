@@ -6,6 +6,7 @@ robots:
 title: "カーボンファイバー製造サービス"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
+hero_image: "/images/autoclave-carbon-fiber-manufacturing.webp"
 description: "TechCarbonWorksは2013年以来、米国・欧州・オーストラリア向けにプリプレグ成形、オートクレーブ硬化、CNC加工、金型製作を含むカーボンファイバー製造サービスをISO 9001品質で提供しています。"
 sections:
   - hero

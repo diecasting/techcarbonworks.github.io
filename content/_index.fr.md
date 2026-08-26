@@ -6,6 +6,7 @@ robots:
 title: "Fabricant de pièces en fibre de carbone sur mesure"
 layout: "landing"
 translationKey: "home"
+hero_image: "/images/hero-carbon-fiber-manufacturing.webp"
 description: "TechCarbonWorks est un fabricant de pièces en fibre de carbone sur mesure, fondé en 2013 à Huizhou, en Chine, qui dessert les États-Unis, l'Europe et l'Australie avec un moulage de préimprégnés et un usinage CNC certifiés ISO 9001."
 sections:
   - hero

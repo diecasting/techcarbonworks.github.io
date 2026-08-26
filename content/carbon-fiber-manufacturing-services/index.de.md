@@ -6,6 +6,7 @@ robots:
 title: "Carbonfaser-Fertigungsdienstleistungen"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
+hero_image: "/images/autoclave-carbon-fiber-manufacturing.webp"
 description: "TechCarbonWorks bietet Carbonfaser-Fertigungsdienstleistungen umfassend Prepreg-Formen, Autoklaven-Aushärtung, CNC-Bearbeitung und Formenbau für die USA, Europa und Australien seit 2013 mit ISO 9001."
 sections:
   - hero

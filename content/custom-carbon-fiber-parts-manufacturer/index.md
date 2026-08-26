@@ -2,6 +2,7 @@
 title: "Custom Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
+hero_image: "/images/custom-carbon-fiber-parts.webp"
 description: "TechCarbonWorks is a custom carbon fiber parts manufacturer in Huizhou since 2013, building prepreg and CNC-machined parts for the US, Europe and Australia with ISO 9001 quality and full traceability."
 sections:
   - hero
