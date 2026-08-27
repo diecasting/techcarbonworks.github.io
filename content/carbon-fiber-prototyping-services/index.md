@@ -32,7 +32,7 @@ schema:
 
 **Carbon fiber prototyping services** let engineering and sourcing teams prove a design's form, fit, and structural behavior before committing to expensive production tooling. Because carbon fiber is a directional, layered material, a prototype that is merely "the right shape" can still fail in service if the layup, radii, and draft were wrong. Since 2013 TechCarbonWorks has helped customers in the United States, Europe, and Australia move from CAD to a credible composite prototype in as little as one to three weeks, using rapid tooling routes that keep cost low while preserving the lessons needed for production.
 
-![Custom carbon fiber prototype components produced by layup and molding](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Prototype carbon fiber components built for design validation")
+![Custom carbon fiber prototype components produced by layup and molding](/images/custom-carbon-fiber-parts.webp "Prototype carbon fiber components built for design validation")
 
 *Prototype carbon fiber components built through rapid tooling and composite layup for design validation.*
 

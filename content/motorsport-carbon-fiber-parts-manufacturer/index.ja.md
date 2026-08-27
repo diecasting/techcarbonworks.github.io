@@ -35,7 +35,7 @@ TechCarbonWorksは、米国、欧州、オーストラリアのレースチー�
 ### ウィングとエンドプレート
 ウィングは翼型コアと、翼端渦を制御するエンドプレートを組み合わせます。主翼面をねじり剛性のために積層し、エンドプレート��非常に目立つためクリーンな視覚的エッジに仕上げます。調整可能なフィッティングは、繰り返しのセットアップ変更のために金属インサートで接着されます。
 
-![モータースポーツエアロ用カスタムカーボンファイバー部品](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Motorsport Carbon Fiber Aero Components")
+![モータースポーツエアロ用カスタムカーボンファイバー部品](/images/custom-carbon-fiber-parts.webp "Motorsport Carbon Fiber Aero Components")
 
 *チーム仕様に基づいて製造されたスプリッター、ディフューザー、ウィングエレメントを含むカスタムカーボンファイバーエアロ部品。*
 
@@ -67,7 +67,7 @@ TechCarbonWorksは、米国、欧州、オーストラリアのレースチー�
 
 モータースポーツでは、スポンサーにとっても車検プレゼンテーションにとっても外観が重要です。当社はクラシックなカーボン織目を高光沢で見せるクリアコート綾織仕上げ、ステルス外観のマットまたはサテンオプション、チームカラーリング用の塗装またはラッピング面を提供します。仕上げは硬化とCNCトリミング後に適用されるため、エッジはシャープに保たれ、織目アライメントがパネル全体でクリーンに読み取れます。当社の[カーボンファイバー部品のCNC加工](/cnc-machining-carbon-fiber-parts/)により、最終仕上げに関係なく取り付け穴と輪郭が正確に切削されます。
 
-![カーボンファイバー製造工場フロア](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Motorsport Carbon Fiber Production")
+![カーボンファイバー製造工場フロア](/images/hero-carbon-fiber-manufacturing.webp "Motorsport Carbon Fiber Production")
 
 *モータースポーツエアロおよびボディ部品が積層、硬化、仕上げされる複合材生産フロア。*
 

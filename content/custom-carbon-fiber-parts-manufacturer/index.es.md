@@ -82,7 +82,7 @@ La fibra de carbono curada exige máquinas rígidas, utillaje con recubrimiento 
 
 Un buen utillaje es la condición previa para buenas piezas a medida. Mecanizamos moldes de aluminio para producción y de materiales composite o blandos para prototipos, y luego validamos cada uno con una inspección de primer artículo (FAI) antes de su liberación. El diseño del molde contempla la contracción por curado, el ángulo de salida y la línea de partición para que las piezas terminadas cumplan el plano sin retrabajo.
 
-![Componentes de dron de fibra de carbono construidos por TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-drone-components.webp.webp "Componentes de Dron de Fibra de Carbono")
+![Componentes de dron de fibra de carbono construidos por TechCarbonWorks](/images/uav-carbon-fiber-components.webp "Componentes de Dron de Fibra de Carbono")
 
 *Componentes de fibra de carbono para UAV y dron a medida donde el ahorro de peso extiende directamente el tiempo de vuelo y la carga útil.*
 

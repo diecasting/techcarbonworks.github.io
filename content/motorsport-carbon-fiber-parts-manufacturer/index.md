@@ -45,7 +45,7 @@ Rear diffusers demand internal geometry accuracy because the strakes and expansi
 ### Wings and End Plates
 Wings combine an airfoil core with end plates that control tip vortex. We laminate the main plane for torsional stiffness and finish end plates to a clean visual edge, since they are highly visible. Adjustable fittings are bonded in with metal inserts for repeated setup changes.
 
-![Custom carbon fiber components for motorsport aero](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Motorsport Carbon Fiber Aero Components")
+![Custom carbon fiber components for motorsport aero](/images/custom-carbon-fiber-parts.webp "Motorsport Carbon Fiber Aero Components")
 
 *Custom carbon fiber aero components including splitters, diffusers, and wing elements built to team specifications.*
 
@@ -77,7 +77,7 @@ The defining constraint in motorsport is time. A standard production lead time o
 
 Appearance matters in motorsport, both for sponsors and for scrutineering presentation. We offer a clear-coated woven twill finish that shows the classic carbon weave in high gloss, a matte or satin option for a stealth appearance, and painted or wrapped surfaces for team livery. Finish is applied after cure and CNC trimming so edges stay crisp and the weave alignment reads cleanly across panels. Our [CNC machining of carbon fiber parts](/cnc-machining-carbon-fiber-parts/) ensures mounting holes and contours are cut precisely regardless of the final finish.
 
-![Carbon fiber manufacturing factory floor](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Motorsport Carbon Fiber Production")
+![Carbon fiber manufacturing factory floor](/images/hero-carbon-fiber-manufacturing.webp "Motorsport Carbon Fiber Production")
 
 *Composite production floor where motorsport aero and body parts are laminated, cured, and finished.*
 

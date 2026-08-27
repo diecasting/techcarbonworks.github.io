@@ -36,7 +36,7 @@ TechCarbonWorksは、米国、欧州、オーストラリアのオートメー�
 
 ガントリーおよび直交ロボットはキャリッジを長いビームに沿って移動させるため、ビームの真直度と質量が性能を支配します。カーボンガントリービームはスチールやアルミニウムの押出材よりも劇的に軽量であるため、より小型のドライブでより高いトラバース速度を達成できます。当社は積層中に反りとねじれを管理し、硬化後に平面度を検証するため、キャリッジは全ストロークにわたって正確にトラッキングします。ロボティクスカーボンファイバー部品メーカーにとって、長尺ビームの寸法安定性は中核的な能力です。自重でたわむビームは、移動の両端で精度を損なうからです。
 
-![ロボット構造用カーボンファイバー製造工場](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Robotics Carbon Fiber Production")
+![ロボット構造用カーボンファイバー製造工場](/images/hero-carbon-fiber-manufacturing.webp "Robotics Carbon Fiber Production")
 
 *管理されたプロセスの下でロボットアームリンク、エンドエフェクターフレーム、ガントリービームを生産する複合材ワークショップ。*
 
@@ -64,7 +64,7 @@ TechCarbonWorksは、米国、欧州、オーストラリアのオートメー�
 
 精密ロボットは寸法管理によって生死が決まります。当社は硬化後にすべての重要ベアリングボア、取り付け面、穴パターンを[カーボンファイバー部品のCNC加工](/cnc-machining-carbon-fiber-parts/)セルを使用してCNC加工し、データムスキームに対して三次元測定機で検証します。長尺ビームは反り、ねじれ、平面度がチェックされ、ガントリーが正確にトラッキングするようにします。積層ブックと工具を生産リリース時にロックするため、定期バッチは元の初物エンベロープ内に留まります。これは、機械ビルダーが当社のリンクを校正済みのキネマティックチェーンに組み付ける際に重要です。
 
-![ロボット用途向けカスタムカーボンファイバー部品](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Robotic Carbon Fiber Components")
+![ロボット用途向けカスタムカーボンファイバー部品](/images/custom-carbon-fiber-parts.webp "Robotic Carbon Fiber Components")
 
 *検査と全世界への出荷のために準備された完成したロボットリンクとエンドエフェクターフレーム。*
 

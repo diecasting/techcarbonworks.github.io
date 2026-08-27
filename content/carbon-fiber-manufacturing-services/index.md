@@ -77,7 +77,7 @@ Cured carbon fiber is hard, abrasive and prone to delamination if mishandled, so
 
 Tooling quality sets the ceiling on part quality. We machine molds from aluminum for production and from composite or soft materials for prototypes, then validate each mold with a first-article before release. Good mold design accounts for cure shrinkage, draft and parting line, so finished components meet print without rework.
 
-![Carbon fiber autoclave curing process](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Carbon Fiber Autoclave Curing Process")
+![Carbon fiber autoclave curing process](/images/autoclave-carbon-fiber-manufacturing.webp "Carbon Fiber Autoclave Curing Process")
 
 *Autoclave curing consolidates prepreg laminates under heat and pressure to achieve low void content and high mechanical properties.*
 

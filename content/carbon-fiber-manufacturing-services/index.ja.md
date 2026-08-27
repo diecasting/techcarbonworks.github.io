@@ -67,7 +67,7 @@ TechCarbonWorksは2013年に中国・恵州で創業し、統合型の**カー�
 
 工具の品質が部品の品質の上限を決めます。当社は量産用にアルミニウム、試作用に複合材料またはソフト材から金型を機械加工し、リリース前に初物で各金型を検証します。優れた金型設計は硬化収縮、抜き勾配、パーティングラインを考慮するため、完成部品は手直しなしで図面を満たします。
 
-![炭素繊維オートクレーブ硬化プロセス](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Carbon Fiber Autoclave Curing Process")
+![炭素繊維オートクレーブ硬化プロセス](/images/autoclave-carbon-fiber-manufacturing.webp "Carbon Fiber Autoclave Curing Process")
 
 *オートクレーブ硬化はプリプレグ積層材を熱と圧力で圧密化し、低ボイド率と高い機械的特性を達成します。*
 

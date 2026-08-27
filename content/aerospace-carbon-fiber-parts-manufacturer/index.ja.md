@@ -46,7 +46,7 @@ TechCarbonWorksは、米国、欧州、オーストラリアのお客様向け�
 
 航空宇宙形状は、ずさんな公差をめったに許しません。合わせ面、ファスナーパターン、空力輪郭は図面限界内に収まらなければ、部品が組み付かないか気流を乱します。当社は三次元測定機で重要形状を検証し、指定されたデータム基準フレームに紐付けた寸法報告書を提供します。複合輪郭については、専用治具とレーザースキャニングを使用して、実測面をCADモデルと照合します。初物測定は生産リリースに先立って行われるため、工具修正は生産ユニットが1つもリスクにさらされる前に行われます。当社の[カーボンファイバー部品のCNC加工](/cnc-machining-carbon-fiber-parts/)セルは、航空宇宙アセンブリが必要とする精密トリミングとインサート取り付けを処理します。
 
-![航空宇宙カーボンファイバー部品のオートクレーブ硬化プロセス](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Aerospace Autoclave Curing Process")
+![航空宇宙カーボンファイバー部品のオートクレーブ硬化プロセス](/images/autoclave-carbon-fiber-manufacturing.webp "Aerospace Autoclave Curing Process")
 
 *制御された温度・圧力サイクル下での航空宇宙グレードカーボンファイバー積層材のオートクレーブ硬化。*
 

@@ -51,7 +51,7 @@ La plaque centrale de fuselage ou la coque monocoque porte les charges combinée
 ### Bras et booms
 Les bras tubulaires et profilés transmettent la poussée des moteurs à la cellule tout en agissant comme les principaux conducteurs vibratoires. Nos bras sont généralement enroulés ou moulés sous compression avec un angle de fibre ajusté (souvent des séquences 45/90/0) qui résiste à la fois à la flexion et à la torsion. Pour les booms VTOL et à voilure fixe, des élancements plus longs exigent une analyse aéroélastique soignée pour éviter le flutter.
 
-![Composants de drone en fibre de carbone en cours de drapage pour cellules UAV](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-drone-components.webp.webp "Composants de drone en fibre de carbone pour UAV")
+![Composants de drone en fibre de carbone en cours de drapage pour cellules UAV](/images/uav-carbon-fiber-components.webp "Composants de drone en fibre de carbone pour UAV")
 
 *Drapage et découpe de bras de drone, supports moteurs et plaques de charge utile en fibre de carbone dans notre atelier composite.*
 
@@ -90,7 +90,7 @@ La fibre de carbone conduit l'électricité, ce qui signifie qu'une peau en carb
 
 Un seul prototype est facile ; mille unités interchangeables est le vrai test. Nous verrouillons les dossiers de stratifié, l'outillage et les paramètres de polymérisation à la libération de production afin que chaque pièce corresponde au premier article. L'inspection de premier article (FAI) plus des contrôles périodiques par machine à mesurer tridimensionnelle (CMM) détectent la dérive avant qu'elle n'atteigne votre ligne. Quand un opérateur de flotte remplace un bras endommagé sur le terrain, ce remplacement doit être dimensionnellement identique à l'original — c'est le standard que nous tenons en tant que votre fabricant de composants en fibre de carbone pour UAV.
 
-![Composants personnalisés en fibre de carbone prêts pour inspection](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Composants UAV personnalisés en fibre de carbone")
+![Composants personnalisés en fibre de carbone prêts pour inspection](/images/custom-carbon-fiber-parts.webp "Composants UAV personnalisés en fibre de carbone")
 
 *Composants UAV personnalisés en fibre de carbone finis, en attente d'inspection dimensionnelle et visuelle avant expédition mondiale.*
 

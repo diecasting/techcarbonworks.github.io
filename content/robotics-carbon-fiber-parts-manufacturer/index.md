@@ -46,7 +46,7 @@ Grippers, vacuum plates, and vision mounts benefit from a rigid yet light frame 
 
 Gantry and Cartesian robots move a carriage along a long beam, so beam straightness and mass dominate performance. A carbon gantry beam is dramatically lighter than steel or aluminum extrusions, which lets smaller drives achieve higher traverse speeds. We control bow and twist during layup and verify flatness after cure so the carriage tracks true across the full stroke. For a Robotics Carbon Fiber Parts Manufacturer, long-beam dimensional stability is a core competency, because a beam that droops under its own weight ruins accuracy at the extremes of travel.
 
-![Carbon fiber manufacturing factory for robotic structures](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Robotics Carbon Fiber Production")
+![Carbon fiber manufacturing factory for robotic structures](/images/hero-carbon-fiber-manufacturing.webp "Robotics Carbon Fiber Production")
 
 *Composite workshop producing robot arm links, end-effector frames, and gantry beams under controlled process.*
 
@@ -74,7 +74,7 @@ A carbon structure must connect to motors, bearings, gears, and sensors, all of 
 
 Precision robots live or die by dimensional control. We CNC-machine all critical bearing bores, mounting faces, and hole patterns after cure using our [CNC machining of carbon fiber parts](/cnc-machining-carbon-fiber-parts/) cell, then verify them on a coordinate measuring machine against the datum scheme. Long beams are checked for bow, twist, and flatness so a gantry tracks true. We lock laminate books and tooling at production release so a recurring batch stays within the original first-article envelope, which matters when a machine builder is fitting our links into a calibrated kinematic chain.
 
-![Custom carbon fiber components for robotic applications](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Robotic Carbon Fiber Components")
+![Custom carbon fiber components for robotic applications](/images/custom-carbon-fiber-parts.webp "Robotic Carbon Fiber Components")
 
 *Finished robot links and end-effector frames prepared for inspection and worldwide shipment.*
 

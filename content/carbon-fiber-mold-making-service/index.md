@@ -32,7 +32,7 @@ schema:
 
 A **carbon fiber mold making service** is the foundation of every repeatable composite part, because the mold dictates the surface, the dimensional envelope, and the rate at which you can produce. A poorly made tool leaks vacuum, transfers orange-peel texture, or warps the part under cure heat, and those defects multiply across every unit it makes. Since 2013 TechCarbonWorks has built composite, aluminum, and steel tooling for customers in the United States, Europe, and Australia, combining CNC plug machining, surface engineering, and vacuum testing so the mold you receive is production-ready on day one.
 
-![Autoclave curing of carbon fiber parts in precision composite tooling](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Autoclave cure of carbon fiber parts in composite molds")
+![Autoclave curing of carbon fiber parts in precision composite tooling](/images/autoclave-carbon-fiber-manufacturing.webp "Autoclave cure of carbon fiber parts in composite molds")
 
 *Autoclave curing of carbon fiber components inside precision composite tooling built by our mold shop.*
 

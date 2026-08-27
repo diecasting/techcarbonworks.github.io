@@ -50,7 +50,7 @@ Los difusores traseros exigen precisión de geometría interna porque las estrí
 ### Alas y Placas Finales
 Las alas combinan un núcleo de perfil con placas finales que controlan el vórtice de punta. Laminamos el plano principal para rigidez torsional y terminamos las placas finales con un borde visual limpio, ya que son muy visibles. Los accesorios ajustables se encolan con insertos metálicos para cambios de configuración repetidos.
 
-![Componentes aerodinámicos de fibra de carbono a medida para automovilismo](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Componentes Aerodinámicos de Fibra de Carbono para Automovilismo")
+![Componentes aerodinámicos de fibra de carbono a medida para automovilismo](/images/custom-carbon-fiber-parts.webp "Componentes Aerodinámicos de Fibra de Carbono para Automovilismo")
 
 *Componentes aerodinámicos de fibra de carbono a medida, incluidos splitters, difusores y elementos de ala construidos según las especificaciones del equipo.*
 
@@ -82,7 +82,7 @@ La restricción definitoria en automovilismo es el tiempo. Un plazo de producci�
 
 La apariencia importa en automovilismo, tanto para patrocinadores como para la presentación de verificación técnica. Ofrecemos un acabado de sarga tejida con barniz transparente que muestra el clásico tejido de carbono en alto brillo, una opción mate o satinado para un aspecto discreto, y superficies pintadas o envueltas para la librea del equipo. El acabado se aplica tras el curado y el recorte CNC para que los bordes permanezcan nítidos y la alineación del tejido se lea con limpieza a través de los paneles. Nuestro [mecanizado CNC de piezas de fibra de carbono](/cnc-machining-carbon-fiber-parts/) asegura que los taladros de montaje y contornos se corten con precisión independientemente del acabado final.
 
-![Planta de fabricación de fibra de carbono](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Producción de Fibra de Carbono para Automovilismo")
+![Planta de fabricación de fibra de carbono](/images/hero-carbon-fiber-manufacturing.webp "Producción de Fibra de Carbono para Automovilismo")
 
 *Planta de producción composite donde se laminan, curan y terminan las piezas aerodinámicas y de carrocería de automovilismo.*
 

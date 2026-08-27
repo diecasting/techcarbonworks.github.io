@@ -82,7 +82,7 @@ La fibra de carbono curada es dura, abrasiva y propensa a la delaminación si se
 
 La calidad del utillaje marca el techo de la calidad de la pieza. Mecanizamos moldes de aluminio para producción y de materiales composite o blandos para prototipos, y luego validamos cada molde con una inspección de primer artículo (FAI) antes de su liberación. Un buen diseño de molde contempla la contracción por curado, el ángulo de salida y la línea de partición, de modo que los componentes terminados cumplan el plano sin retrabajo.
 
-![Proceso de curado en autoclave de fibra de carbono](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Proceso de Curado en Autoclave de Fibra de Carbono")
+![Proceso de curado en autoclave de fibra de carbono](/images/autoclave-carbon-fiber-manufacturing.webp "Proceso de Curado en Autoclave de Fibra de Carbono")
 
 *El curado en autoclave consolida los laminados de preimpregnado bajo calor y presión para lograr un bajo contenido de poros y altas propiedades mecánicas.*
 

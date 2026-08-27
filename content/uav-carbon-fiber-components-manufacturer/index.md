@@ -47,7 +47,7 @@ The central fuselage plate or monocoque shell carries the highest combined loads
 ### Arms and Booms
 Tubular and profiled arms translate motor thrust into the airframe while acting as the primary vibrational conductors. Our arms are typically roll-wrapped or compression-molded with a tuned fiber angle (often 45/90/0 schedules) that resists both bending and torsion. For VTOL and fixed-wing booms, longer aspect ratios demand careful aeroelastic analysis to avoid flutter.
 
-![Carbon fiber drone components being laid up for UAV airframes](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-drone-components.webp.webp "UAV Carbon Fiber Drone Components")
+![Carbon fiber drone components being laid up for UAV airframes](/images/uav-carbon-fiber-components.webp "UAV Carbon Fiber Drone Components")
 
 *Layup and trimming of carbon fiber drone arms, motor mounts, and payload plates in our composite workshop.*
 
@@ -86,7 +86,7 @@ Carbon fiber conducts electricity, which means a continuous carbon skin can shad
 
 A single prototype is easy; a thousand interchangeable units is the real test. We lock laminate books, tooling, and cure parameters at production release so every part matches the first article. First-article inspection (FAI) plus periodic coordinate measuring machine (CMM) checks catch drift before it reaches your line. When a fleet operator swaps a damaged arm in the field, that replacement must be dimensionally identical to the original — that is the standard we hold as your UAV Carbon Fiber Components Manufacturer.
 
-![Custom carbon fiber components ready for inspection](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Custom Carbon Fiber UAV Components")
+![Custom carbon fiber components ready for inspection](/images/custom-carbon-fiber-parts.webp "Custom Carbon Fiber UAV Components")
 
 *Finished custom carbon fiber UAV components awaiting dimensional and visual inspection prior to worldwide shipping.*
 

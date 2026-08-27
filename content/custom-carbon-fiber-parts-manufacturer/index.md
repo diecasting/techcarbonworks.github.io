@@ -77,7 +77,7 @@ Cured carbon fiber demands rigid machines, diamond-coated tooling and dust extra
 
 Good tooling is the precondition for good custom parts. We machine molds from aluminum for production and composite or soft materials for prototypes, then validate each with a first-article before release. Mold design accounts for cure shrinkage, draft and parting line so finished parts meet print without rework.
 
-![Carbon fiber drone components built by TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-drone-components.webp.webp "Carbon Fiber Drone Components")
+![Carbon fiber drone components built by TechCarbonWorks](/images/uav-carbon-fiber-components.webp "Carbon Fiber Drone Components")
 
 *Custom carbon fiber UAV and drone components where weight savings directly extend flight time and payload.*
 

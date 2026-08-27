@@ -82,7 +82,7 @@ Ausgehärtete Carbonfaser ist hart, abrasiv und neigt bei unsachgemäßer Handha
 
 Die Werkzeugqualität setzt die Obergrenze für die Teilequalität. Wir fertigen Formen aus Aluminium für die Produktion und aus Composite- oder Weichmaterialien für Prototypen und validieren jede Form mit einer Erstmusterprüfung (FAI) vor der Freigabe. Guter Formenbau berücksichtigt Aushärte-Schwindung, Entformungsschräge und Trennfuge, sodass fertige Bauteile ohne Nacharbeit den Zeichnungsanforderungen entsprechen.
 
-![Carbonfaser-Autoklaven-Aushärteprozess](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Carbonfaser-Autoklaven-Aushärteprozess")
+![Carbonfaser-Autoklaven-Aushärteprozess](/images/autoclave-carbon-fiber-manufacturing.webp "Carbonfaser-Autoklaven-Aushärteprozess")
 
 *Die Autoklaven-Aushärtung konsolidiert Prepreg-Laminate unter Wärme und Druck, um geringen Porengehalt und hohe mechanische Eigenschaften zu erreichen.*
 

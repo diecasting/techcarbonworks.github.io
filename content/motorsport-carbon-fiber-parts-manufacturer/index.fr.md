@@ -49,7 +49,7 @@ Les diffuseurs arrière exigent une précision de géométrie interne car les st
 ### Ailes et flancs
 Les ailes combinent une âme de profil avec des flancs qui contrôlent le vortex de bout. Nous stratifions le plan principal pour la rigidité en torsion et finissons les flancs avec un bord visuel net, car ils sont très visibles. Les raccords réglables sont collés avec des inserts métalliques pour des changements de réglage répétés.
 
-![Composants aéro en fibre de carbone personnalisés pour sport automobile](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Composants aéro en fibre de carbone pour sport automobile")
+![Composants aéro en fibre de carbone personnalisés pour sport automobile](/images/custom-carbon-fiber-parts.webp "Composants aéro en fibre de carbone pour sport automobile")
 
 *Composants aéro en fibre de carbone personnalisés incluant splitter, diffuseurs et éléments d'aile construits aux spécifications des écuries.*
 
@@ -81,7 +81,7 @@ La contrainte définissante en sport automobile est le temps. Un délai de produ
 
 L'aspect compte en sport automobile, tant pour les sponsors que pour la présentation au scrutige. Nous offrons une finition tissé sergé vernis transparent qui montre le tissu carbone classique en haute brillance, une option mate ou satin pour un aspect furtif, et des surfaces peintes ou wrappées pour la livrée d'équipe. La finition est appliquée après polymérisation et découpe CNC pour que les bords restent nets et que l'alignement du tissu se lise proprement d'un panneau à l'autre. Notre [usinage CNC de pièces en fibre de carbone](/cnc-machining-carbon-fiber-parts/) garantit que les trous de montage et les contours sont découpés avec précision quelle que soit la finition finale.
 
-![Atelier de fabrication en fibre de carbone](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Production de fibre de carbone pour sport automobile")
+![Atelier de fabrication en fibre de carbone](/images/hero-carbon-fiber-manufacturing.webp "Production de fibre de carbone pour sport automobile")
 
 *Atelier de production composite où les pièces aéro et de carrosserie de sport automobile sont stratifiées, polymérisées et finies.*
 

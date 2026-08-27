@@ -81,7 +81,7 @@ La fibre de carbone polymérisée est dure, abrasive et sujette au délaminage s
 
 La qualité de l'outillage plafonne la qualité de la pièce. Nous usinons des moules en aluminium pour la production et en matériaux composite ou souples pour les prototypes, puis validons chaque moule avec un premier article avant mise en service. Une bonne conception de moule tient compte du retrait de polymérisation, de la dépouille et du plan de joint, afin que les composants finis respectent le plan sans reprise.
 
-![Procédé de polymérisation en autoclave de la fibre de carbone](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Procédé de polymérisation en autoclave de la fibre de carbone")
+![Procédé de polymérisation en autoclave de la fibre de carbone](/images/autoclave-carbon-fiber-manufacturing.webp "Procédé de polymérisation en autoclave de la fibre de carbone")
 
 *La polymérisation en autoclave consolide les stratifiés préimprégnés sous chaleur et pression pour obtenir un faible taux de porosité et des propriétés mécaniques élevées.*
 

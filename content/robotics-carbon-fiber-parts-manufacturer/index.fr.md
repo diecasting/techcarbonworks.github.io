@@ -50,7 +50,7 @@ Les pinces, les plaques à vide et les supports de vision bénéficient d'un cad
 
 Les robots portique et cartésiens déplacent un chariot le long d'une longue poutre, donc la rectitude et la masse de la poutre dominent la performance. Une poutre de portique en carbone est dramatiquement plus légère que les profilés en acier ou aluminium, ce qui permet à des moteurs plus petits d'atteindre des vitesses de déplacement plus élevées. Nous maîtrisons la flèche et la torsion pendant le drapage et vérifions la planéité après polymérisation pour que le chariot suive vrai sur toute la course. Pour un fabricant de pièces en fibre de carbone pour robotique, la stabilité dimensionnelle des poutres longues est une compétence de base, car une poutre qui s'affaisse sous son propre poids ruine la précision aux extrémités de course.
 
-![Atelier de fabrication en fibre de carbone pour structures robotiques](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Production de fibre de carbone pour robotique")
+![Atelier de fabrication en fibre de carbone pour structures robotiques](/images/hero-carbon-fiber-manufacturing.webp "Production de fibre de carbone pour robotique")
 
 *Atelier composite produisant des liens de bras robotisé, des cadres d'effecteur et des poutres de portique sous procédé contrôlé.*
 
@@ -78,7 +78,7 @@ Une structure carbone doit se connecter aux moteurs, roulements, engrenages et c
 
 Les robots de précision vivent ou meurent par le contrôle dimensionnel. Nous usinons par CNC tous les alésages de roulement critiques, les faces de montage et les motifs de trous après polymérisation via notre cellule d'[usinage CNC de pièces en fibre de carbone](/cnc-machining-carbon-fiber-parts/), puis les vérifions sur une machine à mesurer tridimensionnelle par rapport au schéma de référence (datum). Les poutres longues sont vérifiées pour la flèche, la torsion et la planéité pour qu'un portique suive vrai. Nous verrouillons les dossiers de stratifié et l'outillage à la libération de production pour qu'un lot récurrent reste dans l'enveloppe du premier article, ce qui compte quand un constructeur de machines intègre nos liens dans une chaîne cinématique calibrée.
 
-![Composants personnalisés en fibre de carbone pour applications robotiques](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Composants en fibre de carbone pour robotique")
+![Composants personnalisés en fibre de carbone pour applications robotiques](/images/custom-carbon-fiber-parts.webp "Composants en fibre de carbone pour robotique")
 
 *Liens de robot et cadres d'effecteur finis, préparés pour inspection et expédition mondiale.*
 

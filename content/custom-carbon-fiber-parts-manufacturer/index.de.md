@@ -82,7 +82,7 @@ Ausgehärtete Carbonfaser verlangt starre Maschinen, diamantbeschichtete Werkzeu
 
 Gutes Werkzeug ist die Vorbedingung für gute kundenspezifische Teile. Wir fertigen Formen aus Aluminium für die Produktion und aus Composite- oder Weichmaterialien für Prototypen und validieren jede mit einem Erstmuster (FAI) vor der Freigabe. Der Formenbau berücksichtigt Aushärte-Schwindung, Entformungsschräge und Trennfuge, sodass fertige Teile ohne Nacharbeit den Zeichnungsanforderungen entsprechen.
 
-![Von TechCarbonWorks gefertigte Carbonfaser-Drohnenkomponenten](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-drone-components.webp.webp "Carbonfaser-Drohnenkomponenten")
+![Von TechCarbonWorks gefertigte Carbonfaser-Drohnenkomponenten](/images/uav-carbon-fiber-components.webp "Carbonfaser-Drohnenkomponenten")
 
 *Kundenspezifische Carbonfaser-UAV- und Drohnenkomponenten, bei denen Gewichtsersparnis die Flugzeit und Nutzlast direkt verlängert.*
 

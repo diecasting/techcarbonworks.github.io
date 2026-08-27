@@ -67,7 +67,7 @@ TechCarbonWorksは2013年に中国・恵州で創業した**カスタムカー�
 
 優れた工具は優れたカスタム部品の前提条件です。当社は量産用にアルミニウム��試作用に複合材料または��フト材から金型を機械加工し、リリース前に初物で各金型を検証します。金型設計は硬化収縮、抜き勾配、パーティングラインを考慮するため、完成部品は手直しなしで図面を満たします。
 
-![TechCarbonWorksが製造するカーボンファイバードローン部品](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-drone-components.webp.webp "Carbon Fiber Drone Components")
+![TechCarbonWorksが製造するカーボンファイバードローン部品](/images/uav-carbon-fiber-components.webp "Carbon Fiber Drone Components")
 
 *軽量化が飛行時間とペイロードを直接延長するカスタムカーボンファイバーUAVおよびドローン部品。*
 

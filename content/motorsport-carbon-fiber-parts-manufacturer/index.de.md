@@ -50,7 +50,7 @@ Heckdiffusoren verlangen interne Geometriegenauigkeit, weil die Strakes und der 
 ### Flügel und Endplatten
 Flügel kombinieren einen Tragflächenkern mit Endplatten, die Wirbel an der Spitze kontrollieren. Wir laminieren die Hauptebene für Torsionssteifigkeit und veredeln Endplatten zu einer sauberen Sichtkante, da sie hochsichtbar sind. Verstellbare Beschläge werden mit Metall-Einlagen für wiederholte Setup-Änderungen eingeklebt.
 
-![Kundenspezifische Carbonfaser-Komponenten für Motorsport-Aero](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Motorsport Carbonfaser-Aero-Komponenten")
+![Kundenspezifische Carbonfaser-Komponenten für Motorsport-Aero](/images/custom-carbon-fiber-parts.webp "Motorsport Carbonfaser-Aero-Komponenten")
 
 *Kundenspezifische Carbonfaser-Aero-Komponenten einschließlich Splitter, Diffusoren und Flügelelementen, gebaut nach Team-Spezifikationen.*
 
@@ -82,7 +82,7 @@ Die bestimmende Einschränkung im Motorsport ist Zeit. Eine Standardproduktionsl
 
 Erscheinungsbild zählt im Motorsport, sowohl für Sponsoren als auch für die Abnahmepräsentation. Wir bieten ein klarlackiertes gewebtes Köper-Finish, das das klassische Carbongewebe in Hochglanz zeigt, eine Matte- oder Satin-Option für Stealth-Aussehen und lackierte oder folierte Oberflächen für Team-Lackierung. Finish wird nach Aushärtung und CNC-Besäumen aufgetragen, sodass Kanten crisp bleiben und die Gewebeausrichtung über Paneele sauber liest. Unsere [CNC-Bearbeitung von Carbonfaserteilen](/cnc-machining-carbon-fiber-parts/) stellt sicher, dass Montagelöcher und Konturen präzise geschnitten werden, unabhängig vom finalen Finish.
 
-![Carbonfaser-Fertigungswerkstatt](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Motorsport Carbonfaser-Produktion")
+![Carbonfaser-Fertigungswerkstatt](/images/hero-carbon-fiber-manufacturing.webp "Motorsport Carbonfaser-Produktion")
 
 *Composite-Produktionsboden, wo Motorsport-Aero und Karosserieteile laminiert, ausgehärtet und veredelt werden.*
 

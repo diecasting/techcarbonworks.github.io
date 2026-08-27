@@ -61,7 +61,7 @@ El daño por objeto extraño (FOD) es un riesgo persistente en los talleres comp
 
 Las geometrías aeroespaciales rara vez perdonan tolerancias descuidadas. Las caras de acoplamiento, los patrones de fijación y los contornos aerodinámicos deben caer dentro de los límites del dibujo o la pieza no se ensamblará o perturbará el flujo de aire. Verificamos las características críticas con máquinas de medición por coordenadas y suministramos informes dimensionales vinculados al marco de referencia de datum nominado. Para contornos compuestos usamos fixtures dedicados y escaneo láser para confirmar la superficie construida frente al modelo CAD. La medición de primer artículo precede a cualquier liberación de producción, para que las correcciones de utillaje ocurran antes de que una sola unidad de producción esté en riesgo. Nuestra celda de [mecanizado CNC de piezas de fibra de carbono](/cnc-machining-carbon-fiber-parts/) maneja el recorte de precisión y la instalación de insertos que requieren los ensamblajes aeroespaciales.
 
-![Proceso de curado en autoclave para piezas de fibra de carbono aeroespaciales](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Proceso de Curado en Autoclave Aeroespacial")
+![Proceso de curado en autoclave para piezas de fibra de carbono aeroespaciales](/images/autoclave-carbon-fiber-manufacturing.webp "Proceso de Curado en Autoclave Aeroespacial")
 
 *Curado en autoclave de laminados de fibra de carbono de grado aeroespacial bajo ciclos controlados de temperatura y presión.*
 

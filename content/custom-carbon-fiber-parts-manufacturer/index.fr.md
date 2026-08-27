@@ -81,7 +81,7 @@ La fibre de carbone polymérisée exige des machines rigides, un outillage diama
 
 Un bon outillage est la condition préalable à de bonnes pièces personnalisées. Nous usinons des moules en aluminium pour la production et en matériaux composite ou souples pour les prototypes, puis validons chaque moule avec un premier article avant mise en service. La conception du moule tient compte du retrait de polymérisation, de la dépouille et du plan de joint afin que les pièces finies respectent le plan sans reprise.
 
-![Composants de drone en fibre de carbone fabriqués par TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-drone-components.webp.webp "Composants de drone en fibre de carbone")
+![Composants de drone en fibre de carbone fabriqués par TechCarbonWorks](/images/uav-carbon-fiber-components.webp "Composants de drone en fibre de carbone")
 
 *Composants UAV (drones) personnalisés en fibre de carbone où les économies de poids prolongent directement le temps de vol et la charge utile.*
 

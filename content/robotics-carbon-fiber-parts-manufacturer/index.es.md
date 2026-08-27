@@ -51,7 +51,7 @@ Las pinzas, placas de vacío y monturas de visión se benefician de un bastidor 
 
 Los robots de pórtico y Cartesianos mueven un carro a lo largo de una viga larga, por lo que la rectitud de la viga y la masa dominan el rendimiento. Una viga de pórtico de carbono es dramáticamente más ligera que las extrusiones de acero o aluminio, lo que permite a accionamientos más pequeños alcanzar velocidades de avance más altas. Controlamos la flecha y la torsión durante la colocación y verificamos la planitud tras el curado para que el carro siga fiel a lo largo de todo el recorrido. Para un Fabricante de Piezas de Fibra de Carbono para Robótica, la estabilidad dimensional de vigas largas es una competencia central, porque una viga que se comba bajo su propio peso arruina la precisión en los extremos del recorrido.
 
-![Planta de fabricación de fibra de carbono para estructuras robóticas](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Producción de Fibra de Carbono para Robótica")
+![Planta de fabricación de fibra de carbono para estructuras robóticas](/images/hero-carbon-fiber-manufacturing.webp "Producción de Fibra de Carbono para Robótica")
 
 *Taller composite que produce eslabones de brazo robótico, bastidores de efector final y vigas de pórtico bajo proceso controlado.*
 
@@ -79,7 +79,7 @@ Una estructura de carbono debe conectarse a motores, rodamientos, engranajes y s
 
 Los robots de precisión viven o mueren por el control dimensional. Mecanizamos con CNC todos los taladros de rodamiento críticos, caras de montaje y patrones de taladro tras el curado usando nuestra celda de [mecanizado CNC de piezas de fibra de carbono](/cnc-machining-carbon-fiber-parts/), y luego los verificamos en una máquina de medición por coordenadas contra el esquema de datum. Las vigas largas se comprueban por flecha, torsión y planitud para que un pórtico siga fiel. Bloqueamos los libros de laminado y el utillaje en la liberación de producción para que un lote recurrente permanezca dentro del sobre de primer artículo original, lo que importa cuando un fabricante de máquinas ajusta nuestros eslabones en una cadena cinemática calibrada.
 
-![Componentes de fibra de carbono a medida para aplicaciones robóticas](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Componentes de Fibra de Carbono para Robótica")
+![Componentes de fibra de carbono a medida para aplicaciones robóticas](/images/custom-carbon-fiber-parts.webp "Componentes de Fibra de Carbono para Robótica")
 
 *Eslabones robóticos y bastidores de efector final terminados preparados para inspección y envío mundial.*
 

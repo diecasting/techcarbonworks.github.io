@@ -51,7 +51,7 @@ Greifer, Vakuumplatten und Vision-Montagen profitieren von einem steifen, aber l
 
 Gantry- und kartesische Roboter bewegen einen Schlitten entlang eines langen Balkens, sodass Balkengerade und Masse die Leistung dominieren. Ein Carbon-Gantry-Balken ist dramatisch leichter als Stahl- oder Aluminiumprofile, was kleinere Antriebe höhere Verfahrgeschwindigkeiten erreichen lässt. Wir kontrollieren Durchbiegung und Verdrehung während der Laminierung und verifizieren Ebenheit nach Aushärtung, sodass der Schlitten über den vollen Hub wahr bleibt. Für einen Robotik Carbonfaserteile-Hersteller ist die dimensionsale Stabilität langer Balken eine Kernkompetenz, weil ein Balken, der unter seiner eigenen Masse durchhängt, die Genauigkeit an den Extremen des Verfahrbereichs ruiniert.
 
-![Carbonfaser-Fertigungswerkstatt für Robotikstrukturen](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Robotik Carbonfaser-Produktion")
+![Carbonfaser-Fertigungswerkstatt für Robotikstrukturen](/images/hero-carbon-fiber-manufacturing.webp "Robotik Carbonfaser-Produktion")
 
 *Composite-Werkstatt, die Roboterarm-Glieder, Endeffektorrahmen und Gantry-Balken unter kontrolliertem Prozess fertigt.*
 
@@ -79,7 +79,7 @@ Eine Carbon-Struktur muss an Motoren, Lager, Getriebe und Sensoren anschließen,
 
 Präzisionsroboter leben und sterben mit dimensionsaler Kontrolle. Wir CNC-bearbeiten alle kritischen Lagerbohrungen, Montageflächen und Bohrungsbilder nach Aushärtung mit unserer [CNC-Bearbeitung von Carbonfaserteilen](/cnc-machining-carbon-fiber-parts/)-Zelle und verifizieren sie dann auf einem Koordinatenmessgerät gegen das Bezugsschema. Lange Balken werden auf Durchbiegung, Verdrehung und Ebenheit geprüft, sodass ein Gantry wahr bleibt. Wir fixieren Laminatbücher und Werkzeuge bei Produktionsfreigabe, sodass eine wiederkehrende Charge innerhalb der ursprünglichen Erstmuster-Hülle bleibt, was zählt, wenn ein Maschinenbauer unsere Glieder in eine kalibrierte kinematische Kette passt.
 
-![Kundenspezifische Carbonfaser-Komponenten für Robotikanwendungen](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Robotik Carbonfaser-Komponenten")
+![Kundenspezifische Carbonfaser-Komponenten für Robotikanwendungen](/images/custom-carbon-fiber-parts.webp "Robotik Carbonfaser-Komponenten")
 
 *Fertige Roboterarm-Glieder und Endeffektorrahmen zur Prüfung und weltweitem Versand vorbereitet.*
 
