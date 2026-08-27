@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://blog.techcarbonworks.com/sitemap.xml
+Sitemap: https://techcarbonworks.com/sitemap.xml

@@ -5,7 +5,7 @@
 # Single-language (English) B2B carbon fiber manufacturing site.
 # ==========================================================================
 
-baseURL = "https://blog.techcarbonworks.com/"
+baseURL = "https://techcarbonworks.com/"
 locale = "en-US"
 title = "TechCarbonWorks"
 defaultContentLanguage = "en"
