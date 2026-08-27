@@ -10,7 +10,7 @@ layout: "single"
 
 What drives the cost of custom carbon fiber parts is a question every procurement and engineering team asks before committing to a program. Carbon fiber components are not priced like off-the-shelf metal stock; their cost is a stack of interdependent factors from tooling amortization to inspection level. At TechCarbonWorks we quote hundreds of carbon fiber programs a year for clients in aerospace, robotics, motorsport, and UAV, and the same levers appear in nearly every budget. This buyer's guide breaks those levers down and gives practical cost-reduction tactics.
 
-![Carbon fiber manufacturing factory where custom parts are produced](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Factory context for custom carbon fiber part production")
+![Carbon fiber manufacturing factory where custom parts are produced](/images/hero-carbon-fiber-manufacturing.webp "Factory context for custom carbon fiber part production")
 
 *Production environment and process choice are two of the largest cost levers in any carbon fiber program.*
 

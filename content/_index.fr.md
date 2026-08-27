@@ -42,7 +42,7 @@ Lorsque vous spécifiez une pièce en fibre de carbone sur mesure, vous spécifi
 
 Notre site de Huizhou a été conçu pour la production composite. Il inclut une salle propre de drapage de préimprégnés à température et humidité contrôlées, une flotte d'autoclaves dimensionnés pour les petits supports comme les grands panneaux structurels, un centre d'usinage CNC 3 et 5 axes dédié à la coupe et au perçage des laminés durcis, et une salle de métrologie avec machines à mesurer par coordonnées. Parce que nous contrôlons ces ressources directement, nous pouvons chiffrer honnêtement, protéger les délais en période de pointe et tracer chaque lot de matière jusqu'à son certificat de conformité.
 
-![Composants en fibre de carbone sur mesure produits par TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Composants en fibre de carbone sur mesure")
+![Composants en fibre de carbone sur mesure produits par TechCarbonWorks](/images/custom-carbon-fiber-parts.webp "Composants en fibre de carbone sur mesure")
 
 *Composants en fibre de carbone allant des supports et boîtiers aux panneaux structurels, tous fabriqués selon le plan client.*
 
@@ -92,7 +92,7 @@ Le carbone durci est abrasif et exige des machines rigides, bien amorties, avec 
 
 La qualité de l'outillage définit la qualité de la pièce. Nous usinons les moules en aluminium pour la production et en composite ou matériau souple pour les prototypes, et nous validons chaque moule par un premier article avant libération. Un bon design de moule prend en compte le retrait de cure, la dépouille et la ligne de joint, afin que les pièces finies respectent le plan sans retouche.
 
-![Atelier de fabrication de fibre de carbone TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Atelier de fabrication de fibre de carbone")
+![Atelier de fabrication de fibre de carbone TechCarbonWorks](/images/hero-carbon-fiber-manufacturing.webp "Atelier de fabrication de fibre de carbone")
 
 *Notre atelier de Huizhou intègre fabrication de moules, drapage de préimprégnés, cuisson en autoclave et usinage CNC sous un même toit.*
 
@@ -150,7 +150,7 @@ Nous avons affiné notre exploitation autour de ce qui compte pour les acheteurs
 
 Notre équipe collabore avec les ingénieurs clients sur la conception pour la fabricabilité (DFM), proposant des changements qui réduisent coût ou risque sans compromettre la fonction. Nous prototypons vite, validons soigneusement et montons en production avec une rampe contrôlée. C'est ainsi qu'une relation débutant par un seul support peut devenir un partenariat d'approvisionnement pluriannuel.
 
-![Usinage CNC de composants en fibre de carbone](https://techcarbonworks.com/wp-content/uploads/2026/07/cnc-machining-carbon-fiber-components.webp.webp "Usinage CNC de composants en fibre de carbone")
+![Usinage CNC de composants en fibre de carbone](/images/cnc-carbon-fiber-machining.webp "Usinage CNC de composants en fibre de carbone")
 
 *Usinage CNC 5 axes de composants en fibre de carbone durcie à tolérances serrées avec outils diamantés.*
 
@@ -172,7 +172,7 @@ La première phase démarre dans notre chambre froide à -18 °C. Chaque lot de 
 
 La deuxième phase couvre la construction elle-même. Nos lamineurs dégazent chaque laminé et enregistrent la séquence de plis réelle contre le plan approuvé. Les cuissons autoclave et four sont journalisées avec courbes temps-température-pression, afin que l'historique thermique de chaque lot soit archivé pour traçabilité. Les audits en cours confirment l'intégrité du sac, les niveaux de vide et l'état de l'outillage. Pour les assemblages collés, nous documentons la préparation de surface, le lot d'adhésif et la pression de fixation afin que la jointure soit reproducible lot après lot.
 
-![Procédé de cuisson en autoclave de fibre de carbone chez TechCarbonWorks](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-autoclave-curing-process.webp.webp "Procédé de cuisson en autoclave de fibre de carbone")
+![Procédé de cuisson en autoclave de fibre de carbone chez TechCarbonWorks](/images/autoclave-carbon-fiber-manufacturing.webp "Procédé de cuisson en autoclave de fibre de carbone")
 
 *La cuisson en autoclave sous vide et pression élevée consolide le laminé et ramène la porosité sous 1 % pour les pièces de grade structurel.*
 

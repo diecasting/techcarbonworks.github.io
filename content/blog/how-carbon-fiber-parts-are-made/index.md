@@ -10,7 +10,7 @@ layout: "single"
 
 Understanding how carbon fiber parts are made helps B2B buyers set realistic lead times, budgets, and quality expectations. The journey from a rolled sheet of prepreg to a finished, inspected component is a tightly controlled sequence of material handling, hand craftsmanship, and precision machining. At TechCarbonWorks our Huizhou facility runs this workflow daily for aerospace, robotics, motorsport, and UAV clients. This article follows a part through every stage so you can spec, source, and plan with confidence.
 
-![Technicians laying up carbon fiber components in the factory](https://techcarbonworks.com/wp-content/uploads/2026/07/carbon-fiber-manufacturing-factory.webp.webp "Layup and kitting in a controlled composite workshop")
+![Technicians laying up carbon fiber components in the factory](/images/hero-carbon-fiber-manufacturing.webp "Layup and kitting in a controlled composite workshop")
 
 *Controlled environment layup is the foundation of a consistent, low-void laminate.*
 
@@ -34,7 +34,7 @@ After layup, the part is sealed under a vacuum bag with release films, breather 
 
 The bagged mold goes into an autoclave where heat and pressure are applied on a programmed cycle. A typical cure ramps to roughly one hundred twenty to one hundred eighty degrees Celsius under several bar of pressure, holds, then cools under control. Pressure consolidates the laminate and drives voids to the surface; heat completes the resin cross-link. The exact cycle depends on the prepreg system and part thickness, because thick parts need slower ramps to avoid internal thermal gradients. Our [autoclave curing overview](https://techcarbonworks.com/) on the main site shows typical equipment setups.
 
-![CNC trimming of cured carbon fiber components](https://techcarbonworks.com/wp-content/uploads/2026/07/cnc-machining-carbon-fiber-components.webp.webp "Precision CNC trimming after cure")
+![CNC trimming of cured carbon fiber components](/images/cnc-carbon-fiber-machining.webp "Precision CNC trimming after cure")
 
 *Cured laminates are trimmed and drilled on CNC machines to hold tight dimensional tolerances.*
 

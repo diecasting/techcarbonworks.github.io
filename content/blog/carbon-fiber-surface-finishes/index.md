@@ -10,7 +10,7 @@ layout: "single"
 
 Carbon fiber surface finishes determine not only how a part looks but also how long it survives in the field. For B2B buyers, the finish is a specification, not an afterthought: it affects UV stability, abrasion resistance, brand presentation, and cost. At TechCarbonWorks we offer a full range from raw clear-coated woven twill to fully painted automotive-grade surfaces. This guide covers the main finish families, the defect classes buyers should specify, and how to choose the right one for your application.
 
-![Finished custom carbon fiber components showing woven surface](https://techcarbonworks.com/wp-content/uploads/2026/07/custom-carbon-fiber-components.webp.webp "Clear-coated carbon fiber components with visible weave")
+![Finished custom carbon fiber components showing woven surface](/images/custom-carbon-fiber-parts.webp "Clear-coated carbon fiber components with visible weave")
 
 *The visible weave under a clear coat is the signature look many brands want to project.*
 
