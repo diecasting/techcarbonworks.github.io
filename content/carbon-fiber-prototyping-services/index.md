@@ -2,6 +2,8 @@
 title: "Carbon Fiber Prototyping Services"
 layout: "landing"
 translationKey: "carbon-fiber-prototyping-services"
+aliases:
+  - /small-batch-carbon-fiber-prototyping-services-expert-guide/
 description: "Carbon fiber prototyping services with rapid tooling, wet layup and prepreg routes, DFM feedback, and 1-3 week lead times bridging prototype to production."
 sections:
   - hero

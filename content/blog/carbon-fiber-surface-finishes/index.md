@@ -28,7 +28,7 @@ Satin sits between gloss and matte, offering a soft sheen that reads as premium 
 
 ## Painted finishes
 
-Full paint coverage hides the weave entirely and lets a part match a brand color or a surrounding metal body. Painting requires a proper primer and flexible topcoat system compatible with the composite substrate to avoid cracking under thermal movement. Painted carbon fiber is common in automotive body panels and aerospace interior parts where color consistency across materials is required. Our [custom carbon fiber parts manufacturer](/custom-carbon-fiber-parts-manufacturer/) service includes color-matched painting to client standards.
+Full paint coverage hides the weave entirely and lets a part match a brand color or a surrounding metal body. Painting requires a proper primer and flexible topcoat system compatible with the composite substrate to avoid cracking under thermal movement. Painted carbon fiber is common in automotive body panels and aerospace interior parts where color consistency across materials is required. Our [custom carbon fiber parts manufacturer](/custom-carbon-fiber-parts-manufacturer/) service includes color-matched painting to client standards. For a complete finishing and coating program — clear coat, matte, satin, or painted — our [carbon fiber surface finishing and coating services](/carbon-fiber-surface-finishing-coating-service/) turn these finish specifications into production-ready components.
 
 ## UV protection
 

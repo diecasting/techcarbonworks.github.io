@@ -284,3 +284,31 @@ description = "Bras, liaisons, châssis et composants d'effecteur en fibre de ca
 [es.robotics-carbon-fiber-parts-manufacturer]
 name = "Fabricante de piezas de fibra de carbono para robótica"
 description = "Brazos, eslabones, estructuras y componentes de efector final de fibra de carbono de precisión que reducen la masa en movimiento y aumentan la rigidez para sistemas robóticos más rápidos y precisos."
+
+# --- New service (PHASE 6B): Surface Finishing & Coating ---
+
+[[services]]
+id = "carbon-fiber-surface-finishing-coating-service"
+schema_type = "Service"
+url_path = "/carbon-fiber-surface-finishing-coating-service/"
+sort_order = 10
+
+[en.carbon-fiber-surface-finishing-coating-service]
+name = "Carbon Fiber Surface Finishing & Coating Services"
+description = "Carbon fiber surface finishing and coating services for custom parts, prototypes, and production components, including clear coat, matte, satin, painted, and UV-stable protective finishes."
+
+[de.carbon-fiber-surface-finishing-coating-service]
+name = "Carbonfaser-Oberflächenveredelung und Beschichtungsservice"
+description = "Carbonfaser-Oberflächenveredelung und Beschichtungsservice für kundenspezifische Bauteile, Prototypen und Serienteile – einschließlich Klarlack, Matt, Satin, Lackierung und UV-stabiler Schutzbeschichtungen."
+
+[ja.carbon-fiber-surface-finishing-coating-service]
+name = "カーボンファイバー表面仕上げ・コーティングサービス"
+description = "カスタム部品、試作、量産部品向けのカーボンファイバー表面仕上げ・コーティングサービス。クリアコート、マット、サテン、塗装、UV安定保護コーティングを含みます。"
+
+[fr.carbon-fiber-surface-finishing-coating-service]
+name = "Service de finition de surface et de revêtement en fibre de carbone"
+description = "Services de finition de surface et de revêtement en fibre de carbone pour pièces sur mesure, prototypes et composants de série, incluant vernis, mat, satin, peinture et revêtements de protection stables aux UV."
+
+[es.carbon-fiber-surface-finishing-coating-service]
+name = "Servicio de acabado y recubrimiento de superficies de fibra de carbono"
+description = "Servicios de acabado y recubrimiento de superficies de fibra de carbono para piezas personalizadas, prototipos y componentes de producción, incluyendo barniz, mate, satinado, pintura y recubrimientos protectores estables a los UV."
