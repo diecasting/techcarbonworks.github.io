@@ -312,3 +312,31 @@ description = "Services de finition de surface et de revêtement en fibre de car
 [es.carbon-fiber-surface-finishing-coating-service]
 name = "Servicio de acabado y recubrimiento de superficies de fibra de carbono"
 description = "Servicios de acabado y recubrimiento de superficies de fibra de carbono para piezas personalizadas, prototipos y componentes de producción, incluyendo barniz, mate, satinado, pintura y recubrimientos protectores estables a los UV."
+
+# --- New service (PHASE 6D-B): Carbon Fiber Shapes ---
+
+[[services]]
+id = "carbon-fiber-shapes"
+schema_type = "Service"
+url_path = "/carbon-fiber-shapes/"
+sort_order = 11
+
+[en.carbon-fiber-shapes]
+name = "Carbon Fiber Shapes"
+description = "Custom carbon fiber shapes and profiles — tubes, sheets, plates and bespoke sections — manufactured to drawing with molding, CNC machining, autoclave cure and full inspection."
+
+[de.carbon-fiber-shapes]
+name = "Carbonfaser-Formen"
+description = "Kundenspezifische Carbonfaser-Formen und -Profile — Rohre, Platten, Bleche und maßgeschneiderte Querschnitte — nach Zeichnung gefertigt mit Umformen, CNC-Besäumen, Autoklavenhärtung und vollständiger Prüfung."
+
+[ja.carbon-fiber-shapes]
+name = "カーボンファイバー形状"
+description = "図面に基づくカスタムカーボンファイバー形状・プロファイル（チューブ、プレート、板材、特殊断面）を、成形・CNC加工・オートクレーブ硬化・完全検査で製造します。"
+
+[fr.carbon-fiber-shapes]
+name = "Formes en fibre de carbone"
+description = "Formes et profils en fibre de carbone sur mesure — tubes, plaques, tôles et sections spécifiques — fabriqués selon le plan par moulage, usinage CNC, cuisson en autoclave et inspection complète."
+
+[es.carbon-fiber-shapes]
+name = "Formas de fibra de carbono"
+description = "Formas y perfiles de fibra de carbono a medida — tubos, placas, chapas y secciones específicas — fabricados según plano con moldeo, mecanizado CNC, curado en autoclave e inspección completa."

@@ -44,10 +44,10 @@ Our custom carbon fiber parts manufacturer model is built around a clear, repeat
 - **Lamination** — prepreg and hand layup following your specified ply schedule and orientation.
 - **Curing** — vacuum bag oven curing or autoclave curing depending on performance class.
 - **Machining** — 3-axis and 5-axis trimming, drilling and pocketing of cured laminates.
-- **Finishing** — bonding, inserts, painting, clear coat, printing and sub-assembly.
+- **Finishing** — bonding, inserts, painting, clear coat, printing and sub-assembly, detailed on our [carbon fiber surface finishing and coating services](/carbon-fiber-surface-finishing-coating-service/) page.
 - **Inspection** — incoming, in-process and final CMM verification with reporting.
 
-This workflow lets us accept a program at any maturity level, from a released production drawing to a concept that still needs design for manufacturability input.
+This workflow lets us accept a program at any maturity level, from a released production drawing to a concept that still needs design for manufacturability input. Because many custom parts are themselves shaped components — tubes, plates, brackets and bespoke profiles — our [carbon fiber shapes](/carbon-fiber-shapes/) hub explains how these forms are specified from drawing to finished part.
 
 ## Manufacturing Processes for Custom Parts
 

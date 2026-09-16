@@ -76,7 +76,7 @@ Diamond and PCD tooling holds an edge far longer than carbide, but it is not inf
 
 ### Post-Machining Finishing
 
-After the cut, parts may receive light deburring, edge sealing as described above, and where required a surface prep such as light abrasion or peel-ply exposure for secondary bonding. Holes that will carry inserts are often chamfered and cleaned of fugitive dust so the bonded insert achieves full shear transfer. We treat finishing as part of the machining operation, not a separate afterthought, so the component ships ready for assembly.
+After the cut, parts may receive light deburring, edge sealing as described above, and where required a surface prep such as light abrasion or peel-ply exposure for secondary bonding. Holes that will carry inserts are often chamfered and cleaned of fugitive dust so the bonded insert achieves full shear transfer. When a part also needs a painted, clear-coated, or UV-stable finish, that is handled by our [carbon fiber surface finishing and coating services](/carbon-fiber-surface-finishing-coating-service/). We treat finishing as part of the machining operation, not a separate afterthought, so the component ships ready for assembly.
 
 ## Machining Sheets, Tubes, and Molded Parts
 
@@ -86,7 +86,7 @@ After the cut, parts may receive light deburring, edge sealing as described abov
 - **Tubes:** Pultruded and filament-wound tubes are mounted on a rotary fourth axis and cut, chamfered, slotted, or drilled without crushing the wall. We use soft jaws and internal mandrels to prevent ovalization.
 - **Molded near-net blanks:** Contoured shells and brackets are rough-trimmed near net, then finish-machined on 5-axis centers to final contour and hole pattern, removing the flash and draft that molding leaves behind.
 
-Understanding which substrate you are starting from determines tool path, support strategy, and inspection plan.
+Understanding which substrate you are starting from determines tool path, support strategy, and inspection plan. Because tubes, sheets, and plates are such common starting shapes, our [carbon fiber shapes](/carbon-fiber-shapes/) hub explains how each form is specified and produced from drawing to finished part.
 
 ## Dust Extraction and Operator Safety
 

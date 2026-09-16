@@ -44,7 +44,7 @@ Our carbon fiber manufacturing services are organized into clearly defined stage
 - **Laminating** — prepreg and hand layup of Toray T300, T700, T800, twill, plain, forged and hybrid materials.
 - **Curing** — vacuum bag oven cure and autoclave cure with documented, logged cycles.
 - **Machining** — 3-axis and 5-axis trimming, drilling and pocketing of cured laminates.
-- **Finishing and assembly** — bonding, inserts, painting, clear coat, printing and sub-assembly.
+- **Finishing and assembly** — bonding, inserts, painting, clear coat, printing and sub-assembly, detailed on our [carbon fiber surface finishing and coating services](/carbon-fiber-surface-finishing-coating-service/) page.
 - **Inspection** — incoming, in-process and final CMM verification with full reporting.
 
 This staged structure lets us scale a program smoothly from a single prototype to recurring production batches while preserving the process discipline that high-performance composites demand.
@@ -207,7 +207,7 @@ Throughout the ramp we communicate cure cycles, material lots and measurement tr
 
 ## Related Pages
 
-Our carbon fiber manufacturing services connect closely with our other capabilities. Review the [custom carbon fiber parts manufacturer](/custom-carbon-fiber-parts-manufacturer/) page for build-to-print production, or the dedicated [CNC machining of carbon fiber parts](/cnc-machining-carbon-fiber-parts/) and [carbon fiber prototyping services](/carbon-fiber-prototyping-services/) pages. Tooling is covered by our [carbon fiber mold making service](/carbon-fiber-mold-making-service/), and industry-specific programs are detailed for [UAV](/uav-carbon-fiber-components-manufacturer/), [aerospace](/aerospace-carbon-fiber-parts-manufacturer/), [motorsport](/motorsport-carbon-fiber-parts-manufacturer/) and [robotics](/robotics-carbon-fiber-parts-manufacturer/) customers.
+Our carbon fiber manufacturing services connect closely with our other capabilities. Review the [custom carbon fiber parts manufacturer](/custom-carbon-fiber-parts-manufacturer/) page for build-to-print production, or the dedicated [CNC machining of carbon fiber parts](/cnc-machining-carbon-fiber-parts/) and [carbon fiber prototyping services](/carbon-fiber-prototyping-services/) pages. For shaped components such as tubes, sheets and custom profiles, see our [carbon fiber shapes](/carbon-fiber-shapes/) hub. Tooling is covered by our [carbon fiber mold making service](/carbon-fiber-mold-making-service/), and industry-specific programs are detailed for [UAV](/uav-carbon-fiber-components-manufacturer/), [aerospace](/aerospace-carbon-fiber-parts-manufacturer/), [motorsport](/motorsport-carbon-fiber-parts-manufacturer/) and [robotics](/robotics-carbon-fiber-parts-manufacturer/) customers.
 
 ## Start a Conversation
 

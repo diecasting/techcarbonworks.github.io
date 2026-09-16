@@ -47,7 +47,7 @@ A metal or 3D-printed mock-up will not tell you how a carbon part behaves. Carbo
 The speed and cost of a prototype are mostly set by the tooling choice. We offer three primary rapid tooling routes.
 
 - **Machined tooling board:** A high-density syntactic board is CNC-cut to the negative shape. It is cheap, fast (often one day of machining), and ideal for a single wet-layup or vacuum-bag part. Tooling board suffers at high cure temperatures, so it suits room-temperature and moderate-heat prototypes.
-- **3D-printed molds:** Resin or filament printed molds handle complex curvature and organic shapes that would be slow to machine. They are best for low-temperature cure and very low volumes, and they let us test geometry in days.
+- **3D-printed molds:** Resin or filament printed molds handle complex curvature and organic shapes that would be slow to machine. They are best for low-temperature cure and very low volumes, and they let us test geometry in days. Organic and contoured shapes like these are also described in our [carbon fiber shapes](/carbon-fiber-shapes/) hub for production-scale specification.
 - **Composite molds:** A fiberglass or carbon toolface backed with a stiff core, often made from a machined master. Composite molds survive prepreg and autoclave cycles and deliver class-A surface, making them the natural bridge to production.
 
 | Tooling Route | Lead Time | Temp Limit | Surface | Best Use |
