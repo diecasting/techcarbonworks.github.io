@@ -2,6 +2,8 @@
 title: "Carbon Fiber Mold Making Service"
 layout: "landing"
 translationKey: "carbon-fiber-mold-making-service"
+hero_image: "/images/carbon-fiber-mold-tooling-multi-cavity.webp"
+image_alt: "Multi-cavity aluminium moulds machined in-house for carbon fiber tube production"
 description: "Carbon fiber mold making service with CNC plug machining, composite, aluminum and steel molds, class-A polish, and vacuum integrity testing. ISO 9001 since 2013."
 sections:
   - hero
@@ -32,7 +34,7 @@ schema:
 
 A **carbon fiber mold making service** is the foundation of every repeatable composite part, because the mold dictates the surface, the dimensional envelope, and the rate at which you can produce. A poorly made tool leaks vacuum, transfers orange-peel texture, or warps the part under cure heat, and those defects multiply across every unit it makes. Since 2013 TechCarbonWorks has built composite, aluminum, and steel tooling for customers in the United States, Europe, and Australia, combining CNC plug machining, surface engineering, and vacuum testing so the mold you receive is production-ready on day one.
 
-![Autoclave curing of carbon fiber parts in precision composite tooling](/images/autoclave-carbon-fiber-manufacturing.webp "Autoclave cure of carbon fiber parts in composite molds")
+![CNC machining of a mold plug for carbon fiber tooling](/images/cnc-carbon-fiber-cutting-machine.webp "CNC Plug Machining for Carbon Fiber Molds")
 
 *Autoclave curing of carbon fiber components inside precision composite tooling built by our mold shop.*
 

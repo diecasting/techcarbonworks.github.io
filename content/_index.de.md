@@ -42,7 +42,7 @@ Wenn Sie ein maßgefertigtes Carbonfaser-Bauteil spezifizieren, spezifizieren Si
 
 Unser Werk in Huizhou wurde für die Composite-Fertigung gebaut: ein temperatur- und feuchtegeregelter Prepreg-Laminierungsreinraum, Autoklaven von kleinen Haltern bis zu großen Strukturpaneelen, ein 3- und 5-Achs-CNC-Bearbeitungszentrum sowie ein Messraum mit Koordinatenmessgeräten. Weil wir diese Ressourcen direkt kontrollieren, können wir ehrlich kalkulieren, Lieferzeiten bei Nachfragespitzen sichern und jede Materialcharge bis zum Konformitätszertifikat zurückverfolgen.
 
-![Von TechCarbonWorks gefertigte maßgefertigte Carbonfaser-Bauteile](/images/custom-carbon-fiber-parts.webp "Maßgefertigte Carbonfaser-Bauteile")
+![Maßgefertigter Carbonfaser-Kanal mit gebondeten Aluminium-Flanschen](/images/custom-carbon-fiber-duct-metal-flanges.webp "Maßgefertigter Carbonfaser-Kanal")
 
 *Maßgefertigte Carbonfaser-Bauteile – von Haltern und Gehäusen bis zu Strukturpaneelen, alle nach Kundzeichnung gefertigt.*
 
@@ -150,7 +150,7 @@ Wir haben unseren Betrieb um das herum entwickelt, was technische Käufer wirkli
 
 Unser Team arbeitet mit Kundeningenieuren an der fertigungsgerechten Konstruktion (DFM) und schlägt Änderungen vor, die Kosten oder Risiken senken, ohne die Funktion zu kompromittieren. Wir prototypisieren schnell, validieren gründlich und skalieren in die Produktion mit kontrolliertem Anlauf. So kann eine Beziehung, die mit einem einzigen Halter beginnt, zu einer mehrjährigen Lieferpartnerschaft wachsen.
 
-![CNC-Bearbeitung von Carbonfaser-Bauteilen](/images/cnc-carbon-fiber-machining.webp "CNC-Bearbeitung von Carbonfaser-Bauteilen")
+![CNC-Flachbett-Schneidemaschine beim Zuschnitt von Carbonfaser-Prepreg](/images/cnc-carbon-fiber-cutting-machine.webp "CNC-Zuschnitt von Carbonfaser-Prepreg")
 
 *5-Achs-CNC-Bearbeitung gehärteter Carbonfaser-Bauteile in engen Toleranzen mit diamantbeschichteten Werkzeugen.*
 
@@ -172,7 +172,7 @@ Die erste Phase beginnt in unserem -18 °C kalten Lager. Jede Prepreg-Charge wir
 
 Die zweite Phase deckt den Bau selbst ab. Unsere Laminierer entgasen jedes Laminat und protokollieren die tatsächliche Lagenfolge gegen den genehmigten Plan. Autoklaven- und Ofenhärtungen werden mit Zeit-, Temperatur- und Druckkurven protokolliert, sodass die genaue Wärmehistorie jeder Charge für die Rückverfolgbarkeit archiviert wird. In-Process-Audits bestätigen Beutelintegrität, Vakuumpegel und Werkzeugzustand. Bei Klebeverbünden dokumentieren wir die Klebflächenvorbereitung, Klebstoffcharge und Vorrichtungsdruck, sodass die Fuge lot-übergreifend reproduzierbar ist.
 
-![Carbonfaser-Autoklavenhärtungsprozess bei TechCarbonWorks](/images/autoclave-carbon-fiber-manufacturing.webp "Carbonfaser-Autoklavenhärtungsprozess")
+![Industrieller Autoklav zur Aushärtung von Carbonfaser-Prepreg-Laminaten](/images/carbon-fiber-autoclave-curing-equipment.webp "Carbonfaser-Autoklavenhärtung")
 
 *Autoklavenhärtung unter Vakuum und erhöhtem Druck verdichtet das Laminat und drückt den Porenanteil für Strukturgrade unter ein Prozent.*
 

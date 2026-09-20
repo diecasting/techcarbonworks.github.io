@@ -60,7 +60,7 @@ Les dommages par corps étrangers (FOD) sont un risque persistant dans les ateli
 
 Les géométries aérospatiales pardonnent rarement les tolérances approximatives. Les faces d'appui, les motifs de fixation et les contours aérodynamiques doivent atterrir dans les limites du plan, sinon la pièce ne s'assemblera pas ou perturbera l'écoulement d'air. Nous vérifions les caractéristiques critiques avec des machines à mesurer tridimensionnelles et fournissons des rapports dimensionnels liés au système de référence (datum) nominé. Pour les contours composés, nous utilisons des montage dédiés et la numérisation laser pour confirmer la surface telle que construite par rapport au modèle CAO. La mesure de premier article précède toute libération de production, afin que les corrections d'outillage se fassent avant qu'une seule unité de production ne soit à risque. Notre cellule d'[usinage CNC de pièces en fibre de carbone](/cnc-machining-carbon-fiber-parts/) gère la découpe de précision et l'installation d'inserts qu'exigent les assemblages aérospatiaux.
 
-![Procédé de polymérisation en autoclave pour pièces aérospatiales en fibre de carbone](/images/autoclave-carbon-fiber-manufacturing.webp "Procédé de polymérisation en autoclave aérospatial")
+![Procédé de polymérisation en autoclave pour pièces aérospatiales en fibre de carbone](/images/carbon-fiber-autoclave-curing-equipment.webp "Procédé de polymérisation en autoclave aérospatial")
 
 *Polymérisation en autoclave de stratifiés de fibre de carbone de grade aérospatial sous cycles de température et de pression contrôlés.*
 

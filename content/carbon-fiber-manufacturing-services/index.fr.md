@@ -6,7 +6,8 @@ robots:
 title: "Services de fabrication en fibre de carbone"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
-hero_image: "/images/autoclave-carbon-fiber-manufacturing.webp"
+hero_image: "/images/carbon-fiber-autoclave-curing-equipment.webp"
+image_alt: "Autoclave industriel utilisé pour la cuisson des stratifiés préimprégnés en fibre de carbone"
 description: "TechCarbonWorks propose des services de fabrication en fibre de carbone incluant le moulage par préimprégné, la polymérisation en autoclave, l'usinage CNC et la fabrication de moules pour les États-Unis, l'Europe et l'Australie depuis 2013 avec la norme ISO 9001."
 sections:
   - hero
@@ -81,7 +82,7 @@ La fibre de carbone polymérisée est dure, abrasive et sujette au délaminage s
 
 La qualité de l'outillage plafonne la qualité de la pièce. Nous usinons des moules en aluminium pour la production et en matériaux composite ou souples pour les prototypes, puis validons chaque moule avec un premier article avant mise en service. Une bonne conception de moule tient compte du retrait de polymérisation, de la dépouille et du plan de joint, afin que les composants finis respectent le plan sans reprise.
 
-![Procédé de polymérisation en autoclave de la fibre de carbone](/images/autoclave-carbon-fiber-manufacturing.webp "Procédé de polymérisation en autoclave de la fibre de carbone")
+![Ligne de presses hydrauliques de moulage par compression pour pièces en fibre de carbone](/images/carbon-fiber-compression-molding-press-line.webp "Ligne de moulage par compression en fibre de carbone")
 
 *La polymérisation en autoclave consolide les stratifiés préimprégnés sous chaleur et pression pour obtenir un faible taux de porosité et des propriétés mécaniques élevées.*
 

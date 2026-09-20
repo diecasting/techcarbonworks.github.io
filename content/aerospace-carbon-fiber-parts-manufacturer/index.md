@@ -56,7 +56,7 @@ Foreign object damage (FOD) is a persistent risk in composite shops because trim
 
 Aerospace geometries rarely forgive sloppy tolerances. Mating faces, fastener patterns, and aerodynamic contours must land within the drawing limits or the part will not assemble or will disturb airflow. We verify critical features with coordinate measuring machines and supply dimensional reports tied to the nominated datum reference frame. For compound contours we use dedicated fixtures and laser scanning to confirm the as-built surface against the CAD model. First-article measurement precedes any production release, so tooling corrections happen before a single production unit is at risk. Our [CNC machining of carbon fiber parts](/cnc-machining-carbon-fiber-parts/) cell handles the precision trimming and insert installation that aerospace assemblies require.
 
-![Autoclave curing process for aerospace carbon fiber parts](/images/autoclave-carbon-fiber-manufacturing.webp "Aerospace Autoclave Curing Process")
+![Autoclave curing process for aerospace carbon fiber parts](/images/carbon-fiber-autoclave-curing-equipment.webp "Aerospace Autoclave Curing Process")
 
 *Autoclave curing of aerospace-grade carbon fiber laminates under controlled temperature and pressure cycles.*
 

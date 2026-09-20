@@ -61,7 +61,7 @@ Fremdkörperschaden (FOD) ist ein persistentes Risiko in Composite-Werkstätten,
 
 Luft- und Raumfahrtgeometrien verzeihen selten schlampige Toleranzen. Passflächen, Befestigungsmuster und aerodynamische Konturen müssen innerhalb der Zeichnungsgrenzen landen, oder das Teil montiert nicht oder stört den Luftstrom. Wir verifizieren kritische Merkmale mit Koordinatenmessgeräten und liefern Dimensionsberichte, die an den benannten Bezugsrahmen gebunden sind. Für zusammengesetzte Konturen verwenden wir dedizierte Vorrichtungen und Laserscanning, um die Ist-Oberfläche gegen das CAD-Modell zu bestätigen. Erstmuster-Messung geht jeder Produktionsfreigabe voraus, sodass Werkzeugkorrekturen erfolgen, bevor auch nur eine Produktionseinheit gefährdet ist. Unsere [CNC-Bearbeitung von Carbonfaserteilen](/cnc-machining-carbon-fiber-parts/)-Zelle übernimmt das Präzisionsbesäumen und die Einlageninstallation, die Luft- und Raumfahrtbaugruppen verlangen.
 
-![Autoklaven-Aushärteprozess für Luft- und Raumfahrt Carbonfaserteile](/images/autoclave-carbon-fiber-manufacturing.webp "Luft- und Raumfahrt Autoklaven-Aushärteprozess")
+![Autoklaven-Aushärteprozess für Luft- und Raumfahrt Carbonfaserteile](/images/carbon-fiber-autoclave-curing-equipment.webp "Luft- und Raumfahrt Autoklaven-Aushärteprozess")
 
 *Autoklaven-Aushärtung von luft- und raumfahrttauglichen Carbonfaserlaminaten unter kontrollierten Temperatur- und Druckzyklen.*
 

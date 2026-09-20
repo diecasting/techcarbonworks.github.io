@@ -6,7 +6,8 @@ robots:
 title: "Fabricante de Componentes de Fibra de Carbono para UAV"
 layout: "landing"
 translationKey: "uav-carbon-fiber-components-manufacturer"
-hero_image: "/images/uav-carbon-fiber-components.webp"
+hero_image: "/images/carbon-fiber-uav-tube-component.webp"
+image_alt: "Tubo de fibra de carbono con pie de montaje moldeado integrado utilizado en estructuras de brazos de UAV"
 description: "TechCarbonWorks es un Fabricante de Componentes de Fibra de Carbono para UAV que construye estructuras de aeronaves, brazos, soportes de motor y placas de carga útil con laminados de carbono optimizados para el vuelo."
 sections:
   - hero
@@ -52,7 +53,7 @@ La placa central del fuselaje o la carcasa monocasco lleva las cargas combinadas
 ### Brazos y Mástiles
 Los brazos tubulares y perfilados traducen el empuje del motor al fuselaje mientras actúan como los principales conductores de vibración. Nuestros brazos se enrollan normalmente o se moldean por compresión con un ángulo de fibra ajustado (a menudo secuencias 45/90/0) que resiste tanto la flexión como la torsión. Para mástiles de VTOL y ala fija, las relaciones de aspecto más largas exigen un análisis aeroelástico cuidadoso para evitar el flameo.
 
-![Componentes de dron de fibra de carbono en colocación para fuselajes UAV](/images/uav-carbon-fiber-components.webp "Componentes de Dron de Fibra de Carbono UAV")
+![Componente tubular de fibra de carbono para estructuras de UAV](/images/carbon-fiber-90-degree-elbow-tube.webp "Componente tubular de fibra de carbono para UAV")
 
 *Colocación y recorte de brazos, soportes de motor y placas de carga útil de dron de fibra de carbono en nuestro taller composite.*
 
@@ -91,7 +92,7 @@ La fibra de carbono conduce electricidad, lo que significa que una piel de carbo
 
 Un prototipo único es fácil; mil unidades intercambiables es la prueba real. Bloqueamos los libros de laminado, el utillaje y los parámetros de curado en la liberación de producción para que cada pieza coincida con el primer artículo. La inspección de primer artículo (FAI) más comprobaciones periódicas de máquina de medición por coordenadas (CMM) detectan la deriva antes de que llegue a su línea. Cuando un operador de flota sustituye un brazo dañado en campo, ese reemplazo debe ser dimensionalmente idéntico al original — ese es el estándar que mantenemos como su Fabricante de Componentes de Fibra de Carbono para UAV.
 
-![Componentes de fibra de carbono a medida listos para inspección](/images/custom-carbon-fiber-parts.webp "Componentes UAV de Fibra de Carbono a Medida")
+![Componente moldeado de fibra de carbono listo para inspección](/images/carbon-fiber-molded-cylinder-sleeve.webp "Componente UAV de fibra de carbono a medida")
 
 *Componentes UAV de fibra de carbono terminados a la espera de inspección dimensional y visual antes del envío mundial.*
 

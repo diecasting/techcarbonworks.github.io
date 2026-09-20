@@ -2,7 +2,8 @@
 title: "Custom Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
-hero_image: "/images/custom-carbon-fiber-parts.webp"
+hero_image: "/images/custom-carbon-fiber-duct-metal-flanges.webp"
+image_alt: "Custom moulded carbon fiber duct with bonded aluminium mounting flanges"
 description: "TechCarbonWorks is a custom carbon fiber parts manufacturer in Huizhou since 2013, building prepreg and CNC-machined parts for the US, Europe and Australia with ISO 9001 quality and full traceability."
 sections:
   - hero
@@ -77,7 +78,7 @@ Cured carbon fiber demands rigid machines, diamond-coated tooling and dust extra
 
 Good tooling is the precondition for good custom parts. We machine molds from aluminum for production and composite or soft materials for prototypes, then validate each with a first-article before release. Mold design accounts for cure shrinkage, draft and parting line so finished parts meet print without rework.
 
-![Carbon fiber drone components built by TechCarbonWorks](/images/uav-carbon-fiber-components.webp "Carbon Fiber Drone Components")
+![Moulded carbon fiber cylinder sleeve produced to a custom drawing](/images/carbon-fiber-molded-cylinder-sleeve.webp "Custom Carbon Fiber Cylinder Sleeve")
 
 *Custom carbon fiber UAV and drone components where weight savings directly extend flight time and payload.*
 

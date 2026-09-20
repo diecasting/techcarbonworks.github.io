@@ -6,7 +6,8 @@ robots:
 title: "Kundenspezifischer Carbonfaserteile-Hersteller"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
-hero_image: "/images/custom-carbon-fiber-parts.webp"
+hero_image: "/images/custom-carbon-fiber-duct-metal-flanges.webp"
+image_alt: "Maßgefertigter Carbonfaser-Kanal mit gebondeten Aluminium-Flanschen"
 description: "TechCarbonWorks ist ein kundenspezifischer Carbonfaserteile-Hersteller in Huizhou seit 2013, der Prepreg- und CNC-bearbeitete Teile für die USA, Europa und Australien mit ISO 9001 Qualität und vollständiger Rückverfolgbarkeit fertigt."
 sections:
   - hero
@@ -82,7 +83,7 @@ Ausgehärtete Carbonfaser verlangt starre Maschinen, diamantbeschichtete Werkzeu
 
 Gutes Werkzeug ist die Vorbedingung für gute kundenspezifische Teile. Wir fertigen Formen aus Aluminium für die Produktion und aus Composite- oder Weichmaterialien für Prototypen und validieren jede mit einem Erstmuster (FAI) vor der Freigabe. Der Formenbau berücksichtigt Aushärte-Schwindung, Entformungsschräge und Trennfuge, sodass fertige Teile ohne Nacharbeit den Zeichnungsanforderungen entsprechen.
 
-![Von TechCarbonWorks gefertigte Carbonfaser-Drohnenkomponenten](/images/uav-carbon-fiber-components.webp "Carbonfaser-Drohnenkomponenten")
+![Geformente Carbonfaser-Zylinderhülse nach kundenspezifischer Zeichnung](/images/carbon-fiber-molded-cylinder-sleeve.webp "Kundenspezifische Carbonfaser-Zylinderhülse")
 
 *Kundenspezifische Carbonfaser-UAV- und Drohnenkomponenten, bei denen Gewichtsersparnis die Flugzeit und Nutzlast direkt verlängert.*
 

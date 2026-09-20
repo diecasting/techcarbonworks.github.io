@@ -42,7 +42,7 @@ Cuando especifica una pieza de fibra de carbono a medida, en realidad está espe
 
 Nuestras instalaciones en Huizhou se construyeron para la producción compuesta. Incluyen una sala limpia de laminado de prepreg con temperatura y humedad controladas, una flota de autoclaves dimensionados para soportes pequeños y paneles estructurales grandes, un centro de mecanizado CNC 3 y 5 ejes dedicado a recortar y taladrar laminados curados, y una sala de metrología con máquinas de medición por coordenadas. Como controlamos estos recursos directamente, podemos cotizar con honestidad, proteger plazos en picos de demanda y rastrear cada lote de material hasta su certificado de conformidad.
 
-![Componentes de fibra de carbono a medida producidos por TechCarbonWorks](/images/custom-carbon-fiber-parts.webp "Componentes de fibra de carbono a medida")
+![Conducto de fibra de carbono moldeado a medida con bridas de aluminio adheridas](/images/custom-carbon-fiber-duct-metal-flanges.webp "Conducto de fibra de carbono a medida")
 
 *Componentes de fibra de carbono que van desde soportes y carcasas hasta paneles estructurales, todos fabricados según el plano del cliente.*
 
@@ -150,7 +150,7 @@ Hemos afinado nuestra operación en torno a lo que importa a los compradores té
 
 Nuestro equipo colabora con los ingenieros del cliente en el diseño para la fabricabilidad (DFM), sugiriendo cambios que reducen coste o riesgo sin comprometer la función. Prototipamos rápido, validamos a fondo y escalamos a producción con una rampa controlada. Así es como una relación que empieza con un solo soporte puede crecer hasta una colaboración de suministro de varios años.
 
-![Mecanizado CNC de componentes de fibra de carbono](/images/cnc-carbon-fiber-machining.webp "Mecanizado CNC de componentes de fibra de carbono")
+![Máquina de corte CNC de mesa plana preparando capas de fibra de carbono preimpregnada](/images/cnc-carbon-fiber-cutting-machine.webp "Corte CNC de fibra de carbono preimpregnada")
 
 *Mecanizado CNC 5 ejes de componentes de fibra de carbono curada con tolerancias ajustadas usando herramientas diamantadas.*
 
@@ -172,7 +172,7 @@ La primera fase empieza en nuestra cámara fría a -18 °C. Cada lote de prepreg
 
 La segunda fase cubre la construcción en sí. Nuestros laminadores desgasifican cada laminado y registran la secuencia real de pliegues contra el plan aprobado. Los curados en autoclave y horno se registran con trazas de tiempo, temperatura y presión, para que la historia térmica de cada lote se archivé para trazabilidad. Las auditorías en proceso confirman integridad de la bolsa, niveles de vacío y estado de la herramienta. En conjuntos unidos documentamos la preparación de la superficie de unión, lote de adhesivo y presión de fixture para que la junta sea reproducible lote a lote.
 
-![Proceso de curado en autoclave de fibra de carbono en TechCarbonWorks](/images/autoclave-carbon-fiber-manufacturing.webp "Proceso de curado en autoclave de fibra de carbono")
+![Autoclave industrial utilizado para curar laminados de fibra de carbono preimpregnada](/images/carbon-fiber-autoclave-curing-equipment.webp "Curado en autoclave de fibra de carbono")
 
 *El curado en autoclave bajo vacío y presión elevada consolida el laminado y reduce la porosidad por debajo del 1 % para piezas de grado estructural.*
 

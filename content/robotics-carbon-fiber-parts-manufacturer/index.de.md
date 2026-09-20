@@ -79,7 +79,7 @@ Eine Carbon-Struktur muss an Motoren, Lager, Getriebe und Sensoren anschließen,
 
 Präzisionsroboter leben und sterben mit dimensionsaler Kontrolle. Wir CNC-bearbeiten alle kritischen Lagerbohrungen, Montageflächen und Bohrungsbilder nach Aushärtung mit unserer [CNC-Bearbeitung von Carbonfaserteilen](/cnc-machining-carbon-fiber-parts/)-Zelle und verifizieren sie dann auf einem Koordinatenmessgerät gegen das Bezugsschema. Lange Balken werden auf Durchbiegung, Verdrehung und Ebenheit geprüft, sodass ein Gantry wahr bleibt. Wir fixieren Laminatbücher und Werkzeuge bei Produktionsfreigabe, sodass eine wiederkehrende Charge innerhalb der ursprünglichen Erstmuster-Hülle bleibt, was zählt, wenn ein Maschinenbauer unsere Glieder in eine kalibrierte kinematische Kette passt.
 
-![Kundenspezifische Carbonfaser-Komponenten für Robotikanwendungen](/images/custom-carbon-fiber-parts.webp "Robotik Carbonfaser-Komponenten")
+![Industrieroboterarm mit Carbonfaser-Rohrverbindungen](/images/robotic-arm-carbon-fiber-links.webp "Roboterarm mit Carbonfaser-Verbindungen")
 
 *Fertige Roboterarm-Glieder und Endeffektorrahmen zur Prüfung und weltweitem Versand vorbereitet.*
 

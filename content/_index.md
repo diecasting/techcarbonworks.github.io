@@ -37,7 +37,7 @@ When you specify a custom carbon fiber part, you are really specifying a system 
 
 Our facility in Huizhou was purpose-built for composite production. It includes a temperature- and humidity-controlled prepreg layup clean room, a fleet of autoclaves sized for both small brackets and large structural panels, a 3-axis and 5-axis CNC machining center dedicated to trimming and drilling cured laminates, and a metrology room with coordinate measuring machines. Because we control these resources directly, we can quote honestly, protect lead times during demand surges, and trace every lot of material back to its certificate of conformance.
 
-![Custom carbon fiber components produced by TechCarbonWorks](/images/custom-carbon-fiber-parts.webp "Custom Carbon Fiber Components")
+![Custom moulded carbon fiber duct with bonded aluminium mounting flanges](/images/custom-carbon-fiber-duct-metal-flanges.webp "Custom Carbon Fiber Duct with Aluminium Flanges")
 
 *Custom carbon fiber components ranging from brackets and enclosures to structural panels, all built to customer print.*
 
@@ -145,7 +145,7 @@ We have refined our operation around the things that matter to technical buyers:
 
 Our team collaborates with customer engineers on design for manufacturability, suggesting changes that reduce cost or risk without compromising function. We prototype quickly, validate thoroughly, and scale into production with a controlled ramp. This is how a relationship that begins with a single bracket can grow into a multi-year supply partnership.
 
-![CNC machining of carbon fiber components](/images/cnc-carbon-fiber-machining.webp "CNC Machining Carbon Fiber Components")
+![CNC flatbed cutting machine processing carbon fiber prepreg plies](/images/cnc-carbon-fiber-cutting-machine.webp "CNC Cutting of Carbon Fiber Prepreg")
 
 *5-axis CNC machining of cured carbon fiber components to tight tolerances using diamond-coated tooling.*
 
@@ -167,7 +167,7 @@ The first phase starts in our -18C cold room. Every lot of prepreg is checked ag
 
 The second phase covers the build itself. Our laminators debulk each laminate and record the actual ply sequence against the approved schedule. Autoclave and oven cures are logged with time, temperature and pressure traces so that the exact thermal history of every batch is archived for traceability. In-process audits confirm bagging integrity, vacuum levels and tool condition. For bonded assemblies we document bond-line preparation, adhesive lot and fixture pressure so the joint can be reproduced lot to lot.
 
-![Carbon fiber autoclave curing process at TechCarbonWorks](/images/autoclave-carbon-fiber-manufacturing.webp "Carbon Fiber Autoclave Curing Process")
+![Industrial autoclave curing carbon fiber prepreg laminates](/images/carbon-fiber-autoclave-curing-equipment.webp "Carbon Fiber Autoclave Curing")
 
 *Autoclave curing under vacuum and elevated pressure consolidates the laminate and drives void content below one percent for structural-grade parts.*
 

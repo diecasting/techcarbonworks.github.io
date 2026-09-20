@@ -10,6 +10,8 @@ layout: "single"
 
 Choosing between carbon fiber and aluminum parts is one of the most consequential material decisions an engineering team makes during product development. The phrase "carbon fiber vs aluminum" does not have a single correct answer because the right choice depends on production volume, loading conditions, thermal environment, and tolerance requirements. At TechCarbonWorks we manufacture both custom carbon fiber components and the tooling that supports them, and we routinely help clients decide which material actually serves their application. This guide breaks the comparison down into the metrics that matter for real production programs rather than marketing slogans.
 
+![Carbon fiber duct with bonded aluminium mounting flanges joining both materials](/images/custom-carbon-fiber-duct-metal-flanges.webp "Carbon fiber bonded to aluminium flanges")
+
 ## Why the comparison is rarely simple
 
 Aluminum is a metal with isotropic properties, mature supply chains, and predictable machinability. Carbon fiber reinforced polymer (CFRP) is a laminate whose properties vary by direction and whose cost profile changes dramatically with volume. Engineers who frame the debate as "stronger versus cheaper" miss the point. The meaningful questions are about specific performance per unit mass, long-term durability under cyclic loading, dimensional stability, and total cost of ownership across the expected lifetime of the part.

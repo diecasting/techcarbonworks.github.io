@@ -6,7 +6,8 @@ robots:
 title: "Fabricant de pièces personnalisées en fibre de carbone"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
-hero_image: "/images/custom-carbon-fiber-parts.webp"
+hero_image: "/images/custom-carbon-fiber-duct-metal-flanges.webp"
+image_alt: "Conduit en fibre de carbone moulé sur mesure avec brides en aluminium collées"
 description: "TechCarbonWorks est un fabricant de pièces personnalisées en fibre de carbone à Huizhou depuis 2013, produisant des pièces en préimprégné et usinées CNC pour les États-Unis, l'Europe et l'Australie avec la qualité ISO 9001 et une traçabilité complète."
 sections:
   - hero
@@ -81,7 +82,7 @@ La fibre de carbone polymérisée exige des machines rigides, un outillage diama
 
 Un bon outillage est la condition préalable à de bonnes pièces personnalisées. Nous usinons des moules en aluminium pour la production et en matériaux composite ou souples pour les prototypes, puis validons chaque moule avec un premier article avant mise en service. La conception du moule tient compte du retrait de polymérisation, de la dépouille et du plan de joint afin que les pièces finies respectent le plan sans reprise.
 
-![Composants de drone en fibre de carbone fabriqués par TechCarbonWorks](/images/uav-carbon-fiber-components.webp "Composants de drone en fibre de carbone")
+![Manchon cylindrique en fibre de carbone moulé selon un plan sur mesure](/images/carbon-fiber-molded-cylinder-sleeve.webp "Manchon cylindrique en fibre de carbone sur mesure")
 
 *Composants UAV (drones) personnalisés en fibre de carbone où les économies de poids prolongent directement le temps de vol et la charge utile.*
 

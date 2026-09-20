@@ -2,8 +2,8 @@
 title: "Carbon Fiber Surface Finishing & Coating Services"
 layout: "landing"
 translationKey: "carbon-fiber-surface-finishing-coating-service"
-hero_image: "/images/custom-carbon-fiber-parts.webp"
-image_alt: "Clear-coated carbon fiber components showing a finished woven surface"
+hero_image: "/images/carbon-fiber-coating-spray-booth.webp"
+image_alt: "Spray coating a carbon fiber frame inside a water-curtain spray booth"
 description: "Carbon fiber surface finishing and coating services for custom parts, prototypes, and production components. Discuss finish, appearance, protection, and application requirements with TechCarbonWorks."
 sections:
   - hero
@@ -31,7 +31,7 @@ schema:
 
 **Carbon fiber surface finishing and coating services** turn a molded or machined composite part into a finished component that meets both appearance and protection requirements. The finish is a specification, not an afterthought: it affects UV stability, abrasion resistance, brand presentation, and cost. TechCarbonWorks finishes custom parts, prototypes, and production components as part of the same integrated workflow that molds and machines them, so the coating plan is set while the part is still in tooling rather than discovered after molding.
 
-![Clear-coated carbon fiber components ready for finishing](/images/custom-carbon-fiber-parts.webp "Finished carbon fiber components with visible weave under clear coat")
+![Orbital sanding a cured carbon fiber tube during surface preparation](/images/carbon-fiber-orbital-sanding-finish.webp "Carbon Fiber Orbital Sanding")
 
 *The visible weave under a clear coat is the signature look many brands want to project.*
 

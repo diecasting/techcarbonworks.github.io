@@ -6,6 +6,8 @@ robots:
 title: "Motorsport Carbonfaserteile-Hersteller"
 layout: "landing"
 translationKey: "motorsport-carbon-fiber-parts-manufacturer"
+hero_image: "/images/carbon-fiber-racing-steering-wheel.webp"
+image_alt: "Carbonfaser-Rennlenkrad für den Motorsport"
 description: "TechCarbonWorks ist ein Motorsport Carbonfaserteile-Hersteller, der Aero-Pakete, Paneele und Carbon-Kevlar-Stoßzonen mit Schnellfertigung und Mattoberfläche produziert."
 sections:
   - hero
@@ -50,7 +52,7 @@ Heckdiffusoren verlangen interne Geometriegenauigkeit, weil die Strakes und der 
 ### Flügel und Endplatten
 Flügel kombinieren einen Tragflächenkern mit Endplatten, die Wirbel an der Spitze kontrollieren. Wir laminieren die Hauptebene für Torsionssteifigkeit und veredeln Endplatten zu einer sauberen Sichtkante, da sie hochsichtbar sind. Verstellbare Beschläge werden mit Metall-Einlagen für wiederholte Setup-Änderungen eingeklebt.
 
-![Kundenspezifische Carbonfaser-Komponenten für Motorsport-Aero](/images/custom-carbon-fiber-parts.webp "Motorsport Carbonfaser-Aero-Komponenten")
+![Carbonfaser-Motorradhelmschale aus Prepreg-Formgebung](/images/carbon-fiber-motorcycle-helmet-shell.webp "Carbonfaser-Motorradhelmschale")
 
 *Kundenspezifische Carbonfaser-Aero-Komponenten einschließlich Splitter, Diffusoren und Flügelelementen, gebaut nach Team-Spezifikationen.*
 

@@ -2,7 +2,7 @@
 title: "Carbonfaser-Formen"
 layout: "landing"
 translationKey: "carbon-fiber-shapes"
-hero_image: "/images/cnc-carbon-fiber-machining.webp"
+hero_image: "/images/carbon-fiber-shapes-hub-hero.webp"
 image_alt: "Bearbeitete Carbonfaser-Rohre, Platten und kundenspezifische Profile als typische Carbonfaser-Formen"
 description: "TechCarbonWorks fertigt kundenspezifische Carbonfaser-Formen und -Profile — Rohre, Platten, Bleche und maßgeschneiderte Querschnitte — nach Zeichnung, mit Umformen, CNC-Besäumen, Autoklavenhärtung und vollständiger Prüfung für Kunden in den USA, Europa und Australien."
 sections:
@@ -35,7 +35,12 @@ schema:
 
 **Carbonfaser-Formen** sind die physischen Gestalten, aus denen Composite-Programme bestehen: Rohre, Platten, Bleche und die maßgeschneiderten Profile, die eine Zeichnung in ein lasttragendes Bauteil verwandeln. Bei TechCarbonWorks betrachten wir eine Form zunächst als Fertigungsproblem und erst danach als Katalogartikel. Seit 2013 fertigen wir kundenspezifische Carbonfaser-Formen für Entwicklungs- und Beschaffungsteams in den USA, Europa und Australien — ausgehend von Prepreg, konsolidiertem Laminat oder filamentgewickelten Abschnitten bis zum veredelten, geprüften Bauteil. Diese Seite erklärt, welche Formen wir fertigen, wie wir sie herstellen und wie Sie eine Form spezifizieren, damit Ihre Anfrage ein passendes und leistungsfähiges Teil ergibt.
 
-![Bearbeitete Carbonfaser-Rohre und -platten als kundenspezifische Formen](/images/cnc-carbon-fiber-machining.webp "Kundenspezifische Carbonfaser-Formen aus Laminat bearbeitet")
+![Bearbeitete Carbonfaser-Rohre und -platten als kundenspezifische Formen](/images/carbon-fiber-90-degree-elbow-tube.webp "Kundenspezifische Carbonfaser-Formen aus Laminat bearbeitet")
+
+| | | |
+|:--:|:--:|:--:|
+| ![90-Grad-Carbonfaser-Winkelrohr mit 3K-Köperbindung](/images/carbon-fiber-90-degree-elbow-tube.webp "90-Grad-Carbonfaser-Winkelrohr mit 3K-Köperbindung") | ![Gebogenes U-förmiges Carbonfaser-Rohr mit kundenspezifischem Radius](/images/carbon-fiber-bent-u-tube.webp "Gebogenes U-förmiges Carbonfaser-Rohr mit kundenspezifischem Radius") | ![Viereckiges Carbonfaser-Stabprofil mit matter Köperoberfläche](/images/carbon-fiber-square-bar-profile.webp "Viereckiges Carbonfaser-Stabprofil mit matter Köperoberfläche") |
+| ![Verjüngtes flaches Carbonfaser-Profil mit Hochglanzoberfläche](/images/carbon-fiber-tapered-flat-profile.webp "Verjüngtes flaches Carbonfaser-Profil mit Hochglanzoberfläche") | ![Carbonfaser-Rohr mit integriertem angespritztem Befestigungsfuß](/images/carbon-fiber-tube-molded-mounting-foot.webp "Carbonfaser-Rohr mit integriertem angespritztem Befestigungsfuß") | ![Geformente Carbonfaser-Zylinderhülse mit matter Oberfläche](/images/carbon-fiber-molded-cylinder-sleeve.webp "Geformente Carbonfaser-Zylinderhülse mit matter Oberfläche") |
 
 *Carbonfaser-Rohre, Platten und Halter beginnen als geformtes oder Lager-Laminat und werden auf die Geometrie Ihrer Zeichnung veredelt.*
 

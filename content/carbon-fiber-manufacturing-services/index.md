@@ -2,7 +2,8 @@
 title: "Carbon Fiber Manufacturing Services"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
-hero_image: "/images/autoclave-carbon-fiber-manufacturing.webp"
+hero_image: "/images/carbon-fiber-autoclave-curing-equipment.webp"
+image_alt: "Industrial autoclave used to cure carbon fiber prepreg laminates"
 description: "TechCarbonWorks provides carbon fiber manufacturing services including prepreg molding, autoclave curing, CNC machining and mold making for US, Europe and Australia since 2013 with ISO 9001."
 sections:
   - hero
@@ -77,7 +78,7 @@ Cured carbon fiber is hard, abrasive and prone to delamination if mishandled, so
 
 Tooling quality sets the ceiling on part quality. We machine molds from aluminum for production and from composite or soft materials for prototypes, then validate each mold with a first-article before release. Good mold design accounts for cure shrinkage, draft and parting line, so finished components meet print without rework.
 
-![Carbon fiber autoclave curing process](/images/autoclave-carbon-fiber-manufacturing.webp "Carbon Fiber Autoclave Curing Process")
+![Hydraulic compression moulding press line producing carbon fiber parts](/images/carbon-fiber-compression-molding-press-line.webp "Carbon Fiber Compression Moulding Press Line")
 
 *Autoclave curing consolidates prepreg laminates under heat and pressure to achieve low void content and high mechanical properties.*
 

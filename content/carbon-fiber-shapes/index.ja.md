@@ -2,7 +2,7 @@
 title: "カーボンファイバー形状"
 layout: "landing"
 translationKey: "carbon-fiber-shapes"
-hero_image: "/images/cnc-carbon-fiber-machining.webp"
+hero_image: "/images/carbon-fiber-shapes-hub-hero.webp"
 image_alt: "加工されたカーボンファイバー製チューブ、プレート、カスタムプロファイルの代表的な形状"
 description: "TechCarbonWorksは、図面に基づくカスタムカーボンファイバー形状・プロファイル（チューブ、プレート、板材、特殊断面）を製造します。米国・欧州・オーストラリアのお客様向けに、成形・CNCトリミング・オートクレーブ硬化・完全検査を提供します。"
 sections:
@@ -35,7 +35,12 @@ schema:
 
 **カーボンファイバー形状**とは、複合材プログラムを構成する物理的な形態──チューブ、プレート、板材、そして図面を荷重支持部品に変えるカスタムプロファイル──です。TechCarbonWorksでは、形状をまず製造課題として、その次にカタログ品として捉えます。2013年より、米国・欧州・オーストラリアの設計・購買チーム向けに、プリプレグや積層ストック材、フィラメント巻き断面を出発点とし、仕上げ・検査済み部品までをカスタムカーボンファイバー形状として製造しています。このページでは、製造する形状、その製法、および図面通りに収まり性能を発揮する部品を得るための指定方法を説明します。
 
-![加工されたカーボンファイバーチューブとプレートのカスタム形状](/images/cnc-carbon-fiber-machining.webp "積層材から加工されたカスタムカーボンファイバー形状")
+![加工されたカーボンファイバーチューブとプレートのカスタム形状](/images/carbon-fiber-90-degree-elbow-tube.webp "積層材から加工されたカスタムカーボンファイバー形状")
+
+| | | |
+|:--:|:--:|:--:|
+| ![3K綾織の90度カーボンファイバーエルボチューブ](/images/carbon-fiber-90-degree-elbow-tube.webp "3K綾織の90度カーボンファイバーエルボチューブ") | ![カスタム半径に成形されたU字型カーボンファイバーチューブ](/images/carbon-fiber-bent-u-tube.webp "カスタム半径に成形されたU字型カーボンファイバーチューブ") | ![マット綾織仕上げの角型カーボンファイバーバー](/images/carbon-fiber-square-bar-profile.webp "マット綾織仕上げの角型カーボンファイバーバー") |
+| ![光沢仕上げのテーパー型カーボンファイバーフラットプロファイル](/images/carbon-fiber-tapered-flat-profile.webp "光沢仕上げのテーパー型カーボンファイバーフラットプロファイル") | ![一体成形の取付フット付きカーボンファイバーチューブ](/images/carbon-fiber-tube-molded-mounting-foot.webp "一体成形の取付フット付きカーボンファイバーチューブ") | ![マット仕上げの成形カーボンファイバーシリンダースリーブ](/images/carbon-fiber-molded-cylinder-sleeve.webp "マット仕上げの成形カーボンファイバーシリンダースリーブ") |
 
 *カーボンファイバーチューブ、プレート、ブラケットは、成形またはストック積層として始まり、図面の幾何形状に仕上げられます。*
 

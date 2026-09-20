@@ -6,6 +6,8 @@ robots:
 title: "モータースポーツカーボンファイバー部品メーカー"
 layout: "landing"
 translationKey: "motorsport-carbon-fiber-parts-manufacturer"
+hero_image: "/images/carbon-fiber-racing-steering-wheel.webp"
+image_alt: "モータースポーツ向けに製造されたカーボンファイバーレーシングステアリング"
 description: "TechCarbonWorksはモータースポーツカーボンファイバー部品メーカーとして、エアロパッケージ、パネル、カーボン-ケブラー衝撃ゾーンを短納期とマット仕上げで製造しています。"
 sections:
   - hero
@@ -35,7 +37,7 @@ TechCarbonWorksは、米国、欧州、オーストラリアのレースチー�
 ### ウィングとエンドプレート
 ウィングは翼型コアと、翼端渦を制御するエンドプレートを組み合わせます。主翼面をねじり剛性のために積層し、エンドプレート��非常に目立つためクリーンな視覚的エッジに仕上げます。調整可能なフィッティングは、繰り返しのセットアップ変更のために金属インサートで接着されます。
 
-![モータースポーツエアロ用カスタムカーボンファイバー部品](/images/custom-carbon-fiber-parts.webp "Motorsport Carbon Fiber Aero Components")
+![プリプレグ成形で製造されたカーボンファイバー製バイクヘルムシェル](/images/carbon-fiber-motorcycle-helmet-shell.webp "カーボンファイバーヘルムシェル")
 
 *チーム仕様に基づいて製造されたスプリッター、ディフューザー、ウィングエレメントを含むカスタムカーボンファイバーエアロ部品。*
 

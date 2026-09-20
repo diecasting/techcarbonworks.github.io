@@ -6,7 +6,8 @@ robots:
 title: "Servicios de Fabricación de Fibra de Carbono"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
-hero_image: "/images/autoclave-carbon-fiber-manufacturing.webp"
+hero_image: "/images/carbon-fiber-autoclave-curing-equipment.webp"
+image_alt: "Autoclave industrial utilizado para curar laminados de fibra de carbono preimpregnada"
 description: "TechCarbonWorks ofrece servicios de fabricación de fibra de carbono que incluyen moldeo por preimpregnado, curado en autoclave, mecanizado CNC y fabricación de moldes para EE. UU., Europa y Australia desde 2013, con ISO 9001."
 sections:
   - hero
@@ -82,7 +83,7 @@ La fibra de carbono curada es dura, abrasiva y propensa a la delaminación si se
 
 La calidad del utillaje marca el techo de la calidad de la pieza. Mecanizamos moldes de aluminio para producción y de materiales composite o blandos para prototipos, y luego validamos cada molde con una inspección de primer artículo (FAI) antes de su liberación. Un buen diseño de molde contempla la contracción por curado, el ángulo de salida y la línea de partición, de modo que los componentes terminados cumplan el plano sin retrabajo.
 
-![Proceso de curado en autoclave de fibra de carbono](/images/autoclave-carbon-fiber-manufacturing.webp "Proceso de Curado en Autoclave de Fibra de Carbono")
+![Línea de prensas hidráulicas de moldeo por compresión para piezas de fibra de carbono](/images/carbon-fiber-compression-molding-press-line.webp "Línea de prensas de moldeo por compresión")
 
 *El curado en autoclave consolida los laminados de preimpregnado bajo calor y presión para lograr un bajo contenido de poros y altas propiedades mecánicas.*
 

@@ -79,7 +79,7 @@ Una estructura de carbono debe conectarse a motores, rodamientos, engranajes y s
 
 Los robots de precisión viven o mueren por el control dimensional. Mecanizamos con CNC todos los taladros de rodamiento críticos, caras de montaje y patrones de taladro tras el curado usando nuestra celda de [mecanizado CNC de piezas de fibra de carbono](/cnc-machining-carbon-fiber-parts/), y luego los verificamos en una máquina de medición por coordenadas contra el esquema de datum. Las vigas largas se comprueban por flecha, torsión y planitud para que un pórtico siga fiel. Bloqueamos los libros de laminado y el utillaje en la liberación de producción para que un lote recurrente permanezca dentro del sobre de primer artículo original, lo que importa cuando un fabricante de máquinas ajusta nuestros eslabones en una cadena cinemática calibrada.
 
-![Componentes de fibra de carbono a medida para aplicaciones robóticas](/images/custom-carbon-fiber-parts.webp "Componentes de Fibra de Carbono para Robótica")
+![Brazo robótico industrial equipado con enlaces tubulares de fibra de carbono](/images/robotic-arm-carbon-fiber-links.webp "Brazo robótico con enlaces de fibra de carbono")
 
 *Eslabones robóticos y bastidores de efector final terminados preparados para inspección y envío mundial.*
 

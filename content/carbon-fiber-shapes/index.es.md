@@ -2,7 +2,7 @@
 title: "Formas de fibra de carbono"
 layout: "landing"
 translationKey: "carbon-fiber-shapes"
-hero_image: "/images/cnc-carbon-fiber-machining.webp"
+hero_image: "/images/carbon-fiber-shapes-hub-hero.webp"
 image_alt: "Tubos, placas y perfiles personalizados de fibra de carbono mecanizados, formas típicas"
 description: "TechCarbonWorks fabrica formas y perfiles de fibra de carbono a medida — tubos, placas, chapas y secciones específicas — según plano, con moldeo, corte CNC, curado en autoclave e inspección completa para clientes de EE. UU., Europa y Australia."
 sections:
@@ -35,7 +35,12 @@ schema:
 
 Las **formas de fibra de carbono** son las físicas a partir de las cuales se construyen los programas compuestos: tubos, placas, chapas y los perfiles a medida que convierten un plano en una pieza resistente. En TechCarbonWorks tratamos una forma primero como un problema de fabricación y luego como un artículo de catálogo. Desde 2013 producimos formas de fibra de carbono a medida para equipos de ingeniería y compras de EE. UU., Europa y Australia, partiendo de prepreg, laminado consolidado o secciones enrolladas por filamento, hasta la pieza terminada e inspeccionada. Esta página explica las formas que fabricamos, cómo las hacemos y cómo especificar una para que su solicitud devuelva una pieza que encaje y rinda.
 
-![Tubos y placas de fibra de carbono mecanizados como formas a medida](/images/cnc-carbon-fiber-machining.webp "Formas a medida de fibra de carbono mecanizadas a partir de laminado")
+![Tubos y placas de fibra de carbono mecanizados como formas a medida](/images/carbon-fiber-90-degree-elbow-tube.webp "Formas a medida de fibra de carbono mecanizadas a partir de laminado")
+
+| | | |
+|:--:|:--:|:--:|
+| ![Tubo acodado a 90 grados de fibra de carbono con tejido sarga 3K](/images/carbon-fiber-90-degree-elbow-tube.webp "Tubo acodado a 90 grados de fibra de carbono con tejido sarga 3K") | ![Tubo en U curvado de fibra de carbono formado con un radio a medida](/images/carbon-fiber-bent-u-tube.webp "Tubo en U curvado de fibra de carbono formado con un radio a medida") | ![Perfil de barra cuadrada de fibra de carbono con acabado sarga mate](/images/carbon-fiber-square-bar-profile.webp "Perfil de barra cuadrada de fibra de carbono con acabado sarga mate") |
+| ![Perfil plano ahusado de fibra de carbono con acabado de alto brillo](/images/carbon-fiber-tapered-flat-profile.webp "Perfil plano ahusado de fibra de carbono con acabado de alto brillo") | ![Tubo de fibra de carbono con pie de montaje moldeado integrado](/images/carbon-fiber-tube-molded-mounting-foot.webp "Tubo de fibra de carbono con pie de montaje moldeado integrado") | ![Manguito cilíndrico de fibra de carbono moldeado con acabado mate](/images/carbon-fiber-molded-cylinder-sleeve.webp "Manguito cilíndrico de fibra de carbono moldeado con acabado mate") |
 
 *Los tubos, placas y soportes de fibra de carbono comienzan como laminado moldeado o en stock, y se terminan según la geometría de su plano.*
 

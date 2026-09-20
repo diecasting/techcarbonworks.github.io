@@ -6,7 +6,8 @@ robots:
 title: "UAVカーボンファイバー部品メーカー"
 layout: "landing"
 translationKey: "uav-carbon-fiber-components-manufacturer"
-hero_image: "/images/uav-carbon-fiber-components.webp"
+hero_image: "/images/carbon-fiber-uav-tube-component.webp"
+image_alt: "UAVアーム構造に使用される、一体成形の取付フット付きカーボンファイバーチューブ"
 description: "TechCarbonWorksはUAVカーボンファイバー部品メーカーとして、飛行最適化カーボン積層による機体構造、アーム、モーターマウント、ペイロードプレートを製造しています。"
 sections:
   - hero
@@ -37,7 +38,7 @@ TechCarbonWorksは、米国、欧州、オーストラリアのドローンイ�
 ### アームおよびブーム
 管状および異形アームは、モーター推力を機体に伝達すると同時に、主要な振動伝導体として機能します。当社のアームは通常、曲げとねじりの両方に抵抗する調整された繊維角度（多くの場合45/90/0スケジュール）でロールラッピングまたは圧縮成形されます。VTOLおよび固定翼ブームでは、より長いアスペクト比はフラッターを回避するための慎重な空力弾性解析を要求します。
 
-![UAV機体用に積層されるカーボンファイバードローン部品](/images/uav-carbon-fiber-components.webp "UAV Carbon Fiber Drone Components")
+![UAV機体構造用のカーボンファイバーチューブ部品](/images/carbon-fiber-90-degree-elbow-tube.webp "UAV用カーボンファイバーチューブ部品")
 
 *当社の複合材ワークショップにおけるカーボンファイバードローンアーム、モーターマウント、ペイロードプレートの積層とトリミング。*
 
@@ -76,7 +77,7 @@ UAVの飛行荷重はめったに対称ではありません。前方加速、�
 
 単一の試作は簡単です。1000個の互換性のあるユニットが真のテストです。当社は積層ブック、工具、硬化パラメータを生産リリース時にロックするため、すべての部品が初物と一致します。初物検査（FAI）と定期的な三次元測定機（CMM）チェックが、ずれがお客様のラインに到達する前にそれを捕捉します。フリートオペレーターが現場で損傷したアームを交換する際、その交換品は元の部品と寸法的に同一でなければなりません。これがUAVカーボンファイバー部品メーカーとして当社が維持する基準です。
 
-![検査待ちのカスタムカーボンファイバー部品](/images/custom-carbon-fiber-parts.webp "Custom Carbon Fiber UAV Components")
+![検査準備完了の成形カーボンファイバー部品](/images/carbon-fiber-molded-cylinder-sleeve.webp "カスタムカーボンファイバーUAV部品")
 
 *全世界への出荷前に寸法および外観検査を待つ完成したカスタムカーボンファイバーUAV部品。*
 

@@ -6,7 +6,8 @@ robots:
 title: "Carbonfaser-Fertigungsdienstleistungen"
 layout: "landing"
 translationKey: "carbon-fiber-manufacturing-services"
-hero_image: "/images/autoclave-carbon-fiber-manufacturing.webp"
+hero_image: "/images/carbon-fiber-autoclave-curing-equipment.webp"
+image_alt: "Industrieller Autoklav zur Aushärtung von Carbonfaser-Prepreg-Laminaten"
 description: "TechCarbonWorks bietet Carbonfaser-Fertigungsdienstleistungen umfassend Prepreg-Formen, Autoklaven-Aushärtung, CNC-Bearbeitung und Formenbau für die USA, Europa und Australien seit 2013 mit ISO 9001."
 sections:
   - hero
@@ -82,7 +83,7 @@ Ausgehärtete Carbonfaser ist hart, abrasiv und neigt bei unsachgemäßer Handha
 
 Die Werkzeugqualität setzt die Obergrenze für die Teilequalität. Wir fertigen Formen aus Aluminium für die Produktion und aus Composite- oder Weichmaterialien für Prototypen und validieren jede Form mit einer Erstmusterprüfung (FAI) vor der Freigabe. Guter Formenbau berücksichtigt Aushärte-Schwindung, Entformungsschräge und Trennfuge, sodass fertige Bauteile ohne Nacharbeit den Zeichnungsanforderungen entsprechen.
 
-![Carbonfaser-Autoklaven-Aushärteprozess](/images/autoclave-carbon-fiber-manufacturing.webp "Carbonfaser-Autoklaven-Aushärteprozess")
+![Hydraulische Presse zum Formpressen von Carbonfaser-Bauteilen](/images/carbon-fiber-compression-molding-press-line.webp "Carbonfaser-Formpresslinie")
 
 *Die Autoklaven-Aushärtung konsolidiert Prepreg-Laminate unter Wärme und Druck, um geringen Porengehalt und hohe mechanische Eigenschaften zu erreichen.*
 

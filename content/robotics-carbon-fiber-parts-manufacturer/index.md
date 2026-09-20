@@ -74,7 +74,7 @@ A carbon structure must connect to motors, bearings, gears, and sensors, all of 
 
 Precision robots live or die by dimensional control. We CNC-machine all critical bearing bores, mounting faces, and hole patterns after cure using our [CNC machining of carbon fiber parts](/cnc-machining-carbon-fiber-parts/) cell, then verify them on a coordinate measuring machine against the datum scheme. Long beams are checked for bow, twist, and flatness so a gantry tracks true. We lock laminate books and tooling at production release so a recurring batch stays within the original first-article envelope, which matters when a machine builder is fitting our links into a calibrated kinematic chain.
 
-![Custom carbon fiber components for robotic applications](/images/custom-carbon-fiber-parts.webp "Robotic Carbon Fiber Components")
+![Industrial robotic arm fitted with carbon fiber tube links](/images/robotic-arm-carbon-fiber-links.webp "Robotic Arm with Carbon Fiber Links")
 
 *Finished robot links and end-effector frames prepared for inspection and worldwide shipment.*
 

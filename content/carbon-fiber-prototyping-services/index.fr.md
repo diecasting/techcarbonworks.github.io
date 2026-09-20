@@ -6,6 +6,8 @@ robots:
 title: "Carbon Fiber Prototyping Services"
 layout: "landing"
 translationKey: "carbon-fiber-prototyping-services"
+hero_image: "/images/carbon-fiber-prototype-handling-inspection.webp"
+image_alt: "Technicien inspectant un tube prototype en fibre de carbone avant assemblage"
 description: "Carbon fiber prototyping services with rapid tooling, wet layup and prepreg routes, DFM feedback, and 1-3 week lead times bridging prototype to production."
 sections:
   - hero

@@ -6,7 +6,8 @@ robots:
 title: "カスタムカーボンファイバー部品メーカー"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
-hero_image: "/images/custom-carbon-fiber-parts.webp"
+hero_image: "/images/custom-carbon-fiber-duct-metal-flanges.webp"
+image_alt: "アルミ製フランジを接合したカスタム成形カーボンファイバーダクト"
 description: "TechCarbonWorksは2013年以来、恵州に拠点を置くカスタムカーボンファイバー部品メーカーとして、米国・欧州・オーストラリア向けにプリプレグおよびCNC加工部品をISO 9001品質と完全なトレーサビリティで製造しています。"
 sections:
   - hero
@@ -67,7 +68,7 @@ TechCarbonWorksは2013年に中国・恵州で創業した**カスタムカー�
 
 優れた工具は優れたカスタム部品の前提条件です。当社は量産用にアルミニウム��試作用に複合材料または��フト材から金型を機械加工し、リリース前に初物で各金型を検証します。金型設計は硬化収縮、抜き勾配、パーティングラインを考慮するため、完成部品は手直しなしで図面を満たします。
 
-![TechCarbonWorksが製造するカーボンファイバードローン部品](/images/uav-carbon-fiber-components.webp "Carbon Fiber Drone Components")
+![カスタム図面に基づいて成形されたカーボンファイバーシリンダースリーブ](/images/carbon-fiber-molded-cylinder-sleeve.webp "カスタムカーボンファイバーシリンダースリーブ")
 
 *軽量化が飛行時間とペイロードを直接延長するカスタムカーボンファイバーUAVおよびドローン部品。*
 

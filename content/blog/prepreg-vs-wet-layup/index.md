@@ -14,7 +14,7 @@ When a project moves from prototype to production, one of the first manufacturin
 
 Prepreg is "pre-impregnated" carbon fiber where the resin and hardener are already mixed and partially cured, then applied to the fibers in a precisely controlled factory environment. The material arrives on a roll, refrigerated, with a defined tack and out-life. Because the resin content is metered at the supplier, the fiber volume fraction is consistent part to part. Prepreg is laid by hand or by automated tape laying onto a prepared mold, vacuum bagged, and cured under heat and pressure in an oven or autoclave. Our [carbon fiber autoclave curing process](/images/autoclave-carbon-fiber-manufacturing.webp) is central to achieving aerospace-grade laminates.
 
-![Carbon fiber prepreg curing in an autoclave](/images/autoclave-carbon-fiber-manufacturing.webp "Autoclave cure cycle for prepreg laminates")
+![Carbon fiber prepreg curing in an autoclave](/images/carbon-fiber-autoclave-curing-equipment.webp "Autoclave cure cycle for prepreg laminates")
 
 *Autoclave consolidation is what gives prepreg laminates their low void content and high fiber volume.*
 

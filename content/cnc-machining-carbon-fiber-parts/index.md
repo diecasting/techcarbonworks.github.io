@@ -2,7 +2,8 @@
 title: "CNC Machining Carbon Fiber Parts"
 layout: "landing"
 translationKey: "cnc-machining-carbon-fiber-parts"
-hero_image: "/images/cnc-carbon-fiber-machining.webp"
+hero_image: "/images/cnc-carbon-fiber-cutting-machine.webp"
+image_alt: "CNC flatbed cutting machine preparing carbon fiber prepreg plies"
 description: "CNC machining carbon fiber parts with 3-axis and 5-axis mills, ±0.05-0.1mm tolerances, delamination-free edges, and CMM inspection. ISO 9001 since 2013."
 sections:
   - hero
@@ -33,7 +34,7 @@ schema:
 
 **CNC machining carbon fiber parts** is one of the most demanding operations in composite manufacturing because the same stiffness and hardness that make the material attractive also destroy ordinary cutting tools and cause delamination if the process is not tightly controlled. At TechCarbonWorks we have machined carbon fiber laminates, tubes, and molded blanks since 2013, building a process chain that delivers clean edges, repeatable tolerances, and verified quality for engineering teams in the United States, Europe, and Australia. This page explains how we select machines, tooling, and inspection methods so that your drawings become production-ready carbon components rather than frayed, dimensionally drifting rejects.
 
-![CNC milling of carbon fiber composite components on a 5-axis machining center](/images/cnc-carbon-fiber-machining.webp "5-axis CNC machining of carbon fiber composite components")
+![Operator grinding a cured carbon fiber component to final dimension](/images/carbon-fiber-part-grinding-finishing.webp "Carbon Fiber Part Grinding and Finishing")
 
 *Five-axis CNC machining of carbon fiber components with diamond-coated tooling and vacuum dust extraction.*
 

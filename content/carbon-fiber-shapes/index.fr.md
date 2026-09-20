@@ -2,7 +2,7 @@
 title: "Formes en fibre de carbone"
 layout: "landing"
 translationKey: "carbon-fiber-shapes"
-hero_image: "/images/cnc-carbon-fiber-machining.webp"
+hero_image: "/images/carbon-fiber-shapes-hub-hero.webp"
 image_alt: "Tubes, plaques et profils sur mesure en fibre de carbone usinés, formes typiques"
 description: "TechCarbonWorks fabrique des formes et profils en fibre de carbone sur mesure — tubes, plaques, tôles et sections spécifiques — selon le plan, avec moulage, trimage CNC, cuisson en autoclave et inspection complète pour les clients des États-Unis, d'Europe et d'Australie."
 sections:
@@ -35,7 +35,12 @@ schema:
 
 Les **formes en fibre de carbone** sont les physiques à partir desquelles se construisent les programmes composites : tubes, plaques, tôles et les profils sur mesure qui transforment un plan en pièce porteuse. Chez TechCarbonWorks, nous traitons une forme d'abord comme un problème de fabrication, ensuite comme un article de catalogue. Depuis 2013, nous produisons des formes en fibre de carbone sur mesure pour les équipes conception et achats des États-Unis, d'Europe et d'Australie, en partant de préimprégné, de stratifié consolidé ou de sections enroulées par filament, jusqu'à la pièce finie et inspectée. Cette page explique les formes que nous fabriquons, comment nous les réalisons, et comment en spécifier une pour qu'une demande renvoie une pièce qui s'ajuste et performe.
 
-![Tubes et plaques en fibre de carbone usinés comme formes sur mesure](/images/cnc-carbon-fiber-machining.webp "Formes sur mesure en fibre de carbone usinées à partir de stratifié")
+![Tubes et plaques en fibre de carbone usinés comme formes sur mesure](/images/carbon-fiber-90-degree-elbow-tube.webp "Formes sur mesure en fibre de carbone usinées à partir de stratifié")
+
+| | | |
+|:--:|:--:|:--:|
+| ![Tube coudé à 90 degrés en fibre de carbone avec tissage sergé 3K](/images/carbon-fiber-90-degree-elbow-tube.webp "Tube coudé à 90 degrés en fibre de carbone avec tissage sergé 3K") | ![Tube en fibre de carbone en U cintré selon un rayon sur mesure](/images/carbon-fiber-bent-u-tube.webp "Tube en fibre de carbone en U cintré selon un rayon sur mesure") | ![Profilé carré en fibre de carbone avec finition sergé mate](/images/carbon-fiber-square-bar-profile.webp "Profilé carré en fibre de carbone avec finition sergé mate") |
+| ![Profilé plat effilé en fibre de carbone avec finition très brillante](/images/carbon-fiber-tapered-flat-profile.webp "Profilé plat effilé en fibre de carbone avec finition très brillante") | ![Tube en fibre de carbone avec pied de fixation moulé intégré](/images/carbon-fiber-tube-molded-mounting-foot.webp "Tube en fibre de carbone avec pied de fixation moulé intégré") | ![Manchon cylindrique en fibre de carbone moulé avec finition mate](/images/carbon-fiber-molded-cylinder-sleeve.webp "Manchon cylindrique en fibre de carbone moulé avec finition mate") |
 
 *Les tubes, plaques et supports en fibre de carbone commencent comme stratifié moulé ou en stock, puis sont finis selon la géométrie de votre plan.*
 

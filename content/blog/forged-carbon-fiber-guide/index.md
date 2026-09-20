@@ -10,7 +10,7 @@ layout: "single"
 
 Forged carbon fiber has moved from a niche automotive curiosity to a serious option for B2B component programs, yet many buyers still confuse it with standard woven laminates. In this guide we explain what forged carbon fiber actually is, how it is made by compression molding of chopped tow, where its isotropy helps, and where its strength caveats matter. At TechCarbonWorks we produce forged carbon parts for consumer, automotive, and UAV clients, and we help engineering teams decide when this distinctive material earns its place.
 
-![Forged carbon fiber UAV components with marbled appearance](/images/uav-carbon-fiber-components.webp "Forged carbon fiber parts show a distinctive marbled surface")
+![Carbon fiber square bar profile showing a visible 3K twill weave](/images/carbon-fiber-square-bar-profile.webp "Carbon fiber twill weave surface")
 
 *Forged carbon fiber's marbled look comes from randomly oriented chopped tow, not a woven pattern.*
 

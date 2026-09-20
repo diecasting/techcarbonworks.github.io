@@ -6,7 +6,8 @@ robots:
 title: "Fabricante de Piezas de Fibra de Carbono a Medida"
 layout: "landing"
 translationKey: "custom-carbon-fiber-parts-manufacturer"
-hero_image: "/images/custom-carbon-fiber-parts.webp"
+hero_image: "/images/custom-carbon-fiber-duct-metal-flanges.webp"
+image_alt: "Conducto de fibra de carbono moldeado a medida con bridas de aluminio adheridas"
 description: "TechCarbonWorks es un fabricante de piezas de fibra de carbono a medida en Huizhou desde 2013, que construye piezas de preimpregnado y mecanizadas con CNC para EE. UU., Europa y Australia con calidad ISO 9001 y trazabilidad completa."
 sections:
   - hero
@@ -82,7 +83,7 @@ La fibra de carbono curada exige máquinas rígidas, utillaje con recubrimiento 
 
 Un buen utillaje es la condición previa para buenas piezas a medida. Mecanizamos moldes de aluminio para producción y de materiales composite o blandos para prototipos, y luego validamos cada uno con una inspección de primer artículo (FAI) antes de su liberación. El diseño del molde contempla la contracción por curado, el ángulo de salida y la línea de partición para que las piezas terminadas cumplan el plano sin retrabajo.
 
-![Componentes de dron de fibra de carbono construidos por TechCarbonWorks](/images/uav-carbon-fiber-components.webp "Componentes de Dron de Fibra de Carbono")
+![Manguito cilíndrico de fibra de carbono moldeado según plano a medida](/images/carbon-fiber-molded-cylinder-sleeve.webp "Manguito cilíndrico de fibra de carbono a medida")
 
 *Componentes de fibra de carbono para UAV y dron a medida donde el ahorro de peso extiende directamente el tiempo de vuelo y la carga útil.*
 

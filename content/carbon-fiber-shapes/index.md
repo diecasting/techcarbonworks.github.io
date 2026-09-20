@@ -2,7 +2,7 @@
 title: "Carbon Fiber Shapes"
 layout: "landing"
 translationKey: "carbon-fiber-shapes"
-hero_image: "/images/cnc-carbon-fiber-machining.webp"
+hero_image: "/images/carbon-fiber-shapes-hub-hero.webp"
 image_alt: "Machined carbon fiber tubes, plates and custom profiles showing typical carbon fiber shapes"
 description: "TechCarbonWorks manufactures custom carbon fiber shapes and profiles — tubes, sheets, plates and bespoke sections — to engineering drawings, with molding, CNC trimming, autoclave cure and full inspection for customers in the US, Europe and Australia."
 sections:
@@ -35,7 +35,12 @@ schema:
 
 **Carbon fiber shapes** are the physical forms composite programs are built from: tubes, sheets, plates and the bespoke profiles that turn a drawing into a load-carrying part. At TechCarbonWorks we treat a shape as a manufacturing problem first and a catalog item second. Since 2013 we have produced custom carbon fiber shapes for engineering and sourcing teams in the United States, Europe and Australia, starting from prepreg, consolidated laminate stock, or filament-wound sections and ending with a finished, inspected component. This page explains the shapes we make, how we make them, and how to specify one so your request returns a part that fits and performs.
 
-![Machined carbon fiber tubes and plates prepared as custom shapes](/images/cnc-carbon-fiber-machining.webp "Custom carbon fiber shapes machined from laminate stock")
+![Machined carbon fiber tubes and plates prepared as custom shapes](/images/carbon-fiber-90-degree-elbow-tube.webp "Custom carbon fiber shapes machined from laminate stock")
+
+| | | |
+|:--:|:--:|:--:|
+| ![90 degree carbon fiber elbow tube with 3K twill weave](/images/carbon-fiber-90-degree-elbow-tube.webp "90 degree carbon fiber elbow tube with 3K twill weave") | ![Bent U-shaped carbon fiber tube formed to a custom radius](/images/carbon-fiber-bent-u-tube.webp "Bent U-shaped carbon fiber tube formed to a custom radius") | ![Square carbon fiber bar profile with a matte twill finish](/images/carbon-fiber-square-bar-profile.webp "Square carbon fiber bar profile with a matte twill finish") |
+| ![Tapered carbon fiber flat profile with a high-gloss finish](/images/carbon-fiber-tapered-flat-profile.webp "Tapered carbon fiber flat profile with a high-gloss finish") | ![Carbon fiber tube with an integrally moulded mounting foot](/images/carbon-fiber-tube-molded-mounting-foot.webp "Carbon fiber tube with an integrally moulded mounting foot") | ![Moulded carbon fiber cylinder sleeve with a matte finish](/images/carbon-fiber-molded-cylinder-sleeve.webp "Moulded carbon fiber cylinder sleeve with a matte finish") |
 
 *Carbon fiber tubes, plates and brackets begin as molded or stock laminate and are finished to the geometry on your drawing.*
 

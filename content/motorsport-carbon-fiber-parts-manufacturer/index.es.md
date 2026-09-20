@@ -6,6 +6,8 @@ robots:
 title: "Fabricante de Piezas de Fibra de Carbono para Automovilismo"
 layout: "landing"
 translationKey: "motorsport-carbon-fiber-parts-manufacturer"
+hero_image: "/images/carbon-fiber-racing-steering-wheel.webp"
+image_alt: "Volante de carreras de fibra de carbono fabricado para automovilismo"
 description: "TechCarbonWorks es un Fabricante de Piezas de Fibra de Carbono para Automovilismo que produce paquetes aerodinámicos, paneles y zonas de impacto carbono-kevlar con respuesta rápida y acabado mate."
 sections:
   - hero
@@ -50,7 +52,7 @@ Los difusores traseros exigen precisión de geometría interna porque las estrí
 ### Alas y Placas Finales
 Las alas combinan un núcleo de perfil con placas finales que controlan el vórtice de punta. Laminamos el plano principal para rigidez torsional y terminamos las placas finales con un borde visual limpio, ya que son muy visibles. Los accesorios ajustables se encolan con insertos metálicos para cambios de configuración repetidos.
 
-![Componentes aerodinámicos de fibra de carbono a medida para automovilismo](/images/custom-carbon-fiber-parts.webp "Componentes Aerodinámicos de Fibra de Carbono para Automovilismo")
+![Carcasa de casco de moto de fibra de carbono producida por moldeo con prepreg](/images/carbon-fiber-motorcycle-helmet-shell.webp "Carcasa de casco de fibra de carbono")
 
 *Componentes aerodinámicos de fibra de carbono a medida, incluidos splitters, difusores y elementos de ala construidos según las especificaciones del equipo.*
 

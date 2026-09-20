@@ -6,6 +6,8 @@ robots:
 title: "Fabricant de pièces en fibre de carbone pour sport automobile"
 layout: "landing"
 translationKey: "motorsport-carbon-fiber-parts-manufacturer"
+hero_image: "/images/carbon-fiber-racing-steering-wheel.webp"
+image_alt: "Volant de course en fibre de carbone fabriqué pour le sport automobile"
 description: "TechCarbonWorks est un fabricant de pièces en fibre de carbone pour sport automobile produisant des packages aéro, des panneaux et des zones d'impact carbone-kevlar avec délai rapide et finition mate."
 sections:
   - hero
@@ -49,7 +51,7 @@ Les diffuseurs arrière exigent une précision de géométrie interne car les st
 ### Ailes et flancs
 Les ailes combinent une âme de profil avec des flancs qui contrôlent le vortex de bout. Nous stratifions le plan principal pour la rigidité en torsion et finissons les flancs avec un bord visuel net, car ils sont très visibles. Les raccords réglables sont collés avec des inserts métalliques pour des changements de réglage répétés.
 
-![Composants aéro en fibre de carbone personnalisés pour sport automobile](/images/custom-carbon-fiber-parts.webp "Composants aéro en fibre de carbone pour sport automobile")
+![Coque de casque de moto en fibre de carbone produite par moulage préimprégné](/images/carbon-fiber-motorcycle-helmet-shell.webp "Coque de casque en fibre de carbone")
 
 *Composants aéro en fibre de carbone personnalisés incluant splitter, diffuseurs et éléments d'aile construits aux spécifications des écuries.*
 

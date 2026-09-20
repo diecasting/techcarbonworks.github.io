@@ -78,7 +78,7 @@ Une structure carbone doit se connecter aux moteurs, roulements, engrenages et c
 
 Les robots de précision vivent ou meurent par le contrôle dimensionnel. Nous usinons par CNC tous les alésages de roulement critiques, les faces de montage et les motifs de trous après polymérisation via notre cellule d'[usinage CNC de pièces en fibre de carbone](/cnc-machining-carbon-fiber-parts/), puis les vérifions sur une machine à mesurer tridimensionnelle par rapport au schéma de référence (datum). Les poutres longues sont vérifiées pour la flèche, la torsion et la planéité pour qu'un portique suive vrai. Nous verrouillons les dossiers de stratifié et l'outillage à la libération de production pour qu'un lot récurrent reste dans l'enveloppe du premier article, ce qui compte quand un constructeur de machines intègre nos liens dans une chaîne cinématique calibrée.
 
-![Composants personnalisés en fibre de carbone pour applications robotiques](/images/custom-carbon-fiber-parts.webp "Composants en fibre de carbone pour robotique")
+![Bras robotisé industriel équipé de liens tubulaires en fibre de carbone](/images/robotic-arm-carbon-fiber-links.webp "Bras robotisé à liens en fibre de carbone")
 
 *Liens de robot et cadres d'effecteur finis, préparés pour inspection et expédition mondiale.*
 

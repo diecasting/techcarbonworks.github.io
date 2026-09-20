@@ -6,7 +6,8 @@ robots:
 title: "UAV-Carbonfaser-Komponenten-Hersteller"
 layout: "landing"
 translationKey: "uav-carbon-fiber-components-manufacturer"
-hero_image: "/images/uav-carbon-fiber-components.webp"
+hero_image: "/images/carbon-fiber-uav-tube-component.webp"
+image_alt: "Carbonfaser-Rohr mit integriertem angespritztem Befestigungsfuß für UAV-Armstrukturen"
 description: "TechCarbonWorks ist ein UAV-Carbonfaser-Komponenten-Hersteller, der Luftfahrzeugzellen, Arme, Motorhalterungen und Nutzlastplatten mit flugoptimierten Carbon-Laminaten fertigt."
 sections:
   - hero
@@ -52,7 +53,7 @@ Die zentrale Rumpfplatte oder Monocoque-Schale trägt die höchsten kombinierten
 ### Arme und Ausleger
 Rohr- und profilierte Arme übertragen Motorschub in die Luftfahrzeugzelle und wirken gleichzeitig als primäre Vibrationsleiter. Unsere Arme sind typischerweise rollgewickelt oder pressgeformt mit einem abgestimmten Faserwinkel (oft 45/90/0-Aufbauten), der sowohl Biegung als auch Torsion widersteht. Für VTOL- und Festflügler-Ausleger verlangen höhere Streckungen sorgfältige aeroelastische Analyse, um Flattern zu vermeiden.
 
-![Carbonfaser-Drohnenkomponenten werden für UAV-Luftfahrzeugzellen laminiert](/images/uav-carbon-fiber-components.webp "UAV-Carbonfaser-Drohnenkomponenten")
+![Carbonfaser-Rohrkomponente für UAV-Zellenstrukturen](/images/carbon-fiber-90-degree-elbow-tube.webp "Carbonfaser-Rohrkomponente für UAV")
 
 *Laminieren und Besäumen von Carbonfaser-Drohnenarmen, Motorhalterungen und Nutzlastplatten in unserer Composite-Werkstatt.*
 
@@ -91,7 +92,7 @@ Carbonfaser leitet Strom, was bedeutet, dass eine durchgängige Kohlehaut GPS-An
 
 Ein einzelner Prototyp ist einfach; tausend austauschbare Einheiten sind der wahre Test. Wir fixieren Laminatbücher, Werkzeuge und Aushärteparameter bei Produktionsfreigabe, sodass jedes Teil dem Erstmuster entspricht. Erstmusterprüfung (FAI) plus periodische Koordinatenmessgerät (CMM)-Kontrollen fangen Drift ab, bevor sie Ihre Linie erreicht. Wenn ein Flottenbetreiber einen beschädigten Arm im Feld austauscht, muss dieses Ersatzteil dimensionsal identisch mit dem Original sein — das ist der Standard, den wir als Ihr UAV-Carbonfaser-Komponenten-Hersteller halten.
 
-![Kundenspezifische Carbonfaser-Komponenten zur Prüfung bereit](/images/custom-carbon-fiber-parts.webp "Kundenspezifische Carbonfaser-UAV-Komponenten")
+![Geformente Carbonfaser-Komponente bereit zur Prüfung](/images/carbon-fiber-molded-cylinder-sleeve.webp "Kundenspezifische Carbonfaser-UAV-Komponente")
 
 *Fertige kundenspezifische Carbonfaser-UAV-Komponenten warten auf dimensionsale und visuelle Prüfung vor dem weltweiten Versand.*
 

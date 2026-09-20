@@ -34,7 +34,7 @@ After layup, the part is sealed under a vacuum bag with release films, breather 
 
 The bagged mold goes into an autoclave where heat and pressure are applied on a programmed cycle. A typical cure ramps to roughly one hundred twenty to one hundred eighty degrees Celsius under several bar of pressure, holds, then cools under control. Pressure consolidates the laminate and drives voids to the surface; heat completes the resin cross-link. The exact cycle depends on the prepreg system and part thickness, because thick parts need slower ramps to avoid internal thermal gradients. Our [autoclave curing overview](https://techcarbonworks.com/) on the main site shows typical equipment setups.
 
-![CNC trimming of cured carbon fiber components](/images/cnc-carbon-fiber-machining.webp "Precision CNC trimming after cure")
+![CNC flatbed cutting machine trimming cured carbon fiber components](/images/cnc-carbon-fiber-cutting-machine.webp "CNC Trimming of Carbon Fiber Components")
 
 *Cured laminates are trimmed and drilled on CNC machines to hold tight dimensional tolerances.*
 

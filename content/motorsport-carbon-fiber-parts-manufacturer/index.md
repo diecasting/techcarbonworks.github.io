@@ -2,6 +2,8 @@
 title: "Motorsport Carbon Fiber Parts Manufacturer"
 layout: "landing"
 translationKey: "motorsport-carbon-fiber-parts-manufacturer"
+hero_image: "/images/carbon-fiber-racing-steering-wheel.webp"
+image_alt: "Carbon fiber racing steering wheel manufactured for motorsport use"
 description: "TechCarbonWorks is a Motorsport Carbon Fiber Parts Manufacturer producing aero packages, panels and carbon-kevlar impact zones with quick-turn and matte finish."
 sections:
   - hero
@@ -45,7 +47,7 @@ Rear diffusers demand internal geometry accuracy because the strakes and expansi
 ### Wings and End Plates
 Wings combine an airfoil core with end plates that control tip vortex. We laminate the main plane for torsional stiffness and finish end plates to a clean visual edge, since they are highly visible. Adjustable fittings are bonded in with metal inserts for repeated setup changes.
 
-![Custom carbon fiber components for motorsport aero](/images/custom-carbon-fiber-parts.webp "Motorsport Carbon Fiber Aero Components")
+![Carbon fiber motorcycle helmet shell produced by prepreg moulding](/images/carbon-fiber-motorcycle-helmet-shell.webp "Carbon Fiber Motorcycle Helmet Shell")
 
 *Custom carbon fiber aero components including splitters, diffusers, and wing elements built to team specifications.*
 
