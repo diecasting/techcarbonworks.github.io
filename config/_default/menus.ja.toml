@@ -85,6 +85,7 @@
   name = "リソース"
   url = "/blog/"
   weight = 5
+  identifier = "blog"
 
 [[main]]
   name = "お問い合わせ"
@@ -203,6 +204,7 @@
   weight = 2
 
 [[footer]]
+  identifier = "blog"
   name = "炭素繊維ブログ"
   url = "/blog/"
   parent = "contact"

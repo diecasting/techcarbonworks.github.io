@@ -85,6 +85,7 @@
   name = "Ressourcen"
   url = "/blog/"
   weight = 5
+  identifier = "blog"
 
 [[main]]
   name = "Kontakt"
@@ -203,6 +204,7 @@
   weight = 2
 
 [[footer]]
+  identifier = "blog"
   name = "Carbonfaser-Blog"
   url = "/blog/"
   parent = "contact"
